@@ -24,7 +24,6 @@ TTFWeight: 400
 TTFWidth: 5
 LineGap: 102
 VLineGap: 0
-Panose: 2 0 5 0 0 0 0 2 0 2
 OS2TypoAscent: -102
 OS2TypoAOffset: 1
 OS2TypoDescent: 213
@@ -49,8 +48,6 @@ OS2SupYOff: 287
 OS2StrikeYSize: 102
 OS2StrikeYPos: 512
 OS2Vendor: 'CRLP'
-OS2CodePages: 00000043.00000000
-OS2UnicodeRanges: 00000002.00000000.00000000.00000000
 Lookup: 2 9 0 "'isol' Isolated Forms in Arabic lookup 0"  {"'isol' Isolated Forms in Arabic lookup 0 subtable"  } ['isol' ('arab' <'dflt' > ) ]
 Lookup: 2 1 0 "'fina' Terminal Forms in Arabic lookup 1"  {"'fina' Terminal Forms in Arabic lookup 1 subtable"  } ['fina' ('arab' <'dflt' > ) ]
 Lookup: 2 1 0 "'init' Initial Forms in Arabic lookup 2"  {"'init' Initial Forms in Arabic lookup 2 subtable"  } ['init' ('arab' <'dflt' > ) ]
