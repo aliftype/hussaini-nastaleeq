@@ -111147,7 +111147,7 @@ Fore
 Refer: 40 1729 N 1 0 0 1 0 0 2
 MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph439
 MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph772
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" ecircumflex
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.1
 EndChar
 
 StartChar: afii57417
@@ -111159,7 +111159,7 @@ AnchorPoint: "Anchor-37" 296 1761 basechar 0
 LayerCount: 2
 Fore
 Refer: 41 1731 N 1 0 0 1 0 0 2
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" ecircumflex.002
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.2
 EndChar
 
 StartChar: afii57443
