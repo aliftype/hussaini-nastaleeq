@@ -4,13 +4,12 @@ VERSION=0.02
 DIST=$(NAME)-$(VERSION)
 
 FF=fontforge -lang=ff
-FFLAGES=0x200000
 SCRIPT='Open($$1);\
        if ($$argc>3)\
          MergeFeature($$2);\
        endif;\
        SetFontNames("","","","","","$(VERSION)");\
-       Generate($$argv[$$argc-1], "", $(FFLAGES))'
+       Generate($$argv[$$argc-1], "", -1&4)'
 
 SFD=$(NAME:%=%.sfd)
 TTF=$(NAME:%=%.ttf)
