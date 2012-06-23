@@ -489,7 +489,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
   Coverage: 7 uni0622
   FCoverage: 8 glyph419
   FCoverage: 8 glyph844
-  FCoverage: 10 dagger.002
+  FCoverage: 8 glyph520
   FCoverage: 8 glyph465
   FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
   FCoverage: 8 glyph680
@@ -515,14 +515,14 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextual 17"  0 0 0 1
  1 0 1
   Coverage: 7 uni0622
-  FCoverage: 18 five.005 uni06AF.1
+  FCoverage: 18 glyph291 uni06AF.1
  1
   SeqLookup: 0 "Single Substitution lookup 210" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextual 16"  0 0 0 1
  1 0 2
   Coverage: 7 uni0622
-  FCoverage: 6 at.003
+  FCoverage: 8 glyph251
   FCoverage: 8 glyph836
  1
   SeqLookup: 0 "Single Substitution lookup 210" 
@@ -664,7 +664,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 104 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 8 glyph486
  1
   SeqLookup: 0 "Single Substitution lookup 209" 
@@ -678,21 +678,21 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 103 subtable"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 102 subtable"  0 0 0 1
  1 0 1
-  Coverage: 99 glyph109 glyph135 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 99 glyph109 glyph135 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 35 glyph468 glyph471 glyph485 glyph488
  1
   SeqLookup: 0 "Single Substitution lookup 207" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 101 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 26 glyph465 glyph466 glyph487
  1
   SeqLookup: 0 "Single Substitution lookup 206" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 100 subtable"  0 0 0 1
  1 0 2
-  Coverage: 18 five.005 uni06AF.1
+  Coverage: 18 glyph291 uni06AF.1
   FCoverage: 8 glyph465
   FCoverage: 595 glyph47 glyph62 glyph63 glyph64 glyph92 glyph93 glyph94 glyph105 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
@@ -700,21 +700,21 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 100 subtable"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 99 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 9 uni0628.8
  1
   SeqLookup: 0 "Single Substitution lookup 204" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 98 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 20 uni0628.7 uni0628.18
  1
   SeqLookup: 0 "Single Substitution lookup 203" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 97 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 8 glyph470
  1
   SeqLookup: 0 "Single Substitution lookup 202" 
@@ -728,22 +728,22 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 96 subtable" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 95 subtable"  0 0 0 1
  1 0 1
-  Coverage: 99 glyph109 glyph135 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 99 glyph109 glyph135 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 134 glyph467 glyph469 glyph472 glyph473 glyph474 glyph475 glyph476 glyph477 glyph478 glyph481 glyph482 glyph483 glyph484 glyph489 glyph490
  1
   SeqLookup: 0 "Single Substitution lookup 200" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 94 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 323 glyph683 glyph684 glyph685 glyph686 glyph687 glyph688 glyph689 glyph690 glyph691 glyph692 glyph693 glyph694 glyph695 glyph696 glyph697 glyph698 glyph699 glyph700 glyph701 glyph702 glyph703 glyph704 glyph705 glyph706 glyph707 glyph708 glyph709 glyph710 glyph711 glyph712 glyph713 glyph714 glyph715 glyph716 glyph717 glyph718
  1
   SeqLookup: 0 "Single Substitution lookup 199" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 93 subtable"  0 0 0 1
  1 0 1
-  Coverage: 15 D.003 uni06AF.8
-  FCoverage: 233 glyph798 glyph799 glyph800 glyph801 nine.010 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 B¦.008 C¦.008 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823
+  Coverage: 18 glyph304 uni06AF.8
+  FCoverage: 233 glyph798 glyph799 glyph800 glyph801 glyph802 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 glyph812 glyph813 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823
  1
   SeqLookup: 0 "Single Substitution lookup 198" 
 EndFPST
@@ -764,7 +764,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 90 subtable"  0 0 0 1
  1 0 1
   Coverage: 19 uni06A9.1 uni06AF.4
-  FCoverage: 233 glyph595 glyph596 glyph597 glyph598 nine.003 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
+  FCoverage: 233 glyph595 glyph596 glyph597 glyph598 glyph599 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
  1
   SeqLookup: 0 "Single Substitution lookup 195" 
 EndFPST
@@ -778,7 +778,7 @@ EndFPST
 ChainSub2: coverage "Contextual Chaining Substitution lookup 88 subtable"  0 0 0 1
  1 0 1
   Coverage: 17 glyph295 glyph313
-  FCoverage: 235 glyph517 glyph518 glyph519 dagger.002 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542
+  FCoverage: 233 glyph517 glyph518 glyph519 glyph520 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542
  1
   SeqLookup: 0 "Single Substitution lookup 193" 
 EndFPST
@@ -814,28 +814,28 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 86 subtable" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 85 subtable"  0 0 0 1
  1 0 1
-  Coverage: 18 five.005 uni06AF.1
+  Coverage: 18 glyph291 uni06AF.1
   FCoverage: 363 glyph62 glyph63 glyph64 glyph92 glyph93 glyph647 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph665 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682
  1
   SeqLookup: 0 "Single Substitution lookup 190" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 84 subtable"  0 0 0 1
  1 0 1
-  Coverage: 18 five.005 uni06AF.1
+  Coverage: 18 glyph291 uni06AF.1
   FCoverage: 7 glyph94
  1
   SeqLookup: 0 "Single Substitution lookup 189" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 83 subtable"  0 0 0 1
  1 0 1
-  Coverage: 108 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph387 glyph413 glyph439
+  Coverage: 108 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph387 glyph413 glyph439
   FCoverage: 17 glyph770 glyph771
  1
   SeqLookup: 0 "Single Substitution lookup 188" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 82 contextual 1"  0 0 0 1
  1 0 2
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 8 glyph665
   FCoverage: 249 glyph47 glyph94 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
@@ -843,7 +843,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 82 contextual
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 82 contextual 0"  0 0 0 1
  1 0 2
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 8 glyph647
   FCoverage: 249 glyph47 glyph94 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
@@ -851,35 +851,35 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 82 contextual
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 81 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 8 glyph108
  1
   SeqLookup: 0 "Single Substitution lookup 186" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 80 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 17 glyph106 glyph107
  1
   SeqLookup: 0 "Single Substitution lookup 185" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 79 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
-  FCoverage: 243 uni06BE.1 glyph798 glyph799 glyph800 glyph801 nine.010 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 B¦.008 C¦.008 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  FCoverage: 243 uni06BE.1 glyph798 glyph799 glyph800 glyph801 glyph802 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 glyph812 glyph813 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823
  1
   SeqLookup: 0 "Single Substitution lookup 184" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 78 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
-  FCoverage: 233 glyph772 glyph773 glyph774 glyph775 nine.009 glyph777 glyph778 glyph779 glyph780 glyph781 glyph782 glyph783 glyph784 glyph785 glyph786 glyph787 glyph788 glyph789 glyph790 glyph791 glyph792 glyph793 glyph794 glyph795 glyph796 glyph797
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  FCoverage: 233 glyph772 glyph773 glyph774 glyph775 glyph776 glyph777 glyph778 glyph779 glyph780 glyph781 glyph782 glyph783 glyph784 glyph785 glyph786 glyph787 glyph788 glyph789 glyph790 glyph791 glyph792 glyph793 glyph794 glyph795 glyph796 glyph797
  1
   SeqLookup: 0 "Single Substitution lookup 183" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 77 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 59 uni06C1.1 uni06C1.2 uni06C1.3 uni06C1.4 uni06C2.1 uni06C2.2
  1
   SeqLookup: 0 "Single Substitution lookup 182" 
@@ -893,84 +893,84 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 76 subtable" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 75 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 15 glyph96 glyph97
  1
   SeqLookup: 0 "Single Substitution lookup 180" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 74 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 241 glyph95 glyph744 glyph745 glyph746 glyph747 glyph748 glyph749 glyph750 glyph751 glyph752 glyph753 glyph754 glyph755 glyph756 glyph757 glyph758 glyph759 glyph760 glyph761 glyph762 glyph763 glyph764 glyph765 glyph766 glyph767 glyph768 glyph769
  1
   SeqLookup: 0 "Single Substitution lookup 179" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 73 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 58 glyph90 uni0642.001 glyph98 uni0648.001 glyph926 uni0624.1
  1
   SeqLookup: 0 "Single Substitution lookup 178" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 72 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 242 glyph89 glyph621 glyph622 glyph623 glyph624 uni0641.1 glyph626 glyph627 glyph628 glyph629 glyph630 glyph631 glyph632 glyph633 glyph634 glyph635 glyph636 glyph637 glyph638 glyph639 glyph640 glyph641 glyph642 glyph643 glyph644 glyph645 glyph646
  1
   SeqLookup: 0 "Single Substitution lookup 177" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 71 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
-  FCoverage: 249 glyph87 glyph88 glyph595 glyph596 glyph597 glyph598 nine.003 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  FCoverage: 249 glyph87 glyph88 glyph595 glyph596 glyph597 glyph598 glyph599 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
  1
   SeqLookup: 0 "Single Substitution lookup 176" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 70 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 233 glyph569 glyph570 glyph571 glyph572 glyph573 glyph574 glyph575 glyph576 glyph577 glyph578 glyph579 glyph580 glyph581 glyph582 glyph583 glyph584 glyph585 glyph586 glyph587 glyph588 glyph589 glyph590 glyph591 glyph592 glyph593 glyph594
  1
   SeqLookup: 0 "Single Substitution lookup 175" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 69 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 15 glyph85 glyph86
  1
   SeqLookup: 0 "Single Substitution lookup 174" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 68 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 261 glyph83 glyph84 glyph543 glyph544 uni0635.10 uni0635.11 uni0635.12 uni0635.13 glyph549 glyph550 glyph551 glyph552 uni0635.6 glyph554 uni0635.7 glyph556 uni0635.8 uni0635.9 glyph559 glyph560 glyph561 glyph562 glyph563 glyph564 glyph565 glyph566 glyph567 glyph568
  1
   SeqLookup: 0 "Single Substitution lookup 173" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 67 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
-  FCoverage: 251 glyph81 glyph82 glyph517 glyph518 glyph519 dagger.002 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  FCoverage: 249 glyph81 glyph82 glyph517 glyph518 glyph519 glyph520 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542
  1
   SeqLookup: 0 "Single Substitution lookup 172" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 66 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
-  FCoverage: 115 glyph65 uni0691.1 a.001 a.002 a.003 a.004 a.005 a.006 uni0631.1 h.001 h.002 h.003 uni0691.2 glyph78 glyph79 glyph80
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  FCoverage: 133 glyph65 uni0691.1 glyph67 glyph68 glyph69 glyph70 glyph71 glyph72 uni0631.1 glyph74 glyph75 glyph76 uni0691.2 glyph78 glyph79 glyph80
  1
   SeqLookup: 0 "Single Substitution lookup 171" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 65 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 265 glyph58 glyph59 glyph60 glyph61 glyph491 glyph492 glyph493 glyph494 glyph495 glyph496 glyph497 glyph498 glyph499 glyph500 glyph501 glyph502 glyph503 glyph504 glyph505 glyph506 glyph507 glyph508 glyph509 glyph510 glyph511 glyph512 glyph513 glyph514 glyph515 glyph516
  1
   SeqLookup: 0 "Single Substitution lookup 170" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 64 subtable"  0 0 0 1
  1 0 1
-  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph439
+  Coverage: 117 glyph109 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph439
   FCoverage: 79 glyph48 glyph49 glyph50 glyph51 glyph52 glyph53 glyph54 glyph55 glyph56 glyph57
  1
   SeqLookup: 0 "Single Substitution lookup 169" 
@@ -1219,7 +1219,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 43 subtable"  0 0 0 1
  1 0 1
   Coverage: 17 glyph661 glyph679
-  FCoverage: 233 glyph798 glyph799 glyph800 glyph801 nine.010 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 B¦.008 C¦.008 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823
+  FCoverage: 233 glyph798 glyph799 glyph800 glyph801 glyph802 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 glyph812 glyph813 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823
  1
   SeqLookup: 0 "Single Substitution lookup 148" 
 EndFPST
@@ -1233,7 +1233,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 41 subtable"  0 0 0 1
  1 0 1
   Coverage: 17 glyph655 glyph673
-  FCoverage: 233 glyph595 glyph596 glyph597 glyph598 nine.003 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
+  FCoverage: 233 glyph595 glyph596 glyph597 glyph598 glyph599 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
  1
   SeqLookup: 0 "Single Substitution lookup 146" 
 EndFPST
@@ -1254,7 +1254,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 38 subtable"  0 0 0 1
  1 0 1
   Coverage: 17 glyph652 glyph670
-  FCoverage: 235 glyph517 glyph518 glyph519 dagger.002 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542
+  FCoverage: 233 glyph517 glyph518 glyph519 glyph520 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542
  1
   SeqLookup: 0 "Single Substitution lookup 143" 
 EndFPST
@@ -1282,7 +1282,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 34 subtable"  0 0 0 1
  1 1 1
   Coverage: 8 glyph744
-  BCoverage: 2551 glyph109 glyph133 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph387 glyph413 glyph439 glyph465 glyph466 glyph467 glyph468 glyph469 glyph470 glyph471 glyph472 glyph473 glyph474 glyph475 glyph476 glyph477 glyph478 uni0628.7 uni0628.8 glyph481 glyph482 glyph483 glyph484 glyph485 glyph486 glyph487 glyph488 glyph489 glyph490 glyph491 glyph492 glyph493 glyph494 glyph495 glyph496 glyph497 glyph498 glyph499 glyph500 glyph501 glyph502 glyph503 glyph504 glyph505 glyph506 glyph507 glyph508 glyph509 glyph510 glyph511 glyph512 glyph513 glyph514 glyph515 glyph516 glyph517 glyph518 glyph519 dagger.002 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542 glyph543 glyph544 uni0635.10 uni0635.11 uni0635.12 uni0635.13 glyph549 glyph550 glyph551 glyph552 uni0635.6 glyph554 uni0635.7 glyph556 uni0635.8 uni0635.9 glyph559 glyph560 glyph561 glyph562 glyph563 glyph564 glyph565 glyph566 glyph567 glyph568 glyph569 glyph570 glyph571 glyph572 glyph573 glyph574 glyph575 glyph576 glyph577 glyph578 glyph579 glyph580 glyph581 glyph582 glyph583 glyph584 glyph585 glyph586 glyph587 glyph588 glyph589 glyph590 glyph591 glyph592 glyph593 glyph594 glyph595 glyph596 glyph597 glyph598 nine.003 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620 glyph621 glyph622 glyph623 glyph624 uni0641.1 glyph626 glyph627 glyph628 glyph629 glyph630 glyph631 glyph632 glyph633 glyph634 glyph635 glyph636 glyph637 glyph638 glyph639 glyph640 glyph641 glyph642 glyph643 glyph644 glyph645 glyph646 glyph744 glyph745 glyph746 glyph747 glyph748 glyph749 glyph750 glyph751 glyph752 glyph753 glyph754 glyph755 glyph756 glyph757 glyph758 glyph759 glyph760 glyph761 glyph762 glyph763 glyph764 glyph765 glyph766 glyph767 glyph768 glyph769 glyph770 glyph771 glyph772 glyph773 glyph774 glyph775 nine.009 glyph777 glyph778 glyph779 glyph780 glyph781 glyph782 glyph783 glyph784 glyph785 glyph786 glyph787 glyph788 glyph789 glyph790 glyph791 glyph792 glyph793 glyph794 glyph795 glyph796 glyph797 glyph798 glyph799 glyph800 glyph801 nine.010 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 B¦.008 C¦.008 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823 glyph912 glyph913 uni0628.15 glyph915 glyph916 uni0628.12 uni0628.13 glyph919
+  BCoverage: 2549 glyph109 glyph133 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph387 glyph413 glyph439 glyph465 glyph466 glyph467 glyph468 glyph469 glyph470 glyph471 glyph472 glyph473 glyph474 glyph475 glyph476 glyph477 glyph478 uni0628.7 uni0628.8 glyph481 glyph482 glyph483 glyph484 glyph485 glyph486 glyph487 glyph488 glyph489 glyph490 glyph491 glyph492 glyph493 glyph494 glyph495 glyph496 glyph497 glyph498 glyph499 glyph500 glyph501 glyph502 glyph503 glyph504 glyph505 glyph506 glyph507 glyph508 glyph509 glyph510 glyph511 glyph512 glyph513 glyph514 glyph515 glyph516 glyph517 glyph518 glyph519 glyph520 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542 glyph543 glyph544 uni0635.10 uni0635.11 uni0635.12 uni0635.13 glyph549 glyph550 glyph551 glyph552 uni0635.6 glyph554 uni0635.7 glyph556 uni0635.8 uni0635.9 glyph559 glyph560 glyph561 glyph562 glyph563 glyph564 glyph565 glyph566 glyph567 glyph568 glyph569 glyph570 glyph571 glyph572 glyph573 glyph574 glyph575 glyph576 glyph577 glyph578 glyph579 glyph580 glyph581 glyph582 glyph583 glyph584 glyph585 glyph586 glyph587 glyph588 glyph589 glyph590 glyph591 glyph592 glyph593 glyph594 glyph595 glyph596 glyph597 glyph598 glyph599 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620 glyph621 glyph622 glyph623 glyph624 uni0641.1 glyph626 glyph627 glyph628 glyph629 glyph630 glyph631 glyph632 glyph633 glyph634 glyph635 glyph636 glyph637 glyph638 glyph639 glyph640 glyph641 glyph642 glyph643 glyph644 glyph645 glyph646 glyph744 glyph745 glyph746 glyph747 glyph748 glyph749 glyph750 glyph751 glyph752 glyph753 glyph754 glyph755 glyph756 glyph757 glyph758 glyph759 glyph760 glyph761 glyph762 glyph763 glyph764 glyph765 glyph766 glyph767 glyph768 glyph769 glyph770 glyph771 glyph772 glyph773 glyph774 glyph775 glyph776 glyph777 glyph778 glyph779 glyph780 glyph781 glyph782 glyph783 glyph784 glyph785 glyph786 glyph787 glyph788 glyph789 glyph790 glyph791 glyph792 glyph793 glyph794 glyph795 glyph796 glyph797 glyph798 glyph799 glyph800 glyph801 glyph802 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 glyph812 glyph813 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823 glyph912 glyph913 uni0628.15 glyph915 glyph916 uni0628.12 uni0628.13 glyph919
   FCoverage: 9 uni0628.7
  1
   SeqLookup: 0 "Single Substitution lookup 139" 
@@ -1290,7 +1290,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 33 contextual 1"  0 0 0 1
  1 1 1
   Coverage: 8 glyph744
-  BCoverage: 666 five.005 uni06AF.1 glyph647 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph665 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682 glyph683 glyph684 glyph685 glyph686 glyph687 glyph688 glyph689 glyph690 glyph691 glyph692 glyph693 glyph694 glyph695 glyph696 glyph697 glyph698 glyph699 glyph700 glyph701 glyph702 glyph703 glyph704 glyph705 glyph706 glyph707 glyph708 glyph709 glyph710 glyph711 glyph712 glyph713 glyph714 glyph715 glyph716 glyph717 glyph718
+  BCoverage: 666 glyph291 uni06AF.1 glyph647 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph665 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682 glyph683 glyph684 glyph685 glyph686 glyph687 glyph688 glyph689 glyph690 glyph691 glyph692 glyph693 glyph694 glyph695 glyph696 glyph697 glyph698 glyph699 glyph700 glyph701 glyph702 glyph703 glyph704 glyph705 glyph706 glyph707 glyph708 glyph709 glyph710 glyph711 glyph712 glyph713 glyph714 glyph715 glyph716 glyph717 glyph718
   FCoverage: 273 glyph47 glyph62 glyph63 glyph64 glyph94 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
   SeqLookup: 0 "Single Substitution lookup 138" 
@@ -1298,7 +1298,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 33 contextual 0"  0 0 0 1
  1 1 1
   Coverage: 8 glyph744
-  BCoverage: 2551 glyph109 glyph133 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph387 glyph413 glyph439 glyph465 glyph466 glyph467 glyph468 glyph469 glyph470 glyph471 glyph472 glyph473 glyph474 glyph475 glyph476 glyph477 glyph478 uni0628.7 uni0628.8 glyph481 glyph482 glyph483 glyph484 glyph485 glyph486 glyph487 glyph488 glyph489 glyph490 glyph491 glyph492 glyph493 glyph494 glyph495 glyph496 glyph497 glyph498 glyph499 glyph500 glyph501 glyph502 glyph503 glyph504 glyph505 glyph506 glyph507 glyph508 glyph509 glyph510 glyph511 glyph512 glyph513 glyph514 glyph515 glyph516 glyph517 glyph518 glyph519 dagger.002 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542 glyph543 glyph544 uni0635.10 uni0635.11 uni0635.12 uni0635.13 glyph549 glyph550 glyph551 glyph552 uni0635.6 glyph554 uni0635.7 glyph556 uni0635.8 uni0635.9 glyph559 glyph560 glyph561 glyph562 glyph563 glyph564 glyph565 glyph566 glyph567 glyph568 glyph569 glyph570 glyph571 glyph572 glyph573 glyph574 glyph575 glyph576 glyph577 glyph578 glyph579 glyph580 glyph581 glyph582 glyph583 glyph584 glyph585 glyph586 glyph587 glyph588 glyph589 glyph590 glyph591 glyph592 glyph593 glyph594 glyph595 glyph596 glyph597 glyph598 nine.003 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620 glyph621 glyph622 glyph623 glyph624 uni0641.1 glyph626 glyph627 glyph628 glyph629 glyph630 glyph631 glyph632 glyph633 glyph634 glyph635 glyph636 glyph637 glyph638 glyph639 glyph640 glyph641 glyph642 glyph643 glyph644 glyph645 glyph646 glyph744 glyph745 glyph746 glyph747 glyph748 glyph749 glyph750 glyph751 glyph752 glyph753 glyph754 glyph755 glyph756 glyph757 glyph758 glyph759 glyph760 glyph761 glyph762 glyph763 glyph764 glyph765 glyph766 glyph767 glyph768 glyph769 glyph770 glyph771 glyph772 glyph773 glyph774 glyph775 nine.009 glyph777 glyph778 glyph779 glyph780 glyph781 glyph782 glyph783 glyph784 glyph785 glyph786 glyph787 glyph788 glyph789 glyph790 glyph791 glyph792 glyph793 glyph794 glyph795 glyph796 glyph797 glyph798 glyph799 glyph800 glyph801 nine.010 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 B¦.008 C¦.008 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823 glyph912 glyph913 uni0628.15 glyph915 glyph916 uni0628.12 uni0628.13 glyph919
+  BCoverage: 2549 glyph109 glyph133 glyph135 glyph161 glyph187 glyph213 glyph239 glyph265 glyph387 glyph413 glyph439 glyph465 glyph466 glyph467 glyph468 glyph469 glyph470 glyph471 glyph472 glyph473 glyph474 glyph475 glyph476 glyph477 glyph478 uni0628.7 uni0628.8 glyph481 glyph482 glyph483 glyph484 glyph485 glyph486 glyph487 glyph488 glyph489 glyph490 glyph491 glyph492 glyph493 glyph494 glyph495 glyph496 glyph497 glyph498 glyph499 glyph500 glyph501 glyph502 glyph503 glyph504 glyph505 glyph506 glyph507 glyph508 glyph509 glyph510 glyph511 glyph512 glyph513 glyph514 glyph515 glyph516 glyph517 glyph518 glyph519 glyph520 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542 glyph543 glyph544 uni0635.10 uni0635.11 uni0635.12 uni0635.13 glyph549 glyph550 glyph551 glyph552 uni0635.6 glyph554 uni0635.7 glyph556 uni0635.8 uni0635.9 glyph559 glyph560 glyph561 glyph562 glyph563 glyph564 glyph565 glyph566 glyph567 glyph568 glyph569 glyph570 glyph571 glyph572 glyph573 glyph574 glyph575 glyph576 glyph577 glyph578 glyph579 glyph580 glyph581 glyph582 glyph583 glyph584 glyph585 glyph586 glyph587 glyph588 glyph589 glyph590 glyph591 glyph592 glyph593 glyph594 glyph595 glyph596 glyph597 glyph598 glyph599 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620 glyph621 glyph622 glyph623 glyph624 uni0641.1 glyph626 glyph627 glyph628 glyph629 glyph630 glyph631 glyph632 glyph633 glyph634 glyph635 glyph636 glyph637 glyph638 glyph639 glyph640 glyph641 glyph642 glyph643 glyph644 glyph645 glyph646 glyph744 glyph745 glyph746 glyph747 glyph748 glyph749 glyph750 glyph751 glyph752 glyph753 glyph754 glyph755 glyph756 glyph757 glyph758 glyph759 glyph760 glyph761 glyph762 glyph763 glyph764 glyph765 glyph766 glyph767 glyph768 glyph769 glyph770 glyph771 glyph772 glyph773 glyph774 glyph775 glyph776 glyph777 glyph778 glyph779 glyph780 glyph781 glyph782 glyph783 glyph784 glyph785 glyph786 glyph787 glyph788 glyph789 glyph790 glyph791 glyph792 glyph793 glyph794 glyph795 glyph796 glyph797 glyph798 glyph799 glyph800 glyph801 glyph802 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 glyph812 glyph813 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823 glyph912 glyph913 uni0628.15 glyph915 glyph916 uni0628.12 uni0628.13 glyph919
   FCoverage: 595 glyph47 glyph62 glyph63 glyph64 glyph92 glyph93 glyph94 glyph105 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
   SeqLookup: 0 "Single Substitution lookup 138" 
@@ -1336,14 +1336,14 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 29 subtable"  0 0 0 1
  1 0 1
   Coverage: 116 glyph465 glyph491 glyph517 glyph543 glyph569 glyph595 glyph621 glyph647 glyph665 glyph719 glyph744 glyph772 glyph798
-  FCoverage: 243 uni06BE.1 glyph798 glyph799 glyph800 glyph801 nine.010 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 B¦.008 C¦.008 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823
+  FCoverage: 243 uni06BE.1 glyph798 glyph799 glyph800 glyph801 glyph802 glyph803 glyph804 glyph805 glyph806 glyph807 glyph808 glyph809 glyph810 glyph811 glyph812 glyph813 glyph814 glyph815 glyph816 glyph817 glyph818 glyph819 glyph820 glyph821 glyph822 glyph823
  1
   SeqLookup: 0 "Single Substitution lookup 134" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 28 subtable"  0 0 0 1
  1 0 1
   Coverage: 116 glyph465 glyph491 glyph517 glyph543 glyph569 glyph595 glyph621 glyph647 glyph665 glyph719 glyph744 glyph772 glyph798
-  FCoverage: 233 glyph772 glyph773 glyph774 glyph775 nine.009 glyph777 glyph778 glyph779 glyph780 glyph781 glyph782 glyph783 glyph784 glyph785 glyph786 glyph787 glyph788 glyph789 glyph790 glyph791 glyph792 glyph793 glyph794 glyph795 glyph796 glyph797
+  FCoverage: 233 glyph772 glyph773 glyph774 glyph775 glyph776 glyph777 glyph778 glyph779 glyph780 glyph781 glyph782 glyph783 glyph784 glyph785 glyph786 glyph787 glyph788 glyph789 glyph790 glyph791 glyph792 glyph793 glyph794 glyph795 glyph796 glyph797
  1
   SeqLookup: 0 "Single Substitution lookup 133" 
 EndFPST
@@ -1416,7 +1416,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 20 subtable"  0 0 0 1
  1 0 1
   Coverage: 116 glyph465 glyph491 glyph517 glyph543 glyph569 glyph595 glyph621 glyph647 glyph665 glyph719 glyph744 glyph772 glyph798
-  FCoverage: 249 glyph87 glyph88 glyph595 glyph596 glyph597 glyph598 nine.003 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
+  FCoverage: 249 glyph87 glyph88 glyph595 glyph596 glyph597 glyph598 glyph599 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
  1
   SeqLookup: 0 "Single Substitution lookup 125" 
 EndFPST
@@ -1444,14 +1444,14 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 16 subtable"  0 0 0 1
  1 0 1
   Coverage: 116 glyph465 glyph491 glyph517 glyph543 glyph569 glyph595 glyph621 glyph647 glyph665 glyph719 glyph744 glyph772 glyph798
-  FCoverage: 251 glyph81 glyph82 glyph517 glyph518 glyph519 dagger.002 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542
+  FCoverage: 249 glyph81 glyph82 glyph517 glyph518 glyph519 glyph520 glyph521 glyph522 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 glyph531 glyph532 glyph533 glyph534 glyph535 glyph536 glyph537 glyph538 glyph539 glyph540 glyph541 glyph542
  1
   SeqLookup: 0 "Single Substitution lookup 121" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 15 subtable"  0 0 0 1
  1 0 1
   Coverage: 116 glyph465 glyph491 glyph517 glyph543 glyph569 glyph595 glyph621 glyph647 glyph665 glyph719 glyph744 glyph772 glyph798
-  FCoverage: 115 glyph65 uni0691.1 a.001 a.002 a.003 a.004 a.005 a.006 uni0631.1 h.001 h.002 h.003 uni0691.2 glyph78 glyph79 glyph80
+  FCoverage: 133 glyph65 uni0691.1 glyph67 glyph68 glyph69 glyph70 glyph71 glyph72 uni0631.1 glyph74 glyph75 glyph76 uni0691.2 glyph78 glyph79 glyph80
  1
   SeqLookup: 0 "Single Substitution lookup 120" 
 EndFPST
@@ -1504,42 +1504,42 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 11 subtable"  0 0 0 1
  1 1 0
   Coverage: 8 glyph106
-  BCoverage: 72 glyph109 glyph265 five.005 uni06AF.1 glyph363 glyph647 glyph665 glyph719
+  BCoverage: 72 glyph109 glyph265 glyph291 uni06AF.1 glyph363 glyph647 glyph665 glyph719
  1
   SeqLookup: 0 "Single Substitution lookup 116" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 10 subtable"  0 0 0 1
  1 1 0
   Coverage: 29 uni06C1.1 uni06C1.2 uni06C2.1
-  BCoverage: 135 glyph161 glyph213 glyph265 five.005 uni06AF.1 glyph363 glyph387 glyph413 glyph517 glyph569 glyph621 glyph647 glyph665 glyph719 glyph772
+  BCoverage: 135 glyph161 glyph213 glyph265 glyph291 uni06AF.1 glyph363 glyph387 glyph413 glyph517 glyph569 glyph621 glyph647 glyph665 glyph719 glyph772
  1
   SeqLookup: 0 "Single Substitution lookup 115" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 9 subtable"  0 0 0 1
  1 1 0
-  Coverage: 27 uni0631.1 h.001 h.002 h.003
+  Coverage: 33 uni0631.1 glyph74 glyph75 glyph76
   BCoverage: 8 glyph772
  1
   SeqLookup: 0 "Single Substitution lookup 114" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 8 subtable"  0 0 0 1
  1 1 0
-  Coverage: 27 uni0631.1 h.001 h.002 h.003
+  Coverage: 33 uni0631.1 glyph74 glyph75 glyph76
   BCoverage: 53 glyph161 glyph187 glyph413 glyph465 glyph517 glyph543
  1
   SeqLookup: 0 "Single Substitution lookup 113" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 7 subtable"  0 0 0 1
  1 1 0
-  Coverage: 27 uni0631.1 h.001 h.002 h.003
-  BCoverage: 72 glyph109 glyph135 five.005 uni06AF.1 glyph363 glyph647 glyph665 glyph719
+  Coverage: 33 uni0631.1 glyph74 glyph75 glyph76
+  BCoverage: 72 glyph109 glyph135 glyph291 uni06AF.1 glyph363 glyph647 glyph665 glyph719
  1
   SeqLookup: 0 "Single Substitution lookup 112" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 6 subtable"  0 0 0 1
  1 1 0
   Coverage: 39 glyph53 glyph54 glyph55 glyph56 glyph57
-  BCoverage: 35 glyph109 glyph265 five.005 glyph363
+  BCoverage: 35 glyph109 glyph265 glyph291 glyph363
  1
   SeqLookup: 0 "Single Substitution lookup 111" 
 EndFPST
@@ -1757,7 +1757,7 @@ EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 4"  0 0 0 1
  1 0 4
   Coverage: 8 glyph841
-  FCoverage: 8 nine.009
+  FCoverage: 8 glyph776
   FCoverage: 8 glyph507
   FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
   FCoverage: 8 glyph791
@@ -2047,7 +2047,7 @@ EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 2"  0 0 0 1
  1 0 2
   Coverage: 26 glyph839 glyph840 glyph841
-  FCoverage: 8 nine.010
+  FCoverage: 8 glyph802
   FCoverage: 8 glyph510
  1
   SeqLookup: 0 "Mark to base attachment lookup 190" 
@@ -2612,7 +2612,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 78 contextual 0"  
  1 2 2
   Coverage: 26 glyph839 glyph840 glyph841
   BCoverage: 8 glyph466
-  BCoverage: 73 glyph138 glyph164 glyph365 glyph390 glyph494 dagger.002 glyph722 glyph747
+  BCoverage: 71 glyph138 glyph164 glyph365 glyph390 glyph494 glyph520 glyph722 glyph747
   FCoverage: 8 glyph468
   FCoverage: 26 glyph839 glyph840 glyph841
  1
@@ -3077,7 +3077,7 @@ EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 5"  0 0 0 1
  1 2 2
   Coverage: 26 glyph837 glyph838 glyph842
-  BCoverage: 10 dagger.002
+  BCoverage: 8 glyph520
   BCoverage: 8 glyph497
   FCoverage: 8 glyph465
   FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
@@ -3087,7 +3087,7 @@ EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 4"  0 0 0 1
  1 3 2
   Coverage: 26 glyph837 glyph838 glyph842
-  BCoverage: 10 dagger.002
+  BCoverage: 8 glyph520
   BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
   BCoverage: 8 glyph497
   FCoverage: 17 glyph465 glyph487
@@ -3243,7 +3243,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 1"  
  1 2 1
   Coverage: 35 glyph836 glyph837 glyph838 glyph842
   BCoverage: 8 glyph465
-  BCoverage: 37 eight.003 uni06AF.2 glyph649 glyph667
+  BCoverage: 36 glyph292 uni06AF.2 glyph649 glyph667
   FCoverage: 7 glyph94
  1
   SeqLookup: 0 "Mark to base attachment lookup 150" 
@@ -3279,7 +3279,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 64 contextual 1"  
  1 2 1
   Coverage: 35 glyph836 glyph837 glyph838 glyph842
   BCoverage: 8 glyph465
-  BCoverage: 37 eight.003 uni06AF.2 glyph649 glyph667
+  BCoverage: 36 glyph292 uni06AF.2 glyph649 glyph667
   FCoverage: 241 glyph47 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
   SeqLookup: 0 "Mark to base attachment lookup 149" 
@@ -3319,7 +3319,7 @@ EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 61 subtable"  0 0 0 1
  1 0 2
   Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
-  FCoverage: 233 glyph595 glyph596 glyph597 glyph598 nine.003 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
+  FCoverage: 233 glyph595 glyph596 glyph597 glyph598 glyph599 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
   FCoverage: 8 glyph836
  1
   SeqLookup: 0 "Mark to base attachment lookup 146" 
@@ -3546,7 +3546,7 @@ EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 5"  0 0 0 1
  1 2 0
   Coverage: 17 glyph838 glyph930
-  BCoverage: 100 glyph518 glyph519 dagger.002 glyph521 glyph522 glyph528 glyph529 glyph531 glyph537 glyph538 glyph541
+  BCoverage: 98 glyph518 glyph519 glyph520 glyph521 glyph522 glyph528 glyph529 glyph531 glyph537 glyph538 glyph541
   BCoverage: 44 glyph141 glyph497 glyph601 glyph687 glyph705
  1
   SeqLookup: 0 "Mark to base attachment lookup 140" 
@@ -3554,7 +3554,7 @@ EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 4"  0 0 0 1
  1 3 0
   Coverage: 17 glyph838 glyph930
-  BCoverage: 100 glyph518 glyph519 dagger.002 glyph521 glyph522 glyph528 glyph529 glyph531 glyph537 glyph538 glyph541
+  BCoverage: 98 glyph518 glyph519 glyph520 glyph521 glyph522 glyph528 glyph529 glyph531 glyph537 glyph538 glyph541
   BCoverage: 35 glyph836 glyph839 glyph840 glyph841
   BCoverage: 17 glyph141 glyph497
  1
@@ -3618,7 +3618,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 17" 
   Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
   BCoverage: 8 glyph487
   BCoverage: 8 glyph838
-  BCoverage: 10 dagger.002
+  BCoverage: 8 glyph520
  1
   SeqLookup: 0 "Mark to base attachment lookup 139" 
 EndFPST
@@ -3938,7 +3938,7 @@ EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 50 subtable"  0 0 0 1
  1 0 1
   Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
-  FCoverage: 57 uni0691.1 a.001 a.002 a.004 a.005 a.006 h.001 h.002 h.003
+  FCoverage: 73 uni0691.1 glyph67 glyph68 glyph70 glyph71 glyph72 glyph74 glyph75 glyph76
  1
   SeqLookup: 0 "Mark to base attachment lookup 135" 
 EndFPST
@@ -4018,7 +4018,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 38 contextual 0"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 27"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph469
   FCoverage: 8 glyph508
   FCoverage: 8 glyph817
@@ -4027,7 +4027,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 27
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 26"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph485
   FCoverage: 8 glyph482
   FCoverage: 8 glyph817
@@ -4036,7 +4036,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 26
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 25"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph485
   FCoverage: 8 glyph481
   FCoverage: 8 glyph791
@@ -4045,7 +4045,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 25
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 24"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph732
   FCoverage: 8 glyph744
   FCoverage: 8 glyph738
@@ -4054,7 +4054,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 24
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 23"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph717
   FCoverage: 8 glyph770
   FCoverage: 8 glyph738
@@ -4063,7 +4063,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 23
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 22"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph699
   FCoverage: 8 glyph770
   FCoverage: 8 glyph738
@@ -4072,7 +4072,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 22
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 21"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph468
   FCoverage: 8 glyph465
   FCoverage: 8 glyph738
@@ -4081,7 +4081,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 21
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 20"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph818
   FCoverage: 8 glyph469
   FCoverage: 8 glyph510
@@ -4090,7 +4090,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 20
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 19"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph792
   FCoverage: 8 glyph469
   FCoverage: 8 glyph510
@@ -4099,7 +4099,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 19
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 18"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph537
   FCoverage: 8 glyph469
   FCoverage: 8 glyph510
@@ -4108,7 +4108,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 18
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 17"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph465
   FCoverage: 8 glyph723
   FCoverage: 8 glyph510
@@ -4117,7 +4117,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 17
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 16"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph739
   FCoverage: 8 glyph469
   FCoverage: 8 glyph510
@@ -4126,7 +4126,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 16
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 15"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph482
   FCoverage: 8 glyph818
   FCoverage: 8 glyph484
@@ -4135,7 +4135,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 15
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 14"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph770
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
@@ -4144,7 +4144,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 14
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 13"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph745
   FCoverage: 8 glyph485
   FCoverage: 8 glyph484
@@ -4153,7 +4153,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 13
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 12"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph797
   FCoverage: 8 glyph713
   FCoverage: 8 glyph484
@@ -4162,7 +4162,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 12
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 11"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph797
   FCoverage: 8 glyph695
   FCoverage: 8 glyph484
@@ -4171,7 +4171,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 11
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 10"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph720
   FCoverage: 8 glyph485
   FCoverage: 8 glyph484
@@ -4180,7 +4180,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 10
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 9"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph465
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
@@ -4189,7 +4189,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 9"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 8"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph665
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
@@ -4198,7 +4198,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 8"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 7"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph647
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
@@ -4207,7 +4207,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 7"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 6"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph769
   FCoverage: 8 glyph713
   FCoverage: 8 glyph484
@@ -4216,7 +4216,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 6"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 5"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph769
   FCoverage: 8 glyph695
   FCoverage: 8 glyph484
@@ -4225,7 +4225,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 5"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 4"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph490
   FCoverage: 8 glyph713
   FCoverage: 8 glyph484
@@ -4234,7 +4234,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 4"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 3"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph490
   FCoverage: 8 glyph695
   FCoverage: 8 glyph484
@@ -4243,7 +4243,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 3"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 2"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph471
   FCoverage: 8 glyph537
   FCoverage: 8 glyph484
@@ -4252,7 +4252,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 2"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 1"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph469
   FCoverage: 8 glyph511
   FCoverage: 8 glyph484
@@ -4261,7 +4261,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 1"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 37 contextual 0"  0 0 0 1
  1 0 3
-  Coverage: 272 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 five.005 eight.003 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
+  Coverage: 271 glyph109 glyph110 glyph111 glyph114 glyph115 glyph124 glyph125 glyph128 glyph133 glyph134 glyph181 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph337 glyph338 glyph339 glyph343 glyph355 glyph356 glyph357 glyph361 glyph365 glyph375 glyph378 glyph382 glyph388 glyph407 glyph414
   FCoverage: 8 glyph466
   FCoverage: 8 glyph485
   FCoverage: 8 glyph484
@@ -4310,7 +4310,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 35 subtable"  0 
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 34 contextual 2"  0 0 0 1
  1 0 2
-  Coverage: 1096 glyph109 glyph111 glyph112 glyph114 glyph118 glyph119 glyph124 glyph125 glyph132 glyph133 glyph135 glyph138 glyph139 glyph141 glyph145 glyph146 glyph148 glyph151 glyph152 glyph159 glyph161 glyph164 glyph165 glyph167 glyph171 glyph172 glyph174 glyph177 glyph178 glyph185 glyph211 glyph213 glyph216 glyph217 glyph219 glyph223 glyph224 glyph226 glyph229 glyph230 glyph237 glyph239 uni0639.2 uni0639.3 greater.004 glyph250 glyph252 glyph255 glyph256 glyph263 glyph265 glyph268 glyph269 glyph271 glyph275 glyph276 glyph278 glyph281 glyph282 glyph289 five.005 eight.003 uni06AF.1 uni06AF.2 glyph328 glyph329 glyph330 glyph334 glyph335 glyph336 glyph337 glyph338 glyph343 glyph346 glyph347 glyph348 glyph352 glyph353 glyph354 glyph355 glyph356 glyph361 glyph363 glyph365 glyph366 glyph368 glyph372 glyph373 glyph375 glyph378 glyph379 glyph387 glyph390 glyph391 glyph393 glyph397 glyph398 glyph400 glyph403 glyph404 glyph411 glyph413 glyph416 glyph417 glyph419 glyph423 glyph424 glyph426 glyph429 glyph430 glyph437 glyph439 glyph442 glyph443 glyph445 glyph449 glyph450 glyph452 glyph455 glyph456 glyph463
+  Coverage: 1092 glyph109 glyph111 glyph112 glyph114 glyph118 glyph119 glyph124 glyph125 glyph132 glyph133 glyph135 glyph138 glyph139 glyph141 glyph145 glyph146 glyph148 glyph151 glyph152 glyph159 glyph161 glyph164 glyph165 glyph167 glyph171 glyph172 glyph174 glyph177 glyph178 glyph185 glyph211 glyph213 glyph216 glyph217 glyph219 glyph223 glyph224 glyph226 glyph229 glyph230 glyph237 glyph239 uni0639.2 uni0639.3 glyph249 glyph250 glyph252 glyph255 glyph256 glyph263 glyph265 glyph268 glyph269 glyph271 glyph275 glyph276 glyph278 glyph281 glyph282 glyph289 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph328 glyph329 glyph330 glyph334 glyph335 glyph336 glyph337 glyph338 glyph343 glyph346 glyph347 glyph348 glyph352 glyph353 glyph354 glyph355 glyph356 glyph361 glyph363 glyph365 glyph366 glyph368 glyph372 glyph373 glyph375 glyph378 glyph379 glyph387 glyph390 glyph391 glyph393 glyph397 glyph398 glyph400 glyph403 glyph404 glyph411 glyph413 glyph416 glyph417 glyph419 glyph423 glyph424 glyph426 glyph429 glyph430 glyph437 glyph439 glyph442 glyph443 glyph445 glyph449 glyph450 glyph452 glyph455 glyph456 glyph463
   FCoverage: 125 glyph465 glyph491 glyph517 glyph595 glyph621 glyph647 glyph648 glyph665 glyph666 glyph719 glyph744 glyph770 glyph772 glyph798
   FCoverage: 8 glyph681
  1
@@ -4318,7 +4318,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 34 contextual 2"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 34 contextual 1"  0 0 0 1
  1 0 2
-  Coverage: 1096 glyph109 glyph111 glyph112 glyph114 glyph118 glyph119 glyph124 glyph125 glyph132 glyph133 glyph135 glyph138 glyph139 glyph141 glyph145 glyph146 glyph148 glyph151 glyph152 glyph159 glyph161 glyph164 glyph165 glyph167 glyph171 glyph172 glyph174 glyph177 glyph178 glyph185 glyph211 glyph213 glyph216 glyph217 glyph219 glyph223 glyph224 glyph226 glyph229 glyph230 glyph237 glyph239 uni0639.2 uni0639.3 greater.004 glyph250 glyph252 glyph255 glyph256 glyph263 glyph265 glyph268 glyph269 glyph271 glyph275 glyph276 glyph278 glyph281 glyph282 glyph289 five.005 eight.003 uni06AF.1 uni06AF.2 glyph328 glyph329 glyph330 glyph334 glyph335 glyph336 glyph337 glyph338 glyph343 glyph346 glyph347 glyph348 glyph352 glyph353 glyph354 glyph355 glyph356 glyph361 glyph363 glyph365 glyph366 glyph368 glyph372 glyph373 glyph375 glyph378 glyph379 glyph387 glyph390 glyph391 glyph393 glyph397 glyph398 glyph400 glyph403 glyph404 glyph411 glyph413 glyph416 glyph417 glyph419 glyph423 glyph424 glyph426 glyph429 glyph430 glyph437 glyph439 glyph442 glyph443 glyph445 glyph449 glyph450 glyph452 glyph455 glyph456 glyph463
+  Coverage: 1092 glyph109 glyph111 glyph112 glyph114 glyph118 glyph119 glyph124 glyph125 glyph132 glyph133 glyph135 glyph138 glyph139 glyph141 glyph145 glyph146 glyph148 glyph151 glyph152 glyph159 glyph161 glyph164 glyph165 glyph167 glyph171 glyph172 glyph174 glyph177 glyph178 glyph185 glyph211 glyph213 glyph216 glyph217 glyph219 glyph223 glyph224 glyph226 glyph229 glyph230 glyph237 glyph239 uni0639.2 uni0639.3 glyph249 glyph250 glyph252 glyph255 glyph256 glyph263 glyph265 glyph268 glyph269 glyph271 glyph275 glyph276 glyph278 glyph281 glyph282 glyph289 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph328 glyph329 glyph330 glyph334 glyph335 glyph336 glyph337 glyph338 glyph343 glyph346 glyph347 glyph348 glyph352 glyph353 glyph354 glyph355 glyph356 glyph361 glyph363 glyph365 glyph366 glyph368 glyph372 glyph373 glyph375 glyph378 glyph379 glyph387 glyph390 glyph391 glyph393 glyph397 glyph398 glyph400 glyph403 glyph404 glyph411 glyph413 glyph416 glyph417 glyph419 glyph423 glyph424 glyph426 glyph429 glyph430 glyph437 glyph439 glyph442 glyph443 glyph445 glyph449 glyph450 glyph452 glyph455 glyph456 glyph463
   FCoverage: 125 glyph465 glyph491 glyph517 glyph595 glyph621 glyph647 glyph648 glyph665 glyph666 glyph719 glyph744 glyph770 glyph772 glyph798
   FCoverage: 8 glyph663
  1
@@ -4326,7 +4326,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 34 contextual 1"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 34 contextual 0"  0 0 0 1
  1 0 2
-  Coverage: 1096 glyph109 glyph111 glyph112 glyph114 glyph118 glyph119 glyph124 glyph125 glyph132 glyph133 glyph135 glyph138 glyph139 glyph141 glyph145 glyph146 glyph148 glyph151 glyph152 glyph159 glyph161 glyph164 glyph165 glyph167 glyph171 glyph172 glyph174 glyph177 glyph178 glyph185 glyph211 glyph213 glyph216 glyph217 glyph219 glyph223 glyph224 glyph226 glyph229 glyph230 glyph237 glyph239 uni0639.2 uni0639.3 greater.004 glyph250 glyph252 glyph255 glyph256 glyph263 glyph265 glyph268 glyph269 glyph271 glyph275 glyph276 glyph278 glyph281 glyph282 glyph289 five.005 eight.003 uni06AF.1 uni06AF.2 glyph328 glyph329 glyph330 glyph334 glyph335 glyph336 glyph337 glyph338 glyph343 glyph346 glyph347 glyph348 glyph352 glyph353 glyph354 glyph355 glyph356 glyph361 glyph363 glyph365 glyph366 glyph368 glyph372 glyph373 glyph375 glyph378 glyph379 glyph387 glyph390 glyph391 glyph393 glyph397 glyph398 glyph400 glyph403 glyph404 glyph411 glyph413 glyph416 glyph417 glyph419 glyph423 glyph424 glyph426 glyph429 glyph430 glyph437 glyph439 glyph442 glyph443 glyph445 glyph449 glyph450 glyph452 glyph455 glyph456 glyph463
+  Coverage: 1092 glyph109 glyph111 glyph112 glyph114 glyph118 glyph119 glyph124 glyph125 glyph132 glyph133 glyph135 glyph138 glyph139 glyph141 glyph145 glyph146 glyph148 glyph151 glyph152 glyph159 glyph161 glyph164 glyph165 glyph167 glyph171 glyph172 glyph174 glyph177 glyph178 glyph185 glyph211 glyph213 glyph216 glyph217 glyph219 glyph223 glyph224 glyph226 glyph229 glyph230 glyph237 glyph239 uni0639.2 uni0639.3 glyph249 glyph250 glyph252 glyph255 glyph256 glyph263 glyph265 glyph268 glyph269 glyph271 glyph275 glyph276 glyph278 glyph281 glyph282 glyph289 glyph291 glyph292 uni06AF.1 uni06AF.2 glyph328 glyph329 glyph330 glyph334 glyph335 glyph336 glyph337 glyph338 glyph343 glyph346 glyph347 glyph348 glyph352 glyph353 glyph354 glyph355 glyph356 glyph361 glyph363 glyph365 glyph366 glyph368 glyph372 glyph373 glyph375 glyph378 glyph379 glyph387 glyph390 glyph391 glyph393 glyph397 glyph398 glyph400 glyph403 glyph404 glyph411 glyph413 glyph416 glyph417 glyph419 glyph423 glyph424 glyph426 glyph429 glyph430 glyph437 glyph439 glyph442 glyph443 glyph445 glyph449 glyph450 glyph452 glyph455 glyph456 glyph463
   FCoverage: 125 glyph465 glyph491 glyph517 glyph595 glyph621 glyph647 glyph648 glyph665 glyph666 glyph719 glyph744 glyph770 glyph772 glyph798
   FCoverage: 8 glyph738
  1
@@ -4438,15 +4438,15 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 30 contextual 0"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 29 subtable"  0 0 0 1
  1 0 2
-  Coverage: 1256 glyph109 glyph112 glyph114 glyph115 glyph117 glyph118 glyph119 glyph124 glyph125 glyph128 glyph133 glyph134 glyph135 glyph139 glyph141 glyph144 glyph145 glyph146 glyph148 glyph151 glyph152 glyph155 glyph160 glyph161 glyph165 glyph167 glyph170 glyph171 glyph172 glyph174 glyph177 glyph178 glyph181 glyph186 uni0635.3 glyph200 glyph203 glyph207 glyph213 glyph217 glyph219 glyph222 glyph223 glyph224 glyph226 glyph229 glyph230 glyph233 glyph238 glyph239 uni0639.3 glyph245 glyph248 greater.004 glyph250 glyph252 glyph255 glyph256 glyph259 glyph264 glyph265 glyph269 glyph271 glyph274 glyph275 glyph276 glyph278 glyph281 glyph282 glyph285 glyph290 five.005 uni06AF.1 glyph329 glyph330 glyph331 glyph333 glyph334 glyph335 glyph336 glyph337 glyph338 glyph339 glyph344 glyph347 glyph348 glyph349 glyph351 glyph352 glyph353 glyph354 glyph355 glyph356 glyph357 glyph362 glyph363 glyph366 glyph368 glyph371 glyph372 glyph373 glyph375 glyph378 glyph379 glyph382 glyph386 glyph387 glyph391 glyph393 glyph396 glyph397 glyph398 glyph400 glyph403 glyph404 glyph407 glyph412 glyph413 glyph417 glyph419 glyph422 glyph423 glyph424 glyph426 glyph429 glyph430 glyph433 glyph438 glyph439 glyph443 glyph445 glyph448 glyph449 glyph450 glyph452 glyph455 glyph456 glyph459 glyph464
-  FCoverage: 119 glyph469 glyph495 glyph521 uni0635.12 glyph573 nine.003 uni0641.1 glyph686 glyph704 glyph723 glyph748 nine.009 nine.010
+  Coverage: 1253 glyph109 glyph112 glyph114 glyph115 glyph117 glyph118 glyph119 glyph124 glyph125 glyph128 glyph133 glyph134 glyph135 glyph139 glyph141 glyph144 glyph145 glyph146 glyph148 glyph151 glyph152 glyph155 glyph160 glyph161 glyph165 glyph167 glyph170 glyph171 glyph172 glyph174 glyph177 glyph178 glyph181 glyph186 uni0635.3 glyph200 glyph203 glyph207 glyph213 glyph217 glyph219 glyph222 glyph223 glyph224 glyph226 glyph229 glyph230 glyph233 glyph238 glyph239 uni0639.3 glyph245 glyph248 glyph249 glyph250 glyph252 glyph255 glyph256 glyph259 glyph264 glyph265 glyph269 glyph271 glyph274 glyph275 glyph276 glyph278 glyph281 glyph282 glyph285 glyph290 glyph291 uni06AF.1 glyph329 glyph330 glyph331 glyph333 glyph334 glyph335 glyph336 glyph337 glyph338 glyph339 glyph344 glyph347 glyph348 glyph349 glyph351 glyph352 glyph353 glyph354 glyph355 glyph356 glyph357 glyph362 glyph363 glyph366 glyph368 glyph371 glyph372 glyph373 glyph375 glyph378 glyph379 glyph382 glyph386 glyph387 glyph391 glyph393 glyph396 glyph397 glyph398 glyph400 glyph403 glyph404 glyph407 glyph412 glyph413 glyph417 glyph419 glyph422 glyph423 glyph424 glyph426 glyph429 glyph430 glyph433 glyph438 glyph439 glyph443 glyph445 glyph448 glyph449 glyph450 glyph452 glyph455 glyph456 glyph459 glyph464
+  FCoverage: 119 glyph469 glyph495 glyph521 uni0635.12 glyph573 glyph599 uni0641.1 glyph686 glyph704 glyph723 glyph748 glyph776 glyph802
   FCoverage: 8 glyph510
  1
   SeqLookup: 0 "Single Positioning lookup 122" 
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 28 subtable"  0 0 0 1
  1 0 2
-  Coverage: 1130 glyph109 glyph110 glyph112 glyph114 glyph117 glyph118 glyph119 glyph124 glyph125 glyph133 glyph134 glyph135 glyph136 glyph139 glyph141 glyph144 glyph145 glyph146 glyph148 glyph151 glyph152 glyph160 glyph161 glyph162 glyph165 glyph167 glyph171 glyph172 glyph174 glyph177 glyph178 glyph186 uni0635.3 glyph213 glyph214 glyph217 glyph219 glyph222 glyph223 glyph224 glyph226 glyph229 glyph230 glyph239 glyph240 uni0639.3 glyph245 greater.004 glyph250 glyph252 glyph255 glyph256 glyph265 glyph266 glyph269 glyph271 glyph274 glyph275 glyph276 glyph278 glyph281 glyph282 glyph290 five.005 uni06AF.1 glyph327 glyph329 glyph330 glyph333 glyph334 glyph335 glyph336 glyph337 glyph338 glyph344 glyph345 glyph347 glyph348 glyph351 glyph352 glyph353 glyph354 glyph355 glyph356 glyph363 glyph364 glyph366 glyph368 glyph371 glyph372 glyph373 glyph375 glyph378 glyph379 glyph386 glyph387 glyph388 glyph391 glyph393 glyph397 glyph398 glyph400 glyph403 glyph404 glyph412 glyph413 glyph414 glyph417 glyph419 glyph423 glyph424 glyph426 glyph429 glyph430 glyph438 glyph439 glyph440 glyph443 glyph445 glyph449 glyph450 glyph452 glyph455 glyph456 glyph464
+  Coverage: 1127 glyph109 glyph110 glyph112 glyph114 glyph117 glyph118 glyph119 glyph124 glyph125 glyph133 glyph134 glyph135 glyph136 glyph139 glyph141 glyph144 glyph145 glyph146 glyph148 glyph151 glyph152 glyph160 glyph161 glyph162 glyph165 glyph167 glyph171 glyph172 glyph174 glyph177 glyph178 glyph186 uni0635.3 glyph213 glyph214 glyph217 glyph219 glyph222 glyph223 glyph224 glyph226 glyph229 glyph230 glyph239 glyph240 uni0639.3 glyph245 glyph249 glyph250 glyph252 glyph255 glyph256 glyph265 glyph266 glyph269 glyph271 glyph274 glyph275 glyph276 glyph278 glyph281 glyph282 glyph290 glyph291 uni06AF.1 glyph327 glyph329 glyph330 glyph333 glyph334 glyph335 glyph336 glyph337 glyph338 glyph344 glyph345 glyph347 glyph348 glyph351 glyph352 glyph353 glyph354 glyph355 glyph356 glyph363 glyph364 glyph366 glyph368 glyph371 glyph372 glyph373 glyph375 glyph378 glyph379 glyph386 glyph387 glyph388 glyph391 glyph393 glyph397 glyph398 glyph400 glyph403 glyph404 glyph412 glyph413 glyph414 glyph417 glyph419 glyph423 glyph424 glyph426 glyph429 glyph430 glyph438 glyph439 glyph440 glyph443 glyph445 glyph449 glyph450 glyph452 glyph455 glyph456 glyph464
   FCoverage: 107 glyph485 glyph511 glyph537 glyph589 glyph615 glyph641 glyph695 glyph713 glyph739 glyph764 glyph792 glyph818
   FCoverage: 8 glyph484
  1
@@ -4454,7 +4454,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 28 subtable"  0 
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 27 subtable"  0 0 0 1
  1 0 1
-  Coverage: 1221 glyph109 glyph112 glyph114 glyph115 glyph117 glyph118 glyph119 glyph124 glyph125 glyph128 glyph133 glyph135 glyph139 glyph141 glyph142 glyph144 glyph145 glyph146 glyph148 glyph151 glyph152 glyph155 glyph161 glyph165 glyph167 glyph170 glyph171 glyph172 glyph174 glyph177 glyph178 glyph181 glyph187 uni0635.3 glyph193 glyph196 uni0635.5 glyph198 glyph203 glyph207 glyph213 glyph217 glyph219 glyph222 glyph223 glyph224 glyph226 glyph229 glyph230 glyph233 glyph239 uni0639.3 glyph245 glyph248 greater.004 glyph250 glyph252 glyph255 glyph256 glyph259 glyph265 glyph269 glyph271 glyph272 glyph274 glyph275 glyph276 glyph278 glyph281 glyph282 glyph285 five.005 glyph295 glyph308 uni06AF.1 glyph326 glyph329 glyph331 glyph333 glyph334 glyph335 glyph336 glyph337 glyph338 glyph339 glyph347 glyph349 glyph351 glyph352 glyph353 glyph354 glyph355 glyph356 glyph357 glyph363 glyph366 glyph368 glyph369 glyph371 glyph372 glyph373 glyph375 glyph378 glyph379 glyph382 glyph387 glyph391 glyph393 glyph396 glyph397 glyph398 glyph400 glyph403 glyph404 glyph407 glyph413 glyph417 glyph419 glyph422 glyph423 glyph424 glyph426 glyph429 glyph430 glyph433 glyph439 glyph443 glyph445 glyph448 glyph449 glyph450 glyph452 glyph455 glyph456 glyph459
+  Coverage: 1218 glyph109 glyph112 glyph114 glyph115 glyph117 glyph118 glyph119 glyph124 glyph125 glyph128 glyph133 glyph135 glyph139 glyph141 glyph142 glyph144 glyph145 glyph146 glyph148 glyph151 glyph152 glyph155 glyph161 glyph165 glyph167 glyph170 glyph171 glyph172 glyph174 glyph177 glyph178 glyph181 glyph187 uni0635.3 glyph193 glyph196 uni0635.5 glyph198 glyph203 glyph207 glyph213 glyph217 glyph219 glyph222 glyph223 glyph224 glyph226 glyph229 glyph230 glyph233 glyph239 uni0639.3 glyph245 glyph248 glyph249 glyph250 glyph252 glyph255 glyph256 glyph259 glyph265 glyph269 glyph271 glyph272 glyph274 glyph275 glyph276 glyph278 glyph281 glyph282 glyph285 glyph291 glyph295 glyph308 uni06AF.1 glyph326 glyph329 glyph331 glyph333 glyph334 glyph335 glyph336 glyph337 glyph338 glyph339 glyph347 glyph349 glyph351 glyph352 glyph353 glyph354 glyph355 glyph356 glyph357 glyph363 glyph366 glyph368 glyph369 glyph371 glyph372 glyph373 glyph375 glyph378 glyph379 glyph382 glyph387 glyph391 glyph393 glyph396 glyph397 glyph398 glyph400 glyph403 glyph404 glyph407 glyph413 glyph417 glyph419 glyph422 glyph423 glyph424 glyph426 glyph429 glyph430 glyph433 glyph439 glyph443 glyph445 glyph448 glyph449 glyph450 glyph452 glyph455 glyph456 glyph459
   FCoverage: 116 glyph484 glyph510 glyph536 glyph562 glyph588 glyph614 glyph640 glyph663 glyph681 glyph738 glyph763 glyph791 glyph817
  1
   SeqLookup: 0 "Single Positioning lookup 120" 
@@ -4469,7 +4469,7 @@ EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 25 contextual 12"  0 0 0 1
  1 0 2
   Coverage: 188 glyph112 glyph119 glyph128 glyph133 glyph139 glyph155 glyph269 glyph281 glyph285 glyph329 glyph337 glyph339 glyph347 glyph355 glyph357 glyph375 glyph378 glyph379 glyph382 glyph391 glyph417
-  FCoverage: 8 nine.010
+  FCoverage: 8 glyph802
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
   SeqLookup: 0 "Single Positioning lookup 118" 
@@ -4477,7 +4477,7 @@ EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 25 contextual 11"  0 0 0 1
  1 0 2
   Coverage: 188 glyph112 glyph119 glyph128 glyph133 glyph139 glyph155 glyph269 glyph281 glyph285 glyph329 glyph337 glyph339 glyph347 glyph355 glyph357 glyph375 glyph378 glyph379 glyph382 glyph391 glyph417
-  FCoverage: 8 nine.009
+  FCoverage: 8 glyph776
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
   SeqLookup: 0 "Single Positioning lookup 118" 
@@ -4525,7 +4525,7 @@ EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 25 contextual 5"  0 0 0 1
  1 0 2
   Coverage: 188 glyph112 glyph119 glyph128 glyph133 glyph139 glyph155 glyph269 glyph281 glyph285 glyph329 glyph337 glyph339 glyph347 glyph355 glyph357 glyph375 glyph378 glyph379 glyph382 glyph391 glyph417
-  FCoverage: 8 nine.003
+  FCoverage: 8 glyph599
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
   SeqLookup: 0 "Single Positioning lookup 118" 
@@ -6420,7 +6420,7 @@ SplineSet
  389 539 389 539 398.5 596 c 128,-1,82
  408 653 408 653 422 709 c 1,56,57
 EndSplineSet
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" h.001
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph74
 EndChar
 
 StartChar: uni0632
@@ -6451,7 +6451,7 @@ SplineSet
  563 1313 563 1313 604 1272 c 0,0,1
 EndSplineSet
 Refer: 18 1585 N 1 0 0 1 0 0 2
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" h.002
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph75
 EndChar
 
 StartChar: uni0698
@@ -6504,7 +6504,7 @@ SplineSet
  563 1589 l 2,45,46
 EndSplineSet
 Refer: 18 1585 N 1 0 0 1 0 0 2
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" h.003
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph76
 EndChar
 
 StartChar: uni0633
@@ -8154,7 +8154,7 @@ SplineSet
  143 94 143 94 143 186 c 0,0,1
 EndSplineSet
 MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph647
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" five.005
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph291
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph92
 EndChar
 
@@ -11740,7 +11740,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: a.001
+StartChar: glyph67
 Encoding: 65559 -1 67
 Width: 455
 GlyphClass: 2
@@ -11785,7 +11785,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: a.002
+StartChar: glyph68
 Encoding: 65560 -1 68
 Width: 723
 GlyphClass: 2
@@ -11852,7 +11852,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: a.003
+StartChar: glyph69
 Encoding: 65561 -1 69
 Width: 444
 GlyphClass: 2
@@ -11898,7 +11898,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: a.004
+StartChar: glyph70
 Encoding: 65562 -1 70
 Width: 512
 GlyphClass: 2
@@ -11986,7 +11986,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: a.005
+StartChar: glyph71
 Encoding: 65563 -1 71
 Width: 444
 GlyphClass: 2
@@ -12038,7 +12038,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: a.006
+StartChar: glyph72
 Encoding: 65564 -1 72
 Width: 672
 GlyphClass: 2
@@ -12155,12 +12155,12 @@ SplineSet
  332 311 332 311 375 360 c 1,29,-1
  375 141 l 1,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 114 subtable" uni0691.2
-Substitution2: "Single Substitution lookup 113 subtable" a.003
 Substitution2: "Single Substitution lookup 112 subtable" glyph65
+Substitution2: "Single Substitution lookup 113 subtable" glyph69
+Substitution2: "Single Substitution lookup 114 subtable" uni0691.2
 EndChar
 
-StartChar: h.001
+StartChar: glyph74
 Encoding: 65566 -1 74
 Width: 444
 GlyphClass: 2
@@ -12245,12 +12245,12 @@ SplineSet
  424 311 424 311 467 360 c 1,84,-1
  467 141 l 1,55,56
 EndSplineSet
-Substitution2: "Single Substitution lookup 114 subtable" glyph78
-Substitution2: "Single Substitution lookup 113 subtable" a.004
 Substitution2: "Single Substitution lookup 112 subtable" uni0691.1
+Substitution2: "Single Substitution lookup 113 subtable" glyph70
+Substitution2: "Single Substitution lookup 114 subtable" glyph78
 EndChar
 
-StartChar: h.002
+StartChar: glyph75
 Encoding: 65567 -1 75
 Width: 352
 GlyphClass: 2
@@ -12299,12 +12299,12 @@ SplineSet
  223 918 223 918 264 878 c 128,-1,51
  305 838 305 838 346 797 c 0,28,29
 EndSplineSet
+Substitution2: "Single Substitution lookup 112 subtable" glyph67
+Substitution2: "Single Substitution lookup 113 subtable" glyph71
 Substitution2: "Single Substitution lookup 114 subtable" glyph79
-Substitution2: "Single Substitution lookup 113 subtable" a.005
-Substitution2: "Single Substitution lookup 112 subtable" a.001
 EndChar
 
-StartChar: h.003
+StartChar: glyph76
 Encoding: 65568 -1 76
 Width: 592
 GlyphClass: 2
@@ -12375,9 +12375,9 @@ SplineSet
  315 1303 315 1303 322 1296 c 2,85,-1
  485 1133 l 2,67,68
 EndSplineSet
+Substitution2: "Single Substitution lookup 112 subtable" glyph68
+Substitution2: "Single Substitution lookup 113 subtable" glyph72
 Substitution2: "Single Substitution lookup 114 subtable" glyph80
-Substitution2: "Single Substitution lookup 113 subtable" a.006
-Substitution2: "Single Substitution lookup 112 subtable" a.002
 EndChar
 
 StartChar: uni0691.2
@@ -20300,7 +20300,7 @@ Substitution2: "Single Substitution lookup 186 subtable" glyph180
 Substitution2: "Single Substitution lookup 185 subtable" glyph179
 Substitution2: "Single Substitution lookup 184 subtable" glyph178
 Substitution2: "Single Substitution lookup 183 subtable" glyph177
-Substitution2: "Single Substitution lookup 182 subtable" A.002
+Substitution2: "Single Substitution lookup 182 subtable" glyph176
 Substitution2: "Single Substitution lookup 180 subtable" glyph175
 Substitution2: "Single Substitution lookup 179 subtable" glyph174
 Substitution2: "Single Substitution lookup 178 subtable" uni0633.2
@@ -21269,7 +21269,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: A.002
+StartChar: glyph176
 Encoding: 65668 -1 176
 Width: 1204
 GlyphClass: 2
@@ -22165,10 +22165,10 @@ Substitution2: "Single Substitution lookup 186 subtable" glyph206
 Substitution2: "Single Substitution lookup 185 subtable" glyph205
 Substitution2: "Single Substitution lookup 184 subtable" glyph204
 Substitution2: "Single Substitution lookup 183 subtable" glyph203
-Substitution2: "Single Substitution lookup 182 subtable" C.001
-Substitution2: "Single Substitution lookup 180 subtable" B.001
+Substitution2: "Single Substitution lookup 182 subtable" glyph202
+Substitution2: "Single Substitution lookup 180 subtable" glyph201
 Substitution2: "Single Substitution lookup 179 subtable" glyph200
-Substitution2: "Single Substitution lookup 178 subtable" at.002
+Substitution2: "Single Substitution lookup 178 subtable" glyph199
 Substitution2: "Single Substitution lookup 177 subtable" glyph198
 Substitution2: "Single Substitution lookup 176 subtable" uni0635.5
 Substitution2: "Single Substitution lookup 175 subtable" glyph196
@@ -23147,7 +23147,7 @@ EndSplineSet
 Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=204 dv=0
 EndChar
 
-StartChar: at.002
+StartChar: glyph199
 Encoding: 65691 -1 199
 Width: 1044
 GlyphClass: 2
@@ -23324,7 +23324,7 @@ EndSplineSet
 Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=102 dv=0
 EndChar
 
-StartChar: B.001
+StartChar: glyph201
 Encoding: 65693 -1 201
 Width: 1264
 GlyphClass: 2
@@ -23394,7 +23394,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: C.001
+StartChar: glyph202
 Encoding: 65694 -1 202
 Width: 1489
 GlyphClass: 2
@@ -28228,17 +28228,17 @@ Substitution2: "Single Substitution lookup 186 subtable" glyph258
 Substitution2: "Single Substitution lookup 185 subtable" glyph257
 Substitution2: "Single Substitution lookup 184 subtable" glyph256
 Substitution2: "Single Substitution lookup 183 subtable" glyph255
-Substitution2: "Single Substitution lookup 182 subtable" C.002
-Substitution2: "Single Substitution lookup 180 subtable" udieresis.001
+Substitution2: "Single Substitution lookup 182 subtable" glyph254
+Substitution2: "Single Substitution lookup 180 subtable" glyph253
 Substitution2: "Single Substitution lookup 179 subtable" glyph252
-Substitution2: "Single Substitution lookup 178 subtable" at.003
+Substitution2: "Single Substitution lookup 178 subtable" glyph251
 Substitution2: "Single Substitution lookup 177 subtable" glyph250
-Substitution2: "Single Substitution lookup 176 subtable" greater.004
+Substitution2: "Single Substitution lookup 176 subtable" glyph249
 Substitution2: "Single Substitution lookup 175 subtable" glyph248
 Substitution2: "Single Substitution lookup 174 subtable" glyph247
 Substitution2: "Single Substitution lookup 173 subtable" glyph246
 Substitution2: "Single Substitution lookup 172 subtable" glyph245
-Substitution2: "Single Substitution lookup 171 subtable" colon.002
+Substitution2: "Single Substitution lookup 171 subtable" uni0639.4
 Substitution2: "Single Substitution lookup 170 subtable" uni0639.3
 Substitution2: "Single Substitution lookup 169 subtable" uni0639.1
 Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=348 dv=0
@@ -28577,14 +28577,14 @@ SplineSet
  121 1436 121 1436 121 1470 c 0,66,67
  121 1483 121 1483 127 1491 c 0,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=419 dv=0
-Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=860 dv=0
-Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=716 dv=0
-Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=1126 dv=0
 Position2: "Single Positioning lookup 117 subtable" dx=0 dy=0 dh=409 dv=0
+Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=1126 dv=0
+Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=716 dv=0
+Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=860 dv=0
+Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=419 dv=0
 EndChar
 
-StartChar: colon.002
+StartChar: uni0639.4
 Encoding: 65736 -1 244
 Width: 862
 GlyphClass: 2
@@ -28719,9 +28719,9 @@ SplineSet
  -72 999 -72 999 -62.5 1023 c 128,-1,68
  -53 1047 -53 1047 -37 1063 c 1,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=245 dv=0
-Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=307 dv=0
 Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=512 dv=0
+Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=307 dv=0
+Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=245 dv=0
 EndChar
 
 StartChar: glyph246
@@ -28979,7 +28979,7 @@ Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=245 dv=0
 Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=512 dv=0
 EndChar
 
-StartChar: greater.004
+StartChar: glyph249
 Encoding: 65741 -1 249
 Width: 1147
 GlyphClass: 2
@@ -29074,10 +29074,10 @@ SplineSet
  92 672 92 672 38 695.5 c 128,-1,84
  -16 719 -16 719 -57 772 c 1,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=245 dv=0
-Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=573 dv=0
-Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=307 dv=0
 Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=819 dv=0
+Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=307 dv=0
+Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=573 dv=0
+Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=245 dv=0
 EndChar
 
 StartChar: glyph250
@@ -29171,7 +29171,7 @@ Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=102 dv=0
 Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=716 dv=0
 EndChar
 
-StartChar: at.003
+StartChar: glyph251
 Encoding: 65743 -1 251
 Width: 680
 GlyphClass: 2
@@ -29301,13 +29301,13 @@ SplineSet
  -25 1208 -25 1208 -38 1231.5 c 128,-1,53
  -51 1255 -51 1255 -51 1278 c 0,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=81 dv=0
-Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=655 dv=0
-Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=204 dv=0
 Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=655 dv=0
+Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=204 dv=0
+Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=655 dv=0
+Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=81 dv=0
 EndChar
 
-StartChar: udieresis.001
+StartChar: glyph253
 Encoding: 65745 -1 253
 Width: 1012
 GlyphClass: 2
@@ -29395,7 +29395,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: C.002
+StartChar: glyph254
 Encoding: 65746 -1 254
 Width: 934
 GlyphClass: 2
@@ -32187,7 +32187,7 @@ Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=512 dv=0
 Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=409 dv=0
 EndChar
 
-StartChar: five.005
+StartChar: glyph291
 Encoding: 65783 -1 291
 Width: 911
 GlyphClass: 2
@@ -32315,10 +32315,15 @@ SplineSet
  537 1407 537 1407 657 1530 c 1,65,-1
  657 1528 l 1,15,16
 EndSplineSet
+Position2: "Single Positioning lookup 130 subtable" dx=0 dy=0 dh=368 dv=0
+Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=348 dv=0
+Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=512 dv=0
+Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=512 dv=0
+Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=757 dv=0
 Substitution2: "Single Substitution lookup 209 subtable" glyph342
 Substitution2: "Single Substitution lookup 207 subtable" glyph327
 Substitution2: "Single Substitution lookup 206 subtable" glyph328
-Substitution2: "Single Substitution lookup 205 subtable" eight.003
+Substitution2: "Single Substitution lookup 205 subtable" glyph292
 Substitution2: "Single Substitution lookup 204 subtable" glyph342
 Substitution2: "Single Substitution lookup 203 subtable" glyph341
 Substitution2: "Single Substitution lookup 202 subtable" glyph340
@@ -32330,29 +32335,24 @@ Substitution2: "Single Substitution lookup 188 subtable" glyph343
 Substitution2: "Single Substitution lookup 187 subtable" glyph331
 Substitution2: "Single Substitution lookup 186 subtable" glyph306
 Substitution2: "Single Substitution lookup 185 subtable" glyph305
-Substitution2: "Single Substitution lookup 184 subtable" D.003
+Substitution2: "Single Substitution lookup 184 subtable" glyph304
 Substitution2: "Single Substitution lookup 183 subtable" glyph337
-Substitution2: "Single Substitution lookup 182 subtable" C.003
-Substitution2: "Single Substitution lookup 180 subtable" B.003
+Substitution2: "Single Substitution lookup 182 subtable" glyph303
+Substitution2: "Single Substitution lookup 180 subtable" glyph302
 Substitution2: "Single Substitution lookup 179 subtable" glyph301
-Substitution2: "Single Substitution lookup 178 subtable" at.004
+Substitution2: "Single Substitution lookup 178 subtable" glyph300
 Substitution2: "Single Substitution lookup 177 subtable" glyph299
 Substitution2: "Single Substitution lookup 176 subtable" uni06A9.1
 Substitution2: "Single Substitution lookup 175 subtable" glyph923
 Substitution2: "Single Substitution lookup 174 subtable" glyph297
 Substitution2: "Single Substitution lookup 173 subtable" glyph296
 Substitution2: "Single Substitution lookup 172 subtable" glyph295
-Substitution2: "Single Substitution lookup 171 subtable" colon.003
+Substitution2: "Single Substitution lookup 171 subtable" glyph294
 Substitution2: "Single Substitution lookup 170 subtable" glyph293
-Substitution2: "Single Substitution lookup 169 subtable" eight.003
-Position2: "Single Positioning lookup 130 subtable" dx=0 dy=0 dh=368 dv=0
-Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=348 dv=0
-Position2: "Single Positioning lookup 122 subtable" dx=0 dy=0 dh=512 dv=0
-Position2: "Single Positioning lookup 121 subtable" dx=0 dy=0 dh=512 dv=0
-Position2: "Single Positioning lookup 120 subtable" dx=0 dy=0 dh=757 dv=0
+Substitution2: "Single Substitution lookup 169 subtable" glyph292
 EndChar
 
-StartChar: eight.003
+StartChar: glyph292
 Encoding: 65784 -1 292
 Width: 610
 GlyphClass: 2
@@ -32462,8 +32462,8 @@ SplineSet
  459 688 459 688 383 528 c 0,66,67
  360 479 360 479 322 422 c 0,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 130 subtable" dx=0 dy=0 dh=266 dv=0
 Position2: "Single Positioning lookup 127 subtable" dx=0 dy=0 dh=532 dv=0
+Position2: "Single Positioning lookup 130 subtable" dx=0 dy=0 dh=266 dv=0
 EndChar
 
 StartChar: glyph293
@@ -32587,11 +32587,11 @@ SplineSet
  561 1477 561 1477 593 1506.5 c 128,-1,62
  625 1536 625 1536 631 1589 c 1,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 192 subtable" glyph329
 Position2: "Single Positioning lookup 117 subtable" dx=0 dy=0 dh=512 dv=0
+Substitution2: "Single Substitution lookup 192 subtable" glyph329
 EndChar
 
-StartChar: colon.003
+StartChar: glyph294
 Encoding: 65786 -1 294
 Width: 547
 GlyphClass: 2
@@ -33189,7 +33189,7 @@ EndSplineSet
 Substitution2: "Single Substitution lookup 196 subtable" glyph335
 EndChar
 
-StartChar: at.004
+StartChar: glyph300
 Encoding: 65792 -1 300
 Width: 289
 GlyphClass: 2
@@ -33456,7 +33456,7 @@ EndSplineSet
 Substitution2: "Single Substitution lookup 197 subtable" glyph336
 EndChar
 
-StartChar: B.003
+StartChar: glyph302
 Encoding: 65794 -1 302
 Width: 541
 GlyphClass: 2
@@ -33611,7 +33611,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: C.003
+StartChar: glyph303
 Encoding: 65795 -1 303
 Width: 784
 GlyphClass: 2
@@ -33693,7 +33693,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: D.003
+StartChar: glyph304
 Encoding: 65796 -1 304
 Width: 338
 GlyphClass: 2
@@ -54260,14 +54260,14 @@ SplineSet
  997 616 997 616 1012 625 c 1,78,79
  1016 625 1016 625 1018 627 c 1,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 167 subtable" dagger.002
+Substitution2: "Single Substitution lookup 167 subtable" glyph520
 Substitution2: "Single Substitution lookup 166 subtable" glyph518
 Substitution2: "Single Substitution lookup 165 subtable" glyph518
-Substitution2: "Single Substitution lookup 164 subtable" dagger.002
+Substitution2: "Single Substitution lookup 164 subtable" glyph520
 Substitution2: "Single Substitution lookup 161 subtable" glyph537
 Substitution2: "Single Substitution lookup 159 subtable" glyph542
-Substitution2: "Single Substitution lookup 157 subtable" dagger.002
-Substitution2: "Single Substitution lookup 154 subtable" dagger.002
+Substitution2: "Single Substitution lookup 157 subtable" glyph520
+Substitution2: "Single Substitution lookup 154 subtable" glyph520
 Substitution2: "Single Substitution lookup 152 subtable" glyph540
 Substitution2: "Single Substitution lookup 151 subtable" glyph539
 Substitution2: "Single Substitution lookup 150 subtable" glyph538
@@ -54458,7 +54458,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dagger.002
+StartChar: glyph520
 Encoding: 66012 -1 520
 Width: 737
 GlyphClass: 2
@@ -62372,7 +62372,7 @@ Substitution2: "Single Substitution lookup 123 subtable" glyph603
 Substitution2: "Single Substitution lookup 122 subtable" glyph602
 Substitution2: "Single Substitution lookup 121 subtable" glyph601
 Substitution2: "Single Substitution lookup 120 subtable" glyph600
-Substitution2: "Single Substitution lookup 119 subtable" nine.003
+Substitution2: "Single Substitution lookup 119 subtable" glyph599
 Substitution2: "Single Substitution lookup 118 subtable" glyph597
 EndChar
 
@@ -62572,7 +62572,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nine.003
+StartChar: glyph599
 Encoding: 66091 -1 599
 Width: 573
 GlyphClass: 2
@@ -80247,7 +80247,7 @@ Substitution2: "Single Substitution lookup 123 subtable" glyph780
 Substitution2: "Single Substitution lookup 122 subtable" glyph779
 Substitution2: "Single Substitution lookup 121 subtable" glyph778
 Substitution2: "Single Substitution lookup 120 subtable" glyph777
-Substitution2: "Single Substitution lookup 119 subtable" nine.009
+Substitution2: "Single Substitution lookup 119 subtable" glyph776
 Substitution2: "Single Substitution lookup 118 subtable" glyph774
 EndChar
 
@@ -80443,7 +80443,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nine.009
+StartChar: glyph776
 Encoding: 66268 -1 776
 Width: 702
 GlyphClass: 2
@@ -81906,37 +81906,37 @@ SplineSet
  549 158 549 158 522.5 148.5 c 128,-1,81
  496 139 496 139 485 137 c 1,29,30
 EndSplineSet
-Substitution2: "Single Substitution lookup 167 subtable" glyph801
-Substitution2: "Single Substitution lookup 166 subtable" glyph799
-Substitution2: "Single Substitution lookup 164 subtable" glyph801
-Substitution2: "Single Substitution lookup 163 subtable" glyph799
-Substitution2: "Single Substitution lookup 160 subtable" glyph818
-Substitution2: "Single Substitution lookup 159 subtable" glyph823
-Substitution2: "Single Substitution lookup 157 subtable" glyph801
-Substitution2: "Single Substitution lookup 156 subtable" glyph799
-Substitution2: "Single Substitution lookup 154 subtable" glyph801
-Substitution2: "Single Substitution lookup 153 subtable" glyph818
-Substitution2: "Single Substitution lookup 152 subtable" glyph821
-Substitution2: "Single Substitution lookup 151 subtable" glyph820
-Substitution2: "Single Substitution lookup 150 subtable" glyph819
-Substitution2: "Single Substitution lookup 137 subtable" glyph805
-Substitution2: "Single Substitution lookup 136 subtable" glyph817
-Substitution2: "Single Substitution lookup 135 subtable" glyph816
-Substitution2: "Single Substitution lookup 134 subtable" glyph815
-Substitution2: "Single Substitution lookup 133 subtable" glyph814
-Substitution2: "Single Substitution lookup 132 subtable" C¦.008
-Substitution2: "Single Substitution lookup 129 subtable" B¦.008
-Substitution2: "Single Substitution lookup 128 subtable" glyph811
-Substitution2: "Single Substitution lookup 127 subtable" glyph810
-Substitution2: "Single Substitution lookup 126 subtable" glyph809
-Substitution2: "Single Substitution lookup 125 subtable" glyph808
-Substitution2: "Single Substitution lookup 124 subtable" glyph807
-Substitution2: "Single Substitution lookup 123 subtable" glyph806
-Substitution2: "Single Substitution lookup 122 subtable" glyph805
-Substitution2: "Single Substitution lookup 121 subtable" glyph804
-Substitution2: "Single Substitution lookup 120 subtable" glyph803
-Substitution2: "Single Substitution lookup 119 subtable" nine.010
 Substitution2: "Single Substitution lookup 118 subtable" glyph800
+Substitution2: "Single Substitution lookup 119 subtable" glyph802
+Substitution2: "Single Substitution lookup 120 subtable" glyph803
+Substitution2: "Single Substitution lookup 121 subtable" glyph804
+Substitution2: "Single Substitution lookup 122 subtable" glyph805
+Substitution2: "Single Substitution lookup 123 subtable" glyph806
+Substitution2: "Single Substitution lookup 124 subtable" glyph807
+Substitution2: "Single Substitution lookup 125 subtable" glyph808
+Substitution2: "Single Substitution lookup 126 subtable" glyph809
+Substitution2: "Single Substitution lookup 127 subtable" glyph810
+Substitution2: "Single Substitution lookup 128 subtable" glyph811
+Substitution2: "Single Substitution lookup 129 subtable" glyph812
+Substitution2: "Single Substitution lookup 132 subtable" glyph813
+Substitution2: "Single Substitution lookup 133 subtable" glyph814
+Substitution2: "Single Substitution lookup 134 subtable" glyph815
+Substitution2: "Single Substitution lookup 135 subtable" glyph816
+Substitution2: "Single Substitution lookup 136 subtable" glyph817
+Substitution2: "Single Substitution lookup 137 subtable" glyph805
+Substitution2: "Single Substitution lookup 150 subtable" glyph819
+Substitution2: "Single Substitution lookup 151 subtable" glyph820
+Substitution2: "Single Substitution lookup 152 subtable" glyph821
+Substitution2: "Single Substitution lookup 153 subtable" glyph818
+Substitution2: "Single Substitution lookup 154 subtable" glyph801
+Substitution2: "Single Substitution lookup 156 subtable" glyph799
+Substitution2: "Single Substitution lookup 157 subtable" glyph801
+Substitution2: "Single Substitution lookup 159 subtable" glyph823
+Substitution2: "Single Substitution lookup 160 subtable" glyph818
+Substitution2: "Single Substitution lookup 163 subtable" glyph799
+Substitution2: "Single Substitution lookup 164 subtable" glyph801
+Substitution2: "Single Substitution lookup 166 subtable" glyph799
+Substitution2: "Single Substitution lookup 167 subtable" glyph801
 EndChar
 
 StartChar: glyph799
@@ -82334,7 +82334,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nine.010
+StartChar: glyph802
 Encoding: 66294 -1 802
 Width: 815
 GlyphClass: 2
@@ -83340,7 +83340,7 @@ EndSplineSet
 Substitution2: "Single Substitution lookup 140 subtable" glyph822
 EndChar
 
-StartChar: "B+AY8A.008" 
+StartChar: glyph812
 Encoding: 66304 -1 812
 Width: 608
 GlyphClass: 2
@@ -83424,7 +83424,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: "C+AY8A.008" 
+StartChar: glyph813
 Encoding: 66305 -1 813
 Width: 799
 GlyphClass: 2
@@ -95490,7 +95490,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: quotesingle.001
+StartChar: grave
 Encoding: 96 96 910
 Width: 449
 GlyphClass: 2
@@ -110381,7 +110381,7 @@ Refer: 1010 -1 N 1 0 0 1 764 843 2
 Refer: 32 1705 N 1 0 0 1 0 0 2
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph92 hamza.kaf
 MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph647
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" five.005
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph291
 EndChar
 
 StartChar: afii57449
