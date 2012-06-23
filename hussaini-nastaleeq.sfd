@@ -15660,7 +15660,7 @@ EndChar
 
 StartChar: glyph105
 Encoding: 65597 -1 102
-Width: 668
+Width: 698
 GlyphClass: 3
 Flags: W
 TtInstrs:
@@ -15807,7 +15807,7 @@ IUP[x]
 EndTTInstrs
 AnchorPoint: "Anchor-40" 450 -307 baselig 0
 AnchorPoint: "Anchor-39" 358 1617 baselig 0
-AnchorPoint: "Cursive-1" 665 122 entry 0
+AnchorPoint: "Cursive-1" 695 122 entry 0
 AnchorPoint: "Anchor-39" 358 1617 baselig 1
 AnchorPoint: "Anchor-40" 450 -307 baselig 1
 LayerCount: 2
@@ -108670,10 +108670,10 @@ EndChar
 
 StartChar: glyph986
 Encoding: 66388 -1 981
-Width: 668
+Width: 698
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Cursive-1" 665 122 entry 0
+AnchorPoint: "Cursive-1" 695 122 entry 0
 LayerCount: 2
 Fore
 SplineSet
@@ -108703,7 +108703,7 @@ SplineSet
  104 1885 104 1885 168.5 1935 c 0,46,47
  233 1985 233 1985 295 1985 c 0,0,1
 EndSplineSet
-Refer: 102 -1 N 1 0 0 1 0 0 2
+Refer: 102 -1 N 1 0 0 1 0 0 3
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph743 glyph984
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph742 glyph984
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph741 glyph984
@@ -108802,14 +108802,14 @@ EndChar
 
 StartChar: glyph990
 Encoding: 66391 -1 985
-Width: 668
+Width: 698
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Cursive-1" 665 122 entry 0
+AnchorPoint: "Cursive-1" 695 122 entry 0
 LayerCount: 2
 Fore
 Refer: 844 -1 N 1 0 0 1 374 1702 2
-Refer: 102 -1 N 1 0 0 1 0 0 2
+Refer: 102 -1 N 1 0 0 1 0 0 3
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph743 glyph988
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph742 glyph988
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph741 glyph988
@@ -110407,13 +110407,13 @@ EndChar
 
 StartChar: glyph1001
 Encoding: 66399 -1 1002
-Width: 668
+Width: 698
 Flags: W
-AnchorPoint: "Cursive-1" 665 122 entry 0
+AnchorPoint: "Cursive-1" 695 122 entry 0
 LayerCount: 2
 Fore
 Refer: 844 -1 N 1 0 0 1 288 -432 2
-Refer: 102 -1 N 1 0 0 1 0 0 2
+Refer: 102 -1 N 1 0 0 1 0 0 3
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph743 glyph999
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph742 glyph999
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 105 subtable" glyph741 glyph999
