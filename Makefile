@@ -4,12 +4,16 @@ VERSION=0.02
 DIST=$(NAME)-$(VERSION)
 
 FF=fontforge -lang=ff
+# flags:
+# * -1: default
+# *  4: short 'post' table (no glyph names)
+# *  8: no TTF instructions
 SCRIPT='Open($$1);\
        if ($$argc>3)\
          MergeFeature($$2);\
        endif;\
        SetFontNames("","","","","","$(VERSION)");\
-       Generate($$argv[$$argc-1], "", -1)'
+       Generate($$argv[$$argc-1], "", -1&8)'
 
 SFD=$(NAME:%=%.sfd)
 TTF=$(NAME:%=%.ttf)
