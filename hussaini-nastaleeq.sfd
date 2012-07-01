@@ -9130,7 +9130,7 @@ SplineSet
  109 -53 109 -53 101.5 -27.5 c 128,-1,98
  94 -2 94 -2 94 27 c 0,61,62
 EndSplineSet
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.2
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.1 glyph837
 EndChar
 
 StartChar: uni06BE
@@ -15392,6 +15392,7 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Anchor-29" 299 520 basechar 0
 AnchorPoint: "Anchor-38" 225 -593 basechar 0
 AnchorPoint: "Anchor-37" 327 819 basechar 0
 LayerCount: 2
@@ -15467,6 +15468,8 @@ SplineSet
  -37 442 -37 442 -70 477 c 0,15,16
 EndSplineSet
 Substitution2: "Single Substitution lookup 115 subtable" uni06C1.4
+Comment: "No longer used, using decomposed <base><mark> instead." 
+Colour: ffff00
 EndChar
 
 StartChar: uni06C1.3
@@ -15482,6 +15485,7 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Anchor-29" 555 639 basechar 0
 AnchorPoint: "Anchor-38" 225 -593 basechar 0
 AnchorPoint: "Anchor-37" 358 778 basechar 0
 LayerCount: 2
@@ -15556,6 +15560,8 @@ SplineSet
  317 471 317 471 268 516 c 128,-1,58
  219 561 219 561 186 596 c 0,17,18
 EndSplineSet
+Comment: "No longer used, using decomposed <base><mark> instead." 
+Colour: ffff00
 EndChar
 
 StartChar: uni06BE.1
@@ -110328,7 +110334,7 @@ AnchorPoint: "Anchor-37" 296 1761 basechar 0
 LayerCount: 2
 Fore
 Refer: 38 1731 N 1 0 0 1 0 0 2
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.2
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.1 glyph837
 EndChar
 
 StartChar: afii57443
