@@ -9,7 +9,7 @@ SCRIPT='Open($$1);\
          MergeFeature($$2);\
        endif;\
        SetFontNames("","","","","","$(VERSION)");\
-       Generate($$argv[$$argc-1], "", -1&4)'
+       Generate($$argv[$$argc-1], "", -1)'
 
 SFD=$(NAME:%=%.sfd)
 TTF=$(NAME:%=%.ttf)
