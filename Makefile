@@ -18,9 +18,9 @@ all: ttf
 
 ttf: $(TTF)
 
-hussaini-nastaleeq.ttf: hussaini-nastaleeq.sfd Makefile
+hussaini-nastaleeq.ttf: hussaini-nastaleeq.sfd hussaini-nastaleeq.fea Makefile
 	@echo "Building $@"
-	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@$(FF) -c $(SCRIPT) $< hussaini-nastaleeq.fea $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
 
 dist: $(TTF)
 	@echo "Making dist tarball"
