@@ -1,8 +1,8 @@
 languagesystem DFLT dflt;
 languagesystem arab dflt;
 
-# fix teh marbuta dots clash in the words تختة, تخنة, تخثة and تخٹة.
+# fix teh marbuta dots clash in the words تختة, تخنة, تخئة, تخثة and تخٹة.
 feature mark {
-  pos uni0628.8 [glyph837 glyph836] uni06C1.1 glyph837' <0 650 0 0>;
+  pos uni0628.8 [glyph837 glyph836 glyph847] uni06C1.1 glyph837' <0 650 0 0>;
   pos uni0628.8 [glyph838 glyph842] uni06C1.1 glyph837' <0 1000 0 0>;
 } mark;
