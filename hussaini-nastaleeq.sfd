@@ -86769,7 +86769,7 @@ EndSplineSet
 EndChar
 
 StartChar: Jallah
-Encoding: 161 161 864
+Encoding: 65538 -1 864
 Width: 0
 GlyphClass: 4
 Flags: W
