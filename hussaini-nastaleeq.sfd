@@ -106164,6 +106164,7 @@ EndChar
 StartChar: glyph1009
 Encoding: 66406 -1 1023
 Width: 0
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-96" 0 0 mark 0
 AnchorPoint: "Anchor-91" 0 0 mark 0
