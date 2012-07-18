@@ -82048,6 +82048,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "mkmkB" 10 -150 basemark 0
+AnchorPoint: "mkmkA" 50 350 basemark 0
 AnchorPoint: "mkmkA" 0 0 mark 0
 AnchorPoint: "Anchor-39" 0 0 mark 0
 AnchorPoint: "Anchor-37" 0 0 mark 0
