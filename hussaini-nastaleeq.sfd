@@ -81730,6 +81730,7 @@ Encoding: 1620 1620 843
 Width: 0
 GlyphClass: 4
 Flags: W
+AnchorPoint: "mkmkA" 20 300 basemark 0
 AnchorPoint: "Anchor-39" 0 0 mark 0
 AnchorPoint: "Anchor-37" 225 102 mark 0
 LayerCount: 2
@@ -82485,6 +82486,7 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "mkmkA" 0 0 mark 0
 AnchorPoint: "Anchor-39" 0 0 mark 0
 AnchorPoint: "Anchor-37" 0 0 mark 0
 LayerCount: 2
@@ -82530,6 +82532,7 @@ MDAP[rnd]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "mkmkA" 51 30 mark 0
 AnchorPoint: "Anchor-39" 51 30 mark 0
 AnchorPoint: "Anchor-37" 51 30 mark 0
 LayerCount: 2
