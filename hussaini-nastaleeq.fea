@@ -1,4 +1,3 @@
-languagesystem DFLT dflt;
 languagesystem arab dflt;
 
 # fix teh marbuta dots clash in the words تختة, تخنة, تخئة, تخثة and تخٹة.
@@ -10,3 +9,28 @@ feature mark {
   pos uni0628.8 [glyph837 glyph836 glyph847] uni06C1.1 glyph837' <0 650 0 0>;
   pos uni0628.8 [glyph838 glyph842] uni06C1.1 glyph837' <0 1000 0 0>;
 } mark;
+
+# vowel marks above dots/shadda
+feature mkmk {
+  markClass [uni064E uni064B]         <anchor  20 -102>      @mkmkA;
+  markClass [uni064F]                 <anchor -61 -122>      @mkmkA;
+  markClass [uni0651 uni064C uni0657] <anchor  0   0  >      @mkmkA;
+  markClass [uni0652]                 <anchor -10 -71 >      @mkmkA;
+  markClass [uni0658]                 <anchor  51  30 >      @mkmkA;
+
+  pos mark  [glyph836 glyph837]       <anchor  0   500> mark @mkmkA;
+  pos mark  [glyph838]                <anchor  0   800> mark @mkmkA;
+  pos mark  [glyph842]                <anchor -20  700> mark @mkmkA;
+  pos mark  [uni0654 glyph847]        <anchor  20  300> mark @mkmkA;
+  pos mark  [uni0651]                 <anchor  50  350> mark @mkmkA;
+} mkmk;
+
+# vowel marks below dots/shadda
+feature mkmk {
+  markClass [uni0650]           <anchor 20  81 >      @mkmkB;
+  markClass [uni064D]           <anchor 20  153>      @mkmkB;
+
+  pos mark  [glyph839 glyph840] <anchor 0  -500> mark @mkmkB;
+  pos mark  [glyph841]          <anchor 0  -800> mark @mkmkB;
+  pos mark  [uni0651]           <anchor 10 -150> mark @mkmkB;
+} mkmk;
