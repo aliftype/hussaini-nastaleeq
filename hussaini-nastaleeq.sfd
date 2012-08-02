@@ -53,7 +53,6 @@ Lookup: 2 1 0 "'fina' Terminal Forms in Arabic lookup 1"  {"'fina' Terminal Form
 Lookup: 2 1 0 "'init' Initial Forms in Arabic lookup 2"  {"'init' Initial Forms in Arabic lookup 2 subtable"  } ['init' ('arab' <'dflt' > ) ]
 Lookup: 2 1 0 "'medi' Medial Forms in Arabic lookup 3"  {"'medi' Medial Forms in Arabic lookup 3 subtable"  } ['medi' ('arab' <'dflt' > ) ]
 Lookup: 6 9 0 "'calt' Contextual Alternates in Arabic lookup 4"  {"'calt' Contextual Alternates in Arabic lookup 4 subtable"  } ['calt' ('arab' <'dflt' > ) ]
-Lookup: 4 1 0 "Ligature Substitution lookup 5"  {"Ligature Substitution lookup 5 subtable"  } []
 Lookup: 6 9 0 "'calt' Contextual Alternates in Arabic lookup 6"  {"'calt' Contextual Alternates in Arabic lookup 6 subtable"  } ['calt' ('arab' <'dflt' > ) ]
 Lookup: 6 9 0 "'calt' Contextual Alternates in Arabic lookup 7"  {"'calt' Contextual Alternates in Arabic lookup 7 subtable"  } ['calt' ('arab' <'dflt' > ) ]
 Lookup: 6 9 0 "'calt' Contextual Alternates in Arabic lookup 8"  {"'calt' Contextual Alternates in Arabic lookup 8 subtable"  } ['calt' ('arab' <'dflt' > ) ]
@@ -104998,7 +104997,6 @@ SplineSet
  133 -531 133 -531 84 -486 c 128,-1,345
  35 -441 35 -441 2 -406 c 0,304,305
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 5 subtable" glyph109 glyph841
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph128 glyph841 glyph469 glyph840 glyph494 glyph841 glyph465 glyph840 glyph62
 EndChar
 
