@@ -1,5 +1,5 @@
 This is a fork of [Nafees Nastaleeq][1] font, adding missing Arabic characters
-to make it usable for Arabic users.
+to make it usable for Arabic users and other general fixes.
 
 It is named after Syed Nafees Al-Hussaini, whose calligraphy style is followed
 by Nafees Nastaleeq.
