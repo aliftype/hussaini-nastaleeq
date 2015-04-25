@@ -3,16 +3,18 @@ VERSION=0.02
 
 DIST=$(NAME)-$(VERSION)
 
-PY=python
+PY=python2.7
 
 define SCRIPT
-import fontforge, sys
+from sortsmill import ffcompat as fontforge
+import sys
 f = fontforge.open(sys.argv[1])
 if len(sys.argv) > 3:
   f.mergeFeature(sys.argv[3])
-f.version = $(VERSION)
-f.generate(sys.argv[2], flags=("omit-instructions"))
+f.version = "$(VERSION)"
+f.generate(sys.argv[2], flags=("omit-instructions", "opentype"))
 endef
+export SCRIPT
 
 SFD=$(NAME:%=%.sfd)
 TTF=$(NAME:%=%.ttf)
