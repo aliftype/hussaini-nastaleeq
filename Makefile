@@ -3,10 +3,10 @@ VERSION=0.02
 
 DIST=$(NAME)-$(VERSION)
 
-PY=python2.7
+PY=python3
 
 define SCRIPT
-from sortsmill import ffcompat as fontforge
+import fontforge
 import sys
 f = fontforge.open(sys.argv[1])
 if len(sys.argv) > 3:
