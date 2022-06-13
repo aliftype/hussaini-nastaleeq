@@ -30,9 +30,9 @@ feature mkmk {
 
   pos mark  [dotabove twodotshorizontalabove] <anchor  0   500> mark @mkmkA;
   pos mark  [threedotsupabove]                <anchor  0   800> mark @mkmkA;
-  pos mark  [tahabove]                <anchor -20  700> mark @mkmkA;
-  pos mark  [uni0654 hamzaabove]        <anchor  20  300> mark @mkmkA;
-  pos mark  [uni0651]                 <anchor  50  350> mark @mkmkA;
+  pos mark  [tahabove]                        <anchor -20  700> mark @mkmkA;
+  pos mark  [uni0654 hamzaabove]              <anchor  20  300> mark @mkmkA;
+  pos mark  [uni0651]                         <anchor  50  350> mark @mkmkA;
 } mkmk;
 
 # vowel marks below dots/shadda
@@ -42,5 +42,5 @@ feature mkmk {
 
   pos mark  [dotbelow twodotshorizontalbelow]                       <anchor 0  -500> mark @mkmkB;
   pos mark  [twodotsverticalbelow threedotsdownbelow fourdotsbelow] <anchor 0  -800> mark @mkmkB;
-  pos mark  [uni0651]           <anchor 10 -150> mark @mkmkB;
+  pos mark  [uni0651]                                               <anchor 10 -150> mark @mkmkB;
 } mkmk;
