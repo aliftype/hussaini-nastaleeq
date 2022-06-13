@@ -40,7 +40,7 @@ feature mkmk {
   markClass [uni0650]           <anchor 20  81 >      @mkmkB;
   markClass [uni064D]           <anchor 20  153>      @mkmkB;
 
-  pos mark  [dotbelow twodotshorizontalbelow] <anchor 0  -500> mark @mkmkB;
-  pos mark  [threedotsdownbelow]              <anchor 0  -800> mark @mkmkB;
+  pos mark  [dotbelow twodotshorizontalbelow]                       <anchor 0  -500> mark @mkmkB;
+  pos mark  [twodotsverticalbelow threedotsdownbelow fourdotsbelow] <anchor 0  -800> mark @mkmkB;
   pos mark  [uni0651]           <anchor 10 -150> mark @mkmkB;
 } mkmk;
