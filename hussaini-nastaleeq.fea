@@ -3,17 +3,21 @@ languagesystem arab dflt;
 # fix teh marbuta dots clash in the words تختة, تخنة, تخئة, تخثة and تخٹة.
 feature mark {
   # ignore all marks except the dots we match against
-  @Dots = [glyph837 glyph836 glyph847 glyph838 glyph842];
+  @Dots = [twodotshorizontalabove dotabove hamzaabove threedotsupabove tahabove];
   lookupflag UseMarkFilteringSet @Dots;
 
-  pos uni0628.8 [glyph837 glyph836 glyph847] uni06C1.1 glyph837' <0 650 0 0>;
-  pos uni0628.8 [glyph838 glyph842] uni06C1.1 glyph837' <0 1000 0 0>;
+  pos uni0628.8 [twodotshorizontalabove dotabove hamzaabove] uni06C1.1 twodotshorizontalabove' <0 650 0 0>;
+  pos uni0628.8 [threedotsupabove tahabove] uni06C1.1 twodotshorizontalabove' <0 1000 0 0>;
 
-  @DotsBelow = [glyph839 glyph840 glyph841];
+  @DotsBelow = [dotbelow twodotshorizontalbelow threedotsdownbelow];
   lookupflag UseMarkFilteringSet @DotsBelow;
 
-  pos [glyph840 glyph841]' <200 0 0 0> glyph107' <0 0 0 0> [glyph840 glyph841]' <-200 -150 0 0>;
-  pos glyph839' <150 0 0 0> glyph107' <0 0 0 0> [glyph840 glyph841]' <0 -150 0 0>;
+  pos [twodotshorizontalbelow threedotsdownbelow]' <200 0 0 0>
+       glyph107' <0 0 0 0>
+      [twodotshorizontalbelow threedotsdownbelow]' <-200 -150 0 0>;
+  pos  dotbelow' <150 0 0 0>
+       glyph107' <0   0 0 0>
+      [twodotshorizontalbelow threedotsdownbelow]' <0 -150 0 0>;
 } mark;
 
 # vowel marks above dots/shadda
@@ -24,10 +28,10 @@ feature mkmk {
   markClass [uni0652]                 <anchor -10 -71 >      @mkmkA;
   markClass [uni0658]                 <anchor  51  30 >      @mkmkA;
 
-  pos mark  [glyph836 glyph837]       <anchor  0   500> mark @mkmkA;
-  pos mark  [glyph838]                <anchor  0   800> mark @mkmkA;
-  pos mark  [glyph842]                <anchor -20  700> mark @mkmkA;
-  pos mark  [uni0654 glyph847]        <anchor  20  300> mark @mkmkA;
+  pos mark  [dotabove twodotshorizontalabove] <anchor  0   500> mark @mkmkA;
+  pos mark  [threedotsupabove]                <anchor  0   800> mark @mkmkA;
+  pos mark  [tahabove]                <anchor -20  700> mark @mkmkA;
+  pos mark  [uni0654 hamzaabove]        <anchor  20  300> mark @mkmkA;
   pos mark  [uni0651]                 <anchor  50  350> mark @mkmkA;
 } mkmk;
 
@@ -36,7 +40,7 @@ feature mkmk {
   markClass [uni0650]           <anchor 20  81 >      @mkmkB;
   markClass [uni064D]           <anchor 20  153>      @mkmkB;
 
-  pos mark  [glyph839 glyph840] <anchor 0  -500> mark @mkmkB;
-  pos mark  [glyph841]          <anchor 0  -800> mark @mkmkB;
+  pos mark  [dotbelow twodotshorizontalbelow] <anchor 0  -500> mark @mkmkB;
+  pos mark  [threedotsdownbelow]              <anchor 0  -800> mark @mkmkB;
   pos mark  [uni0651]           <anchor 10 -150> mark @mkmkB;
 } mkmk;

@@ -465,7 +465,7 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 108 subtable" 0 0 0 1
  1 1 1
-  Coverage: 8 glyph842
+  Coverage: 8 tahabove
   BCoverage: 8 glyph490
   FCoverage: 323 glyph683 glyph684 glyph685 glyph686 glyph687 glyph688 glyph689 glyph690 glyph691 glyph692 glyph693 glyph694 glyph695 glyph696 glyph697 glyph698 glyph699 glyph700 glyph701 glyph702 glyph703 glyph704 glyph705 glyph706 glyph707 glyph708 glyph709 glyph710 glyph711 glyph712 glyph713 glyph714 glyph715 glyph716 glyph717 glyph718
  1
@@ -492,7 +492,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
   FCoverage: 8 glyph844
   FCoverage: 8 glyph520
   FCoverage: 8 glyph465
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph680
  1
   SeqLookup: 0 "Single Substitution lookup 210"
@@ -524,7 +524,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 2
   Coverage: 7 uni0622
   FCoverage: 8 glyph251
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Single Substitution lookup 210"
 EndFPST
@@ -571,7 +571,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 2
   Coverage: 7 uni0622
   FCoverage: 8 glyph182
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
  1
   SeqLookup: 0 "Single Substitution lookup 210"
 EndFPST
@@ -579,7 +579,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 2
   Coverage: 7 uni0622
   FCoverage: 9 uni0633.2
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
  1
   SeqLookup: 0 "Single Substitution lookup 210"
 EndFPST
@@ -587,9 +587,9 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 4
   Coverage: 7 uni0622
   FCoverage: 8 glyph161
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 8 glyph465
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Single Substitution lookup 210"
 EndFPST
@@ -597,7 +597,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 3
   Coverage: 7 uni0622
   FCoverage: 8 glyph168
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 8 glyph647
  1
   SeqLookup: 0 "Single Substitution lookup 210"
@@ -606,7 +606,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 3
   Coverage: 7 uni0622
   FCoverage: 8 glyph181
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 8 glyph483
  1
   SeqLookup: 0 "Single Substitution lookup 210"
@@ -615,7 +615,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 3
   Coverage: 7 uni0622
   FCoverage: 8 glyph172
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 17 glyph624 glyph644
  1
   SeqLookup: 0 "Single Substitution lookup 210"
@@ -631,9 +631,9 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 4
   Coverage: 7 uni0622
   FCoverage: 8 glyph268
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph465
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Single Substitution lookup 210"
 EndFPST
@@ -641,7 +641,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 2
   Coverage: 7 uni0622
   FCoverage: 8 glyph120
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Single Substitution lookup 210"
 EndFPST
@@ -649,7 +649,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 3
   Coverage: 7 uni0622
   FCoverage: 8 glyph115
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph647
  1
   SeqLookup: 0 "Single Substitution lookup 210"
@@ -658,7 +658,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 106 contextua
  1 0 3
   Coverage: 7 uni0622
   FCoverage: 8 glyph109
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 7 glyph47
  1
   SeqLookup: 0 "Single Substitution lookup 210"
@@ -1106,7 +1106,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 53 contextual
  1 0 3
   Coverage: 17 glyph687 glyph705
   FCoverage: 8 glyph517
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 323 glyph647 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph665 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682
  1
   SeqLookup: 0 "Single Substitution lookup 158"
@@ -1115,7 +1115,7 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 53 contextual
  1 0 3
   Coverage: 17 glyph687 glyph705
   FCoverage: 8 glyph517
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 323 glyph683 glyph684 glyph685 glyph686 glyph687 glyph688 glyph689 glyph690 glyph691 glyph692 glyph693 glyph694 glyph695 glyph696 glyph697 glyph698 glyph699 glyph700 glyph701 glyph702 glyph703 glyph704 glyph705 glyph706 glyph707 glyph708 glyph709 glyph710 glyph711 glyph712 glyph713 glyph714 glyph715 glyph716 glyph717 glyph718
  1
   SeqLookup: 0 "Single Substitution lookup 158"
@@ -1472,9 +1472,9 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 13 subtable" 
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 12 contextual 2" 0 0 0 1
  1 3 2
-  Coverage: 8 glyph838
+  Coverage: 16 threedotsupabove
   BCoverage: 8 glyph517
-  BCoverage: 35 glyph836 glyph839 glyph840 glyph841
+  BCoverage: 59 dotabove dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph135
   FCoverage: 8 glyph744
   FCoverage: 7 glyph93
@@ -1483,9 +1483,9 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 12 contextual
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 12 contextual 1" 0 0 0 1
  1 3 2
-  Coverage: 8 glyph838
+  Coverage: 16 threedotsupabove
   BCoverage: 8 glyph517
-  BCoverage: 35 glyph836 glyph839 glyph840 glyph841
+  BCoverage: 59 dotabove dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph135
   FCoverage: 8 glyph744
   FCoverage: 7 glyph92
@@ -1494,9 +1494,9 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 12 contextual
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 12 contextual 0" 0 0 0 1
  1 3 1
-  Coverage: 8 glyph838
+  Coverage: 16 threedotsupabove
   BCoverage: 8 glyph517
-  BCoverage: 35 glyph836 glyph839 glyph840 glyph841
+  BCoverage: 59 dotabove dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph135
   FCoverage: 323 glyph647 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph665 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682
  1
@@ -1553,9 +1553,9 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 4 subtable" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 10" 0 0 0 1
  1 0 4
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph490
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 17 glyph695 glyph713
   FCoverage: 8 glyph484
  1
@@ -1563,18 +1563,18 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 10"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 9" 0 0 0 1
  1 0 5
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph468
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph465
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 26 glyph663 glyph681 glyph738
  1
   SeqLookup: 0 "Mark to base attachment lookup 199"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 8" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 17 glyph647 glyph665
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
@@ -1583,9 +1583,9 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 8" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 7" 0 0 0 1
  1 0 4
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph465
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
  1
@@ -1593,38 +1593,38 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 7" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 6" 0 0 0 1
  1 0 5
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph466
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph485
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 199"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 5" 0 0 0 1
  1 0 4
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph773
   FCoverage: 8 glyph485
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 199"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 4" 0 0 0 1
  1 0 4
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph792
   FCoverage: 8 glyph469
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph510
  1
   SeqLookup: 0 "Mark to base attachment lookup 199"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 3" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph772
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
@@ -1633,7 +1633,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 3" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 2" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph797
   FCoverage: 17 glyph695 glyph713
   FCoverage: 8 glyph484
@@ -1642,17 +1642,17 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 2" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 1" 0 0 0 1
  1 0 4
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph720
   FCoverage: 8 glyph485
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 199"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 0" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph743
   FCoverage: 17 glyph695 glyph713
   FCoverage: 8 glyph484
@@ -1661,7 +1661,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 114 contextual 0" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 5" 0 0 0 1
  1 0 3
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph798
   FCoverage: 8 glyph725
   FCoverage: 8 glyph536
@@ -1670,37 +1670,37 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 5" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 4" 0 0 0 1
  1 0 4
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph799
   FCoverage: 8 glyph471
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph536
  1
   SeqLookup: 0 "Mark to base attachment lookup 198"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 3" 0 0 0 1
  1 0 4
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph799
   FCoverage: 8 glyph485
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 198"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 2" 0 0 0 1
  1 0 4
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph801
   FCoverage: 8 glyph465
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 26 glyph663 glyph681 glyph738
  1
   SeqLookup: 0 "Mark to base attachment lookup 198"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 1" 0 0 0 1
  1 0 3
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph798
   FCoverage: 8 glyph719
   FCoverage: 26 glyph663 glyph681 glyph738
@@ -1709,7 +1709,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 1" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 0" 0 0 0 1
  1 0 3
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph798
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
@@ -1718,19 +1718,19 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 113 contextual 0" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 8" 0 0 0 1
  1 0 4
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph683
   FCoverage: 8 glyph485
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 197"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 7" 0 0 0 1
  1 0 4
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph472
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 26 glyph647 glyph665 glyph719
   FCoverage: 8 glyph738
  1
@@ -1738,17 +1738,17 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 7" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 6" 0 0 0 1
  1 0 4
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph773
   FCoverage: 8 glyph485
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 197"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 5" 0 0 0 1
  1 0 3
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph797
   FCoverage: 17 glyph695 glyph713
   FCoverage: 8 glyph484
@@ -1757,27 +1757,27 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 5" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 4" 0 0 0 1
  1 0 4
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph776
   FCoverage: 8 glyph507
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph791
  1
   SeqLookup: 0 "Mark to base attachment lookup 197"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 3" 0 0 0 1
  1 0 4
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph745
   FCoverage: 8 glyph485
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 197"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 2" 0 0 0 1
  1 0 3
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph769
   FCoverage: 17 glyph695 glyph713
   FCoverage: 8 glyph484
@@ -1786,7 +1786,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 2" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 1" 0 0 0 1
  1 0 3
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 17 glyph647 glyph665
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
@@ -1795,11 +1795,11 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 1" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 112 contextual 0" 0 0 0 1
  1 0 5
-  Coverage: 8 glyph841
+  Coverage: 18 threedotsdownbelow
   FCoverage: 8 glyph468
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph465
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 26 glyph663 glyph681 glyph738
  1
   SeqLookup: 0 "Mark to base attachment lookup 197"
@@ -1808,9 +1808,9 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 111 contextual 1" 
  1 0 5
   Coverage: 8 glyph844
   FCoverage: 8 glyph468
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph465
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 26 glyph663 glyph681 glyph738
  1
   SeqLookup: 0 "Mark to base attachment lookup 196"
@@ -1826,37 +1826,37 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 111 contextual 0" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 110 contextual 1" 0 0 0 1
  1 2 2
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph484
-  FCoverage: 17 glyph840 glyph841
+  FCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 195"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 110 contextual 0" 0 0 0 1
  1 4 0
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph484
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 195"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 109 contextual 3" 0 0 0 1
  1 0 4
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 26 glyph649 glyph667 glyph722
   FCoverage: 8 glyph465
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 26 glyph663 glyph681 glyph738
  1
   SeqLookup: 0 "Mark to base attachment lookup 194"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 109 contextual 2" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph798
   FCoverage: 26 glyph663 glyph681 glyph738
  1
@@ -1864,7 +1864,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 109 contextual 2" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 109 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph772
   FCoverage: 26 glyph663 glyph681 glyph738
  1
@@ -1872,7 +1872,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 109 contextual 1" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 109 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 26 glyph664 glyph682 glyph719
   FCoverage: 26 glyph663 glyph681 glyph738
  1
@@ -1880,124 +1880,124 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 109 contextual 0" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 11" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph471
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph536
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 10" 0 0 0 1
  1 0 4
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph485
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph484
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 9" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph485
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 8" 0 0 0 1
  1 2 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph465
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 26 glyph663 glyph681 glyph738
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 7" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph484
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 6" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph510
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 5" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph510
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 4" 0 0 0 1
  1 5 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph484
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph485
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 17 glyph110 glyph466
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 3" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph484
   BCoverage: 8 glyph739
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 17 glyph109 glyph465
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 2" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph484
-  BCoverage: 8 glyph839
+  BCoverage: 8 dotbelow
   BCoverage: 17 glyph128 glyph485
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 1" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph484
   BCoverage: 17 glyph695 glyph713
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 108 contextual 0" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph484
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 193"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 107 contextual 3" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph543
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
   FCoverage: 8 glyph738
  1
   SeqLookup: 0 "Mark to base attachment lookup 192"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 107 contextual 2" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph543
   FCoverage: 8 glyph738
  1
@@ -2005,7 +2005,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 107 contextual 2" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 107 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph748
   FCoverage: 8 glyph510
  1
@@ -2013,7 +2013,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 107 contextual 1" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 107 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph764
   FCoverage: 8 glyph484
  1
@@ -2021,25 +2021,25 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 107 contextual 0" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 106 contextual 1" 0 0 0 1
  1 2 1
-  Coverage: 17 glyph839 glyph841
+  Coverage: 27 dotbelow threedotsdownbelow
   BCoverage: 8 glyph511
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 191"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 106 contextual 0" 0 0 0 1
  1 2 1
-  Coverage: 17 glyph839 glyph841
+  Coverage: 27 dotbelow threedotsdownbelow
   BCoverage: 8 glyph508
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph817
  1
   SeqLookup: 0 "Mark to base attachment lookup 191"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 3" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph804
   FCoverage: 8 glyph536
  1
@@ -2047,7 +2047,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 3" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 2" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph802
   FCoverage: 8 glyph510
  1
@@ -2055,7 +2055,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 2" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph818
   FCoverage: 8 glyph484
  1
@@ -2063,7 +2063,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 1" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph798
   FCoverage: 26 glyph663 glyph681 glyph738
  1
@@ -2071,7 +2071,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 105 contextual 0" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 104 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph792
   FCoverage: 8 glyph484
  1
@@ -2079,7 +2079,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 104 contextual 1" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 104 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph772
   FCoverage: 26 glyph663 glyph681 glyph738
  1
@@ -2087,16 +2087,16 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 104 contextual 0" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 103 subtable" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph469
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph510
  1
   SeqLookup: 0 "Mark to base attachment lookup 188"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 102 contextual 3" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph537
   FCoverage: 8 glyph484
  1
@@ -2104,16 +2104,16 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 102 contextual 3" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 102 contextual 2" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph537
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 187"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 102 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph517
   FCoverage: 17 glyph663 glyph681
  1
@@ -2121,16 +2121,16 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 102 contextual 1" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 102 contextual 0" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph517
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 17 glyph663 glyph681
  1
   SeqLookup: 0 "Mark to base attachment lookup 187"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 101 subtable" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 17 glyph647 glyph665
   FCoverage: 8 glyph738
  1
@@ -2138,7 +2138,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 101 subtable" 0 0 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 100 subtable" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 17 glyph695 glyph713
   FCoverage: 8 glyph484
  1
@@ -2146,7 +2146,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 100 subtable" 0 0 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 99 subtable" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph770
   FCoverage: 26 glyph663 glyph681 glyph738
  1
@@ -2154,34 +2154,34 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 99 subtable" 0 0 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 98 subtable" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph465
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 26 glyph663 glyph681 glyph738
  1
   SeqLookup: 0 "Mark to base attachment lookup 183"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 97 contextual 1" 0 0 0 1
  1 0 3
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph471
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph536
  1
   SeqLookup: 0 "Mark to base attachment lookup 182"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 97 contextual 0" 0 0 0 1
  1 0 3
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph485
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 8 glyph484
  1
   SeqLookup: 0 "Mark to base attachment lookup 182"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 96 subtable" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph723
   FCoverage: 8 glyph510
  1
@@ -2189,7 +2189,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 96 subtable" 0 0 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 95 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph725
   FCoverage: 8 glyph536
  1
@@ -2197,7 +2197,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 95 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 95 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph739
   FCoverage: 8 glyph484
  1
@@ -2205,71 +2205,71 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 95 contextual 0" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 94 subtable" 0 0 0 1
  1 0 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 116 glyph484 glyph510 glyph536 glyph562 glyph588 glyph614 glyph640 glyph663 glyph681 glyph738 glyph763 glyph791 glyph817
  1
   SeqLookup: 0 "Mark to base attachment lookup 179"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 93 contextual 1" 0 0 0 1
  1 4 1
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph465
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 7 glyph94
  1
   SeqLookup: 0 "Mark to base attachment lookup 178"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 93 contextual 0" 0 0 0 1
  1 2 2
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph483
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 178"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 92 subtable" 0 0 0 1
  1 0 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 7 glyph94
  1
   SeqLookup: 0 "Mark to base attachment lookup 177"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 91 subtable" 0 0 0 1
  1 0 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 7 glyph95
  1
   SeqLookup: 0 "Mark to base attachment lookup 176"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 90 contextual 4" 0 0 0 1
  1 2 3
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph469
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
   SeqLookup: 0 "Mark to base attachment lookup 175"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 90 contextual 3" 0 0 0 1
  1 2 3
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph469
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
   SeqLookup: 0 "Mark to base attachment lookup 175"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 90 contextual 2" 0 0 0 1
  1 2 1
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph469
   BCoverage: 8 glyph844
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
@@ -2278,18 +2278,18 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 90 contextual 2" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 90 contextual 1" 0 0 0 1
  1 2 1
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph469
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
   SeqLookup: 0 "Mark to base attachment lookup 175"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 90 contextual 0" 0 0 0 1
  1 3 1
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph469
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 17 glyph128 glyph485
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
@@ -2297,7 +2297,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 90 contextual 0" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 89 contextual 3" 0 0 0 1
  1 1 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph121
   FCoverage: 8 glyph748
  1
@@ -2305,16 +2305,16 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 89 contextual 3" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 89 contextual 2" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph469
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
   SeqLookup: 0 "Mark to base attachment lookup 174"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 89 contextual 1" 0 0 0 1
  1 1 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph148
   FCoverage: 8 glyph748
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
@@ -2323,723 +2323,723 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 89 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 89 contextual 0" 0 0 0 1
  1 0 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 31 glyph58 glyph59 glyph60 glyph61
  1
   SeqLookup: 0 "Mark to base attachment lookup 174"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 88 subtable" 0 0 0 1
  1 0 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 31 glyph81 glyph82 glyph83 glyph84
  1
   SeqLookup: 0 "Mark to base attachment lookup 173"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 87 subtable" 0 0 0 1
  1 0 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 7 glyph90
  1
   SeqLookup: 0 "Mark to base attachment lookup 172"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 86 subtable" 0 0 0 1
  1 0 1
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 53 glyph658 glyph661 glyph676 glyph679 glyph732 glyph736
  1
   SeqLookup: 0 "Mark to base attachment lookup 171"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 85 contextual 1" 0 0 0 1
  1 2 1
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   BCoverage: 8 glyph469
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph509
  1
   SeqLookup: 0 "Mark to base attachment lookup 170"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 85 contextual 0" 0 0 0 1
  1 0 1
-  Coverage: 35 glyph839 glyph840 glyph841 glyph844
+  Coverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 35 glyph483 glyph662 glyph680 glyph737
  1
   SeqLookup: 0 "Mark to base attachment lookup 170"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 84 contextual 5" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 17 glyph839 glyph840
+  BCoverage: 31 dotbelow twodotshorizontalbelow
   FCoverage: 8 glyph477
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 169"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 84 contextual 4" 0 0 0 1
  1 4 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph494
-  BCoverage: 17 glyph839 glyph840
+  BCoverage: 31 dotbelow twodotshorizontalbelow
   BCoverage: 8 glyph469
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph465
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 169"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 84 contextual 3" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 17 glyph839 glyph840
+  BCoverage: 31 dotbelow twodotshorizontalbelow
   FCoverage: 8 glyph487
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 169"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 84 contextual 2" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 17 glyph839 glyph840
+  BCoverage: 31 dotbelow twodotshorizontalbelow
   FCoverage: 8 glyph465
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 169"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 84 contextual 1" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 17 glyph839 glyph840
+  BCoverage: 31 dotbelow twodotshorizontalbelow
   FCoverage: 8 glyph466
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 169"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 84 contextual 0" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph488
-  BCoverage: 17 glyph839 glyph840
+  BCoverage: 31 dotbelow twodotshorizontalbelow
   FCoverage: 8 glyph486
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 169"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 83 contextual 2" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph465
-  FCoverage: 17 glyph839 glyph840
+  FCoverage: 31 dotbelow twodotshorizontalbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 168"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 83 contextual 1" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph466
-  FCoverage: 17 glyph839 glyph840
+  FCoverage: 31 dotbelow twodotshorizontalbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 168"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 83 contextual 0" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph488
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph486
-  FCoverage: 17 glyph839 glyph840
+  FCoverage: 31 dotbelow twodotshorizontalbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 168"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 82 contextual 4" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph477
-  FCoverage: 8 glyph841
+  FCoverage: 18 threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 167"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 82 contextual 3" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph487
-  FCoverage: 8 glyph841
+  FCoverage: 18 threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 167"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 82 contextual 2" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph465
-  FCoverage: 8 glyph841
+  FCoverage: 18 threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 167"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 82 contextual 1" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph466
-  FCoverage: 8 glyph841
+  FCoverage: 18 threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 167"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 82 contextual 0" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph488
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   FCoverage: 8 glyph486
-  FCoverage: 8 glyph841
+  FCoverage: 18 threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 167"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 81 contextual 2" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph466
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 166"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 81 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph487
-  FCoverage: 17 glyph840 glyph841
+  FCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 166"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 81 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph465
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 166"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 80 contextual 2" 0 0 0 1
  1 0 4
-  Coverage: 26 glyph840 glyph841 glyph844
+  Coverage: 50 twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph488
-  FCoverage: 17 glyph840 glyph841
+  FCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph486
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 165"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 80 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph840 glyph841 glyph844
+  Coverage: 50 twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph485
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 165"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 80 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph840 glyph841 glyph844
+  Coverage: 50 twodotshorizontalbelow threedotsdownbelow glyph844
   FCoverage: 8 glyph468
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 165"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 79 subtable" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph486
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 164"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 78 contextual 4" 0 0 0 1
  1 2 4
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph466
   BCoverage: 17 glyph442 glyph801
   FCoverage: 8 glyph488
-  FCoverage: 17 glyph840 glyph841
+  FCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph486
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 163"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 78 contextual 3" 0 0 0 1
  1 3 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph466
-  BCoverage: 53 glyph836 glyph837 glyph838 glyph839 glyph842 glyph847
+  BCoverage: 77 dotabove twodotshorizontalabove threedotsupabove dotbelow tahabove hamzaabove
   BCoverage: 57 glyph138 glyph164 uni0635.2 glyph216 uni0639.2 uni0635.11
   FCoverage: 8 glyph485
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 163"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 78 contextual 2" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph466
   BCoverage: 75 glyph138 glyph164 uni0635.2 glyph216 uni0639.2 glyph442 uni0635.11 glyph801
   FCoverage: 8 glyph485
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 163"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 78 contextual 1" 0 0 0 1
  1 3 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph466
-  BCoverage: 17 glyph836 glyph839
+  BCoverage: 17 dotabove dotbelow
   BCoverage: 17 glyph138 glyph494
   FCoverage: 8 glyph468
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 163"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 78 contextual 0" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph466
   BCoverage: 71 glyph138 glyph164 glyph365 glyph390 glyph494 glyph520 glyph722 glyph747
   FCoverage: 8 glyph468
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 163"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 77 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph477
-  FCoverage: 8 glyph839
+  FCoverage: 8 dotbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 162"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 77 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 98 glyph469 glyph473 glyph474 glyph475 glyph476 glyph477 glyph478 glyph481 glyph482 glyph484 glyph490
-  FCoverage: 17 glyph840 glyph841
+  FCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 162"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 76 contextual 6" 0 0 0 1
  1 0 2
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph490
-  FCoverage: 17 glyph840 glyph841
+  FCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 161"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 76 contextual 5" 0 0 0 1
  1 0 1
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph489
  1
   SeqLookup: 0 "Mark to base attachment lookup 161"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 76 contextual 4" 0 0 0 1
  1 0 2
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph481
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 161"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 76 contextual 3" 0 0 0 1
  1 0 1
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph482
  1
   SeqLookup: 0 "Mark to base attachment lookup 161"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 76 contextual 2" 0 0 0 1
  1 0 2
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph476
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 161"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 76 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph477
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 161"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 76 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 17 glyph840 glyph841
+  Coverage: 41 twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph475
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 161"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 75 contextual 2" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph511
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph469
  1
   SeqLookup: 0 "Mark to base attachment lookup 160"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 75 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph495
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 160"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 75 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph494
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 160"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 74 contextual 3" 0 0 0 1
  1 0 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph739
   FCoverage: 8 glyph469
-  FCoverage: 17 glyph840 glyph841
+  FCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 159"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 74 contextual 2" 0 0 0 1
  1 1 4
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph114
   FCoverage: 8 glyph537
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
   FCoverage: 8 glyph469
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 159"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 74 contextual 1" 0 0 0 1
  1 1 3
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph114
   FCoverage: 8 glyph537
   FCoverage: 8 glyph469
-  FCoverage: 26 glyph839 glyph840 glyph841
+  FCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 159"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 74 contextual 0" 0 0 0 1
  1 0 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph469
  1
   SeqLookup: 0 "Mark to base attachment lookup 159"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 15" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph469
   BCoverage: 17 glyph695 glyph713
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph490
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 14" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph469
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 13" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph490
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 12" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph489
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 11" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph488
-  BCoverage: 35 glyph839 glyph840 glyph841 glyph844
+  BCoverage: 59 dotbelow twodotshorizontalbelow threedotsdownbelow glyph844
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 10" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 17 glyph839 glyph844
+  BCoverage: 17 dotbelow glyph844
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 9" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 17 glyph110 glyph136
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 8" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 9 uni0628.7
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 7" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph475
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 6" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph474
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 5" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph472
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 4" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph471
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 3" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   BCoverage: 8 glyph492
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 2" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph466
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 1" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph467
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 73 contextual 0" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph465
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 158"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 11" 0 0 0 1
  1 6 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph496
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph469
   BCoverage: 17 glyph695 glyph713
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph490
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 10" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 26 glyph496 glyph508 glyph516
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph469
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 9" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph494
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph469
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 8" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph503
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   BCoverage: 8 glyph469
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 7" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph477
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph485
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 6" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph477
   BCoverage: 8 glyph739
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 5" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph483
   BCoverage: 8 glyph695
-  BCoverage: 8 glyph841
+  BCoverage: 18 threedotsdownbelow
   BCoverage: 8 glyph490
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 4" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 26 glyph477 glyph483 glyph509
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 3" 0 0 0 1
  1 5 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph504
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph469
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 2" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph485
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 17 glyph466 glyph492
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 1" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph470
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph486
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 72 contextual 0" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph486
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 157"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 71 contextual 3" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph503
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 156"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 71 contextual 2" 0 0 0 1
  1 0 1
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   FCoverage: 8 glyph777
  1
   SeqLookup: 0 "Mark to base attachment lookup 156"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 71 contextual 1" 0 0 0 1
  1 4 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph470
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph486
-  BCoverage: 17 glyph840 glyph841
+  BCoverage: 41 twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 156"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 71 contextual 0" 0 0 0 1
  1 2 0
-  Coverage: 26 glyph839 glyph840 glyph841
+  Coverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph470
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
  1
   SeqLookup: 0 "Mark to base attachment lookup 156"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 70 contextual 1" 0 0 0 1
  1 3 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph476
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph485
   FCoverage: 8 glyph626
  1
@@ -3047,78 +3047,78 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 70 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 70 contextual 0" 0 0 0 1
  1 2 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph469
   BCoverage: 35 glyph339 glyph357 glyph695 glyph713
   FCoverage: 8 glyph491
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 155"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 7" 0 0 0 1
  1 3 0
-  Coverage: 26 glyph837 glyph838 glyph842
+  Coverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph528
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph271
  1
   SeqLookup: 0 "Mark to base attachment lookup 154"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 6" 0 0 0 1
  1 3 2
-  Coverage: 26 glyph837 glyph838 glyph842
+  Coverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph474
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph485
   FCoverage: 26 glyph574 glyph582 glyph593
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 154"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 5" 0 0 0 1
  1 2 2
-  Coverage: 26 glyph837 glyph838 glyph842
+  Coverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph520
   BCoverage: 8 glyph497
   FCoverage: 8 glyph465
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 154"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 4" 0 0 0 1
  1 3 2
-  Coverage: 26 glyph837 glyph838 glyph842
+  Coverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph520
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 8 glyph497
   FCoverage: 17 glyph465 glyph487
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 154"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 3" 0 0 0 1
  1 5 0
-  Coverage: 26 glyph837 glyph838 glyph842
+  Coverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph465
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 8 glyph494
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 8 glyph139
  1
   SeqLookup: 0 "Mark to base attachment lookup 154"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 2" 0 0 0 1
  1 1 2
-  Coverage: 26 glyph837 glyph838 glyph842
+  Coverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph469
   FCoverage: 17 glyph502 glyph511
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 154"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 1" 0 0 0 1
  1 2 1
-  Coverage: 26 glyph837 glyph838 glyph842
+  Coverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph469
   BCoverage: 17 glyph155 glyph339
   FCoverage: 8 glyph491
@@ -3127,9 +3127,9 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 0" 0 0 0 1
  1 3 1
-  Coverage: 26 glyph837 glyph838 glyph842
+  Coverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph469
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 17 glyph155 glyph285
   FCoverage: 8 glyph491
  1
@@ -3137,67 +3137,67 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 69 contextual 0" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 68 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph584
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 153"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 68 contextual 0" 0 0 0 1
  1 0 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 7 glyph86
  1
   SeqLookup: 0 "Mark to base attachment lookup 153"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 67 contextual 3" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph110
   FCoverage: 8 glyph485
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 152"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 67 contextual 2" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 17 glyph162 glyph518
   FCoverage: 17 glyph488 glyph913
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 152"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 67 contextual 1" 0 0 0 1
  1 1 4
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph266
   FCoverage: 8 glyph468
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
   FCoverage: 8 glyph465
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 152"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 67 contextual 0" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph136
   FCoverage: 8 glyph485
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 152"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 66 subtable" 0 0 0 1
  1 0 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 23 glyph62 glyph63 glyph64
  1
   SeqLookup: 0 "Mark to base attachment lookup 151"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 6" 0 0 0 1
  1 2 0
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph621
   BCoverage: 53 glyph146 glyph335 glyph353 glyph502 glyph692 glyph710
  1
@@ -3205,25 +3205,25 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 6" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 5" 0 0 0 1
  1 3 0
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph621
-  BCoverage: 35 glyph836 glyph839 glyph840 glyph841
+  BCoverage: 59 dotabove dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph146
  1
   SeqLookup: 0 "Mark to base attachment lookup 150"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 4" 0 0 0 1
  1 3 0
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph621
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph276
  1
   SeqLookup: 0 "Mark to base attachment lookup 150"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 3" 0 0 0 1
  1 2 1
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph517
   BCoverage: 53 glyph141 glyph330 glyph348 glyph497 glyph687 glyph705
   FCoverage: 249 glyph47 glyph94 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
@@ -3232,9 +3232,9 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 3" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 2" 0 0 0 1
  1 3 1
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph517
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 26 glyph141 glyph271 glyph497
   FCoverage: 249 glyph47 glyph94 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
@@ -3242,7 +3242,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 2" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 1" 0 0 0 1
  1 2 1
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph465
   BCoverage: 36 glyph292 uni06AF.2 glyph649 glyph667
   FCoverage: 7 glyph94
@@ -3251,9 +3251,9 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 0" 0 0 0 1
  1 3 1
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph465
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph468
   FCoverage: 249 glyph47 glyph94 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
@@ -3261,16 +3261,16 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 65 contextual 0" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 64 contextual 3" 0 0 0 1
  1 3 0
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph491
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 8 glyph139
  1
   SeqLookup: 0 "Mark to base attachment lookup 149"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 64 contextual 2" 0 0 0 1
  1 2 0
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph491
   BCoverage: 8 glyph139
  1
@@ -3278,7 +3278,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 64 contextual 2" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 64 contextual 1" 0 0 0 1
  1 2 1
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph465
   BCoverage: 36 glyph292 uni06AF.2 glyph649 glyph667
   FCoverage: 241 glyph47 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
@@ -3287,7 +3287,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 64 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 64 contextual 0" 0 0 0 1
  1 2 1
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph465
   BCoverage: 35 glyph216 glyph365 glyph572 glyph722
   FCoverage: 241 glyph47 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
@@ -3296,206 +3296,206 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 64 contextual 0" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 63 subtable" 0 0 0 1
  1 0 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 7 glyph47
  1
   SeqLookup: 0 "Mark to base attachment lookup 148"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 62 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 225 glyph622 glyph623 glyph624 uni0641.1 glyph626 glyph627 glyph628 glyph629 glyph630 glyph631 glyph632 glyph633 glyph634 glyph635 glyph636 glyph637 glyph638 glyph639 glyph640 glyph641 glyph642 glyph643 glyph644 glyph645 glyph646
-  FCoverage: 8 glyph837
+  FCoverage: 22 twodotshorizontalabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 147"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 62 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 225 glyph622 glyph623 glyph624 uni0641.1 glyph626 glyph627 glyph628 glyph629 glyph630 glyph631 glyph632 glyph633 glyph634 glyph635 glyph636 glyph637 glyph638 glyph639 glyph640 glyph641 glyph642 glyph643 glyph644 glyph645 glyph646
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 147"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 61 subtable" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 233 glyph595 glyph596 glyph597 glyph598 glyph599 glyph600 glyph601 glyph602 glyph603 glyph604 glyph605 glyph606 glyph607 glyph608 glyph609 glyph610 glyph611 glyph612 glyph613 glyph614 glyph615 glyph616 glyph617 glyph618 glyph619 glyph620
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 146"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 60 subtable" 0 0 0 1
  1 0 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph490
  1
   SeqLookup: 0 "Mark to base attachment lookup 145"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 14" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 17 glyph181 glyph537
   FCoverage: 8 glyph469
-  FCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  FCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 13" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 17 glyph181 glyph537
   FCoverage: 17 glyph481 glyph489
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 12" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph491
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 11" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph523
   FCoverage: 17 glyph529 glyph539
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 10" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph271
   FCoverage: 26 glyph517 glyph528 glyph529
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 9" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 17 glyph167 glyph271
   FCoverage: 26 glyph517 glyph529 glyph539
-  FCoverage: 8 glyph838
+  FCoverage: 16 threedotsupabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 8" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph621
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 7" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph472
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 6" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph487
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 5" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph485
   FCoverage: 17 glyph474 glyph476
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 4" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 17 glyph468 glyph485
-  BCoverage: 17 glyph836 glyph847
+  BCoverage: 19 dotabove hamzaabove
   BCoverage: 44 glyph110 glyph136 glyph240 glyph466 glyph596
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 3" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 26 glyph468 glyph485 glyph488
-  BCoverage: 17 glyph836 glyph837
+  BCoverage: 31 dotabove twodotshorizontalabove
   BCoverage: 8 glyph622
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 2" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 26 glyph468 glyph485 glyph488
-  BCoverage: 26 glyph837 glyph838 glyph842
+  BCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 44 glyph110 glyph162 glyph466 glyph518 glyph622
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph466
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 59 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph465
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 144"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 58 contextual 3" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph487
-  FCoverage: 17 glyph836 glyph847
+  FCoverage: 19 dotabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 143"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 58 contextual 2" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph466
-  FCoverage: 17 glyph836 glyph847
+  FCoverage: 19 dotabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 143"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 58 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph465
-  FCoverage: 17 glyph836 glyph847
+  FCoverage: 19 dotabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 143"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 58 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph621
-  FCoverage: 17 glyph836 glyph847
+  FCoverage: 19 dotabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 143"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 57 contextual 4" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph491
   FCoverage: 339 glyph92 glyph93 glyph647 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph665 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682
  1
@@ -3503,26 +3503,26 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 57 contextual 4" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 57 contextual 3" 0 0 0 1
  1 0 3
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph491
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 339 glyph92 glyph93 glyph647 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph665 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682
  1
   SeqLookup: 0 "Mark to base attachment lookup 142"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 57 contextual 2" 0 0 0 1
  1 1 3
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph469
   FCoverage: 8 glyph498
-  FCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  FCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   FCoverage: 17 glyph647 glyph665
  1
   SeqLookup: 0 "Mark to base attachment lookup 142"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 57 contextual 1" 0 0 0 1
  1 1 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph469
   FCoverage: 8 glyph498
   FCoverage: 17 glyph647 glyph665
@@ -3531,22 +3531,22 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 57 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 57 contextual 0" 0 0 0 1
  1 0 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 17 glyph647 glyph665
  1
   SeqLookup: 0 "Mark to base attachment lookup 142"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 56 subtable" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 233 glyph569 glyph570 glyph571 glyph572 glyph573 glyph574 glyph575 glyph576 glyph577 glyph578 glyph579 glyph580 glyph581 glyph582 glyph583 glyph584 glyph585 glyph586 glyph587 glyph588 glyph589 glyph590 glyph591 glyph592 glyph593 glyph594
-  FCoverage: 8 glyph836
+  FCoverage: 8 dotabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 141"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 5" 0 0 0 1
  1 2 0
-  Coverage: 17 glyph838 glyph930
+  Coverage: 35 threedotsupabove threedotsupabove.1
   BCoverage: 98 glyph518 glyph519 glyph520 glyph521 glyph522 glyph528 glyph529 glyph531 glyph537 glyph538 glyph541
   BCoverage: 44 glyph141 glyph497 glyph601 glyph687 glyph705
  1
@@ -3554,61 +3554,61 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 5" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 4" 0 0 0 1
  1 3 0
-  Coverage: 17 glyph838 glyph930
+  Coverage: 35 threedotsupabove threedotsupabove.1
   BCoverage: 98 glyph518 glyph519 glyph520 glyph521 glyph522 glyph528 glyph529 glyph531 glyph537 glyph538 glyph541
-  BCoverage: 35 glyph836 glyph839 glyph840 glyph841
+  BCoverage: 59 dotabove dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 17 glyph141 glyph497
  1
   SeqLookup: 0 "Mark to base attachment lookup 140"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 3" 0 0 0 1
  1 3 0
-  Coverage: 17 glyph838 glyph930
+  Coverage: 35 threedotsupabove threedotsupabove.1
   BCoverage: 44 glyph519 glyph522 glyph528 glyph529 glyph537
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph271
  1
   SeqLookup: 0 "Mark to base attachment lookup 140"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 2" 0 0 0 1
  1 3 0
-  Coverage: 17 glyph838 glyph930
+  Coverage: 35 threedotsupabove threedotsupabove.1
   BCoverage: 8 glyph539
-  BCoverage: 8 glyph838
+  BCoverage: 16 threedotsupabove
   BCoverage: 8 glyph523
  1
   SeqLookup: 0 "Mark to base attachment lookup 140"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 1" 0 0 0 1
  1 3 0
-  Coverage: 17 glyph838 glyph930
+  Coverage: 35 threedotsupabove threedotsupabove.1
   BCoverage: 8 glyph535
-  BCoverage: 8 glyph838
+  BCoverage: 16 threedotsupabove
   BCoverage: 8 glyph523
  1
   SeqLookup: 0 "Mark to base attachment lookup 140"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 55 contextual 0" 0 0 0 1
  1 3 0
-  Coverage: 17 glyph838 glyph930
+  Coverage: 35 threedotsupabove threedotsupabove.1
   BCoverage: 8 glyph529
-  BCoverage: 8 glyph838
+  BCoverage: 16 threedotsupabove
   BCoverage: 8 glyph523
  1
   SeqLookup: 0 "Mark to base attachment lookup 140"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 19" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 35 glyph624 glyph633 glyph644 glyph645
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 17 glyph146 glyph502
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 18" 0 0 0 1
  1 2 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 35 glyph624 glyph633 glyph644 glyph645
   BCoverage: 53 glyph146 glyph335 glyph353 glyph502 glyph692 glyph710
  1
@@ -3616,16 +3616,16 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 18" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 17" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph487
-  BCoverage: 8 glyph838
+  BCoverage: 16 threedotsupabove
   BCoverage: 8 glyph520
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 16" 0 0 0 1
  1 2 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph485
   BCoverage: 35 glyph327 glyph345 glyph683 glyph701
  1
@@ -3633,7 +3633,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 16" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 15" 0 0 0 1
  1 2 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph468
   BCoverage: 17 glyph345 glyph701
  1
@@ -3641,34 +3641,34 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 15" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 14" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph481
-  BCoverage: 8 glyph838
+  BCoverage: 16 threedotsupabove
   BCoverage: 17 glyph181 glyph537
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 13" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 10 uni0628.13
-  BCoverage: 8 glyph838
+  BCoverage: 16 threedotsupabove
   BCoverage: 8 glyph518
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 12" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph477
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph641
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 11" 0 0 0 1
  1 2 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 35 glyph477 glyph481 glyph482 glyph489
   BCoverage: 71 glyph155 glyph259 glyph339 glyph357 glyph511 glyph615 glyph695 glyph713
  1
@@ -3676,16 +3676,16 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 11" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 10" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 35 glyph477 glyph481 glyph482 glyph489
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 44 glyph155 glyph259 glyph285 glyph511 glyph615
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 9" 0 0 0 1
  1 2 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph476
   BCoverage: 17 glyph339 glyph357
  1
@@ -3693,7 +3693,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 9" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 8" 0 0 0 1
  1 2 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 26 glyph467 glyph469 glyph472
   BCoverage: 44 glyph155 glyph339 glyph357 glyph695 glyph713
  1
@@ -3701,34 +3701,34 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 8" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 7" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 17 glyph469 glyph472
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 26 glyph155 glyph285 glyph641
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 6" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph470
-  BCoverage: 8 glyph836
+  BCoverage: 8 dotabove
   BCoverage: 8 glyph512
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 5" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph470
-  BCoverage: 8 glyph837
+  BCoverage: 22 twodotshorizontalabove
   BCoverage: 8 glyph642
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 4" 0 0 0 1
  1 2 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph465
   BCoverage: 45 glyph138 uni0639.2 glyph442 glyph494 glyph598
  1
@@ -3736,7 +3736,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 4" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 3" 0 0 0 1
  1 2 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph466
   BCoverage: 53 glyph138 glyph328 glyph346 glyph494 glyph685 glyph703
  1
@@ -3744,18 +3744,18 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 3" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 2" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph466
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 26 glyph138 glyph494 glyph624
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 1" 0 0 0 1
  1 3 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph465
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 27 glyph138 uni0639.2 glyph494
   FCoverage: 249 glyph47 glyph94 glyph105 glyph719 glyph720 glyph721 glyph722 glyph723 glyph724 glyph725 glyph726 glyph727 glyph728 glyph729 glyph730 glyph731 glyph732 glyph733 glyph734 glyph735 glyph736 glyph737 glyph738 glyph739 glyph740 glyph741 glyph742 glyph743
  1
@@ -3763,16 +3763,16 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 54 contextual 0" 0 0 0 1
  1 3 0
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 17 glyph465 glyph466
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph268
  1
   SeqLookup: 0 "Mark to base attachment lookup 139"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 14" 0 0 0 1
  1 2 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph486
   BCoverage: 35 glyph342 glyph360 glyph698 glyph716
  1
@@ -3780,7 +3780,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 14" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 13" 0 0 0 1
  1 2 1
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph497
   BCoverage: 8 glyph139
   FCoverage: 8 glyph517
@@ -3789,9 +3789,9 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 13" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 12" 0 0 0 1
  1 3 1
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph497
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 8 glyph139
   FCoverage: 8 glyph517
  1
@@ -3799,7 +3799,7 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 12" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 11" 0 0 0 1
  1 2 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 17 glyph517 glyph539
   BCoverage: 62 glyph141 glyph330 glyph348 glyph497 glyph601 glyph687 glyph705
  1
@@ -3807,25 +3807,25 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 11" 
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 10" 0 0 0 1
  1 3 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 17 glyph517 glyph539
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 26 glyph141 glyph271 glyph497
  1
   SeqLookup: 0 "Mark to base attachment lookup 138"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 9" 0 0 0 1
  1 3 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph487
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 17 glyph268 glyph494
  1
   SeqLookup: 0 "Mark to base attachment lookup 138"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 8" 0 0 0 1
  1 2 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph487
   BCoverage: 53 glyph328 glyph346 glyph494 glyph598 glyph685 glyph703
  1
@@ -3833,25 +3833,25 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 8" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 7" 0 0 0 1
  1 3 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph470
-  BCoverage: 8 glyph837
+  BCoverage: 22 twodotshorizontalabove
   BCoverage: 8 glyph286
  1
   SeqLookup: 0 "Mark to base attachment lookup 138"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 6" 0 0 0 1
  1 3 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph470
-  BCoverage: 26 glyph839 glyph840 glyph841
+  BCoverage: 50 dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph512
  1
   SeqLookup: 0 "Mark to base attachment lookup 138"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 5" 0 0 0 1
  1 2 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph470
   BCoverage: 71 glyph156 glyph260 glyph340 glyph358 glyph512 glyph616 glyph696 glyph714
  1
@@ -3859,36 +3859,36 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 5" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 4" 0 0 0 1
  1 3 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph470
-  BCoverage: 35 glyph836 glyph839 glyph840 glyph841
+  BCoverage: 59 dotabove dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 44 glyph156 glyph260 glyph286 glyph616 glyph642
  1
   SeqLookup: 0 "Mark to base attachment lookup 138"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 3" 0 0 0 1
  1 3 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph465
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph468
  1
   SeqLookup: 0 "Mark to base attachment lookup 138"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 2" 0 0 0 1
  1 3 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph465
-  BCoverage: 8 glyph836
+  BCoverage: 8 dotabove
   BCoverage: 8 glyph598
  1
   SeqLookup: 0 "Mark to base attachment lookup 138"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 1" 0 0 0 1
  1 3 1
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph465
-  BCoverage: 35 glyph836 glyph839 glyph840 glyph841
+  BCoverage: 59 dotabove dotbelow twodotshorizontalbelow threedotsdownbelow
   BCoverage: 8 glyph138
   FCoverage: 345 glyph62 glyph63 glyph64 glyph92 glyph93 glyph648 glyph649 glyph650 glyph651 glyph652 glyph653 glyph654 glyph655 glyph656 glyph657 glyph658 glyph659 glyph660 glyph661 glyph662 glyph663 glyph664 glyph666 glyph667 glyph668 glyph669 glyph670 glyph671 glyph672 glyph673 glyph674 glyph675 glyph676 glyph677 glyph678 glyph679 glyph680 glyph681 glyph682
  1
@@ -3896,33 +3896,33 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 53 contextual 0" 0 0 0 1
  1 3 0
-  Coverage: 53 glyph836 glyph837 glyph838 glyph842 glyph847 glyph930
+  Coverage: 87 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove threedotsupabove.1
   BCoverage: 8 glyph465
-  BCoverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  BCoverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   BCoverage: 8 glyph624
  1
   SeqLookup: 0 "Mark to base attachment lookup 138"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 52 subtable" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   FCoverage: 8 glyph470
-  FCoverage: 17 glyph838 glyph842
+  FCoverage: 25 threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 137"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 51 contextual 2" 0 0 0 1
  1 3 0
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph486
-  BCoverage: 71 glyph836 glyph837 glyph838 glyph839 glyph840 glyph841 glyph842 glyph847
+  BCoverage: 119 dotabove twodotshorizontalabove threedotsupabove dotbelow twodotshorizontalbelow threedotsdownbelow tahabove hamzaabove
   BCoverage: 17 glyph110 glyph162
  1
   SeqLookup: 0 "Mark to base attachment lookup 136"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 51 contextual 1" 0 0 0 1
  1 2 0
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   BCoverage: 8 glyph486
   BCoverage: 8 glyph162
  1
@@ -3930,62 +3930,62 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 51 contextual 1" 0
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 51 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 35 glyph836 glyph837 glyph838 glyph842
+  Coverage: 57 dotabove twodotshorizontalabove threedotsupabove tahabove
   FCoverage: 8 glyph470
-  FCoverage: 26 glyph836 glyph837 glyph847
+  FCoverage: 42 dotabove twodotshorizontalabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 136"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 50 subtable" 0 0 0 1
  1 0 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 73 uni0691.1 glyph67 glyph68 glyph70 glyph71 glyph72 glyph74 glyph75 glyph76
  1
   SeqLookup: 0 "Mark to base attachment lookup 135"
 EndFPST
 ChainPos2: coverage "Contextual Chaining Positioning lookup 49 contextual 2" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 8 glyph476
-  FCoverage: 17 glyph836 glyph847
+  FCoverage: 19 dotabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 134"
 EndFPST
 ChainPos2: coverage "Contextual Chaining Positioning lookup 49 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 26 glyph467 glyph472 glyph489
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 134"
 EndFPST
 ChainPos2: coverage "Contextual Chaining Positioning lookup 49 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 98 glyph469 glyph473 glyph474 glyph475 glyph476 glyph477 glyph478 glyph481 glyph482 glyph484 glyph490
-  FCoverage: 26 glyph837 glyph838 glyph842
+  FCoverage: 48 twodotshorizontalabove threedotsupabove tahabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 134"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 48 contextual 1" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 26 glyph467 glyph472 glyph489
-  FCoverage: 17 glyph836 glyph847
+  FCoverage: 19 dotabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 133"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 48 contextual 0" 0 0 0 1
  1 0 2
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 98 glyph469 glyph473 glyph474 glyph475 glyph476 glyph477 glyph478 glyph481 glyph482 glyph484 glyph490
-  FCoverage: 17 glyph836 glyph847
+  FCoverage: 19 dotabove hamzaabove
  1
   SeqLookup: 0 "Mark to base attachment lookup 133"
 EndFPST
 ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 47 subtable" 0 0 0 1
  1 0 1
-  Coverage: 44 glyph836 glyph837 glyph838 glyph842 glyph847
+  Coverage: 68 dotabove twodotshorizontalabove threedotsupabove tahabove hamzaabove
   FCoverage: 7 glyph94
  1
   SeqLookup: 0 "Mark to base attachment lookup 132"
@@ -4942,12 +4942,13 @@ LangName: 1033 "" "" "" "" "" "" "" "" "Center For Research in Urdu Language Pro
 LangName: 3073 "" "" "+BjkGJwYvBkoA" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+BjUGQQAA +Bi4GRAZC +Bi4GSAYv +BkMGRQYrBkQA +BicGRAY0BkUGMwAA +BiUGMAAA +BigGMgY6BioA +BkoGLQY4BkkA +BicGRAY2BiwGSgY5 +BigGRwYn +BkYGLAZEBicGIQAA +BkUGOQY3BicGMQAA."
 GaspTable: 3 8 2 16 3 65535 3 0
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Cursive-1" "'curs' Cursive Attachment in Arabic lookup 1 subtable" "Cursive-2" "'curs' Cursive Attachment in Arabic lookup 2 subtable" "Cursive-3" "'curs' Cursive Attachment in Arabic lookup 3 subtable" "Cursive-4" "'curs' Cursive Attachment in Arabic lookup 4 subtable" "Cursive-5" "'curs' Cursive Attachment in Arabic lookup 5 subtable" "Cursive-6" "'curs' Cursive Attachment in Arabic lookup 6 subtable" "Cursive-7" "'curs' Cursive Attachment in Arabic lookup 7 subtable" "Cursive-8" "'curs' Cursive Attachment in Arabic lookup 8 subtable" "Cursive-9" "'curs' Cursive Attachment in Arabic lookup 9 subtable" "Cursive-10" "'curs' Cursive Attachment in Arabic lookup 10 subtable" "Cursive-11" "'curs' Cursive Attachment in Arabic lookup 11 subtable" "Cursive-12" "'curs' Cursive Attachment in Arabic lookup 12 subtable" "Cursive-13" "'curs' Cursive Attachment in Arabic lookup 13 subtable" "Cursive-14" "'curs' Cursive Attachment in Arabic lookup 14 subtable" "Cursive-15" "'curs' Cursive Attachment in Arabic lookup 15 subtable" "Cursive-16" "'curs' Cursive Attachment in Arabic lookup 16 subtable" "Cursive-17" "'curs' Cursive Attachment in Arabic lookup 17 subtable" "Cursive-18" "'curs' Cursive Attachment in Arabic lookup 18 subtable" "Cursive-19" "'curs' Cursive Attachment in Arabic lookup 19 subtable" "Cursive-20" "'curs' Cursive Attachment in Arabic lookup 20 subtable" "Cursive-21" "'curs' Cursive Attachment in Arabic lookup 21 subtable" "Cursive-22" "'curs' Cursive Attachment in Arabic lookup 22 subtable" "Cursive-23" "'curs' Cursive Attachment in Arabic lookup 23 subtable" "Anchor-24" "'mark' Mark Positioning in Arabic lookup 39 subtable" "Anchor-25" "'mark' Mark Positioning in Arabic lookup 39 subtable" "Anchor-26" "'mark' Mark Positioning in Arabic lookup 39 subtable" "Anchor-27" "'mark' Mark Positioning in Arabic lookup 39 subtable" "Anchor-28" "'mark' Mark Positioning in Arabic lookup 39 subtable" "Anchor-29" "'mark' Mark Positioning in Arabic lookup 40 subtable" "Anchor-30" "'mark' Mark Positioning in Arabic lookup 41 subtable" "Anchor-31" "'mark' Mark Positioning in Arabic lookup 42 subtable" "Anchor-32" "'mark' Mark Positioning in Arabic lookup 43 subtable" "Anchor-33" "'mark' Mark Positioning in Arabic lookup 44 subtable" "Anchor-34" "'mark' Mark Positioning in Arabic lookup 45 subtable" "Anchor-35" "'mark' Mark Positioning in Arabic lookup 46 subtable" "Anchor-36" "'mark' Mark Positioning in Arabic lookup 46 subtable" "Anchor-37" "'mark' Mark Positioning in Arabic lookup 115 subtable" "Anchor-38" "'mark' Mark Positioning in Arabic lookup 115 subtable" "Anchor-39" "'mark' Mark Positioning in Arabic lookup 116 subtable" "Anchor-40" "'mark' Mark Positioning in Arabic lookup 116 subtable" "Anchor-41" "Mark to base attachment lookup 132 subtable" "Anchor-42" "Mark to base attachment lookup 132 subtable" "Anchor-43" "Mark to base attachment lookup 133 subtable" "Anchor-44" "Mark to base attachment lookup 133 subtable" "Anchor-45" "Mark to base attachment lookup 134 subtable" "Anchor-46" "Mark to base attachment lookup 134 subtable" "Anchor-47" "Mark to base attachment lookup 135 subtable" "Anchor-48" "Mark to base attachment lookup 135 subtable" "Anchor-49" "Mark to base attachment lookup 136 subtable" "Anchor-50" "Mark to base attachment lookup 136 subtable" "Anchor-51" "Mark to base attachment lookup 137 subtable" "Anchor-52" "Mark to base attachment lookup 137 subtable" "Anchor-53" "Mark to base attachment lookup 138 subtable" "Anchor-54" "Mark to base attachment lookup 138 subtable" "Anchor-55" "Mark to base attachment lookup 138 subtable" "Anchor-56" "Mark to base attachment lookup 138 subtable" "Anchor-57" "Mark to base attachment lookup 139 subtable" "Anchor-58" "Mark to base attachment lookup 139 subtable" "Anchor-59" "Mark to base attachment lookup 140 subtable" "Anchor-60" "Mark to base attachment lookup 141 subtable" "Anchor-61" "Mark to base attachment lookup 141 subtable" "Anchor-62" "Mark to base attachment lookup 142 subtable" "Anchor-63" "Mark to base attachment lookup 142 subtable" "Anchor-64" "Mark to base attachment lookup 142 subtable" "Anchor-65" "Mark to base attachment lookup 143 subtable" "Anchor-66" "Mark to base attachment lookup 143 subtable" "Anchor-67" "Mark to base attachment lookup 144 subtable" "Anchor-68" "Mark to base attachment lookup 144 subtable" "Anchor-69" "Mark to base attachment lookup 144 subtable" "Anchor-70" "Mark to base attachment lookup 145 subtable" "Anchor-71" "Mark to base attachment lookup 145 subtable" "Anchor-72" "Mark to base attachment lookup 146 subtable" "Anchor-73" "Mark to base attachment lookup 146 subtable" "Anchor-74" "Mark to base attachment lookup 147 subtable" "Anchor-75" "Mark to base attachment lookup 147 subtable" "Anchor-76" "Mark to base attachment lookup 148 subtable" "Anchor-77" "Mark to base attachment lookup 148 subtable" "Anchor-78" "Mark to base attachment lookup 148 subtable" "Anchor-79" "Mark to base attachment lookup 149 subtable" "Anchor-80" "Mark to base attachment lookup 149 subtable" "Anchor-81" "Mark to base attachment lookup 149 subtable" "Anchor-82" "Mark to base attachment lookup 149 subtable" "Anchor-83" "Mark to base attachment lookup 150 subtable" "Anchor-84" "Mark to base attachment lookup 150 subtable" "Anchor-85" "Mark to base attachment lookup 150 subtable" "Anchor-86" "Mark to base attachment lookup 150 subtable" "Anchor-87" "Mark to base attachment lookup 151 subtable" "Anchor-88" "Mark to base attachment lookup 151 subtable" "Anchor-89" "Mark to base attachment lookup 152 subtable" "Anchor-90" "Mark to base attachment lookup 152 subtable" "Anchor-91" "Mark to base attachment lookup 153 subtable" "Anchor-92" "Mark to base attachment lookup 153 subtable" "Anchor-93" "Mark to base attachment lookup 154 subtable" "Anchor-94" "Mark to base attachment lookup 154 subtable" "Anchor-95" "Mark to base attachment lookup 154 subtable" "Anchor-96" "Mark to base attachment lookup 155 subtable" "Anchor-97" "Mark to base attachment lookup 155 subtable" "Anchor-98" "Mark to base attachment lookup 155 subtable" "Anchor-99" "Mark to base attachment lookup 155 subtable" "Anchor-100" "Mark to base attachment lookup 156 subtable" "Anchor-101" "Mark to base attachment lookup 156 subtable" "Anchor-102" "Mark to base attachment lookup 157 subtable" "Anchor-103" "Mark to base attachment lookup 157 subtable" "Anchor-104" "Mark to base attachment lookup 158 subtable" "Anchor-105" "Mark to base attachment lookup 158 subtable" "Anchor-106" "Mark to base attachment lookup 158 subtable" "Anchor-107" "Mark to base attachment lookup 159 subtable" "Anchor-108" "Mark to base attachment lookup 159 subtable" "Anchor-109" "Mark to base attachment lookup 160 subtable" "Anchor-110" "Mark to base attachment lookup 160 subtable" "Anchor-111" "Mark to base attachment lookup 160 subtable" "Anchor-112" "Mark to base attachment lookup 161 subtable" "Anchor-113" "Mark to base attachment lookup 161 subtable" "Anchor-114" "Mark to base attachment lookup 162 subtable" "Anchor-115" "Mark to base attachment lookup 162 subtable" "Anchor-116" "Mark to base attachment lookup 163 subtable" "Anchor-117" "Mark to base attachment lookup 163 subtable" "Anchor-118" "Mark to base attachment lookup 163 subtable" "Anchor-119" "Mark to base attachment lookup 164 subtable" "Anchor-120" "Mark to base attachment lookup 164 subtable" "Anchor-121" "Mark to base attachment lookup 164 subtable" "Anchor-122" "Mark to base attachment lookup 165 subtable" "Anchor-123" "Mark to base attachment lookup 165 subtable" "Anchor-124" "Mark to base attachment lookup 166 subtable" "Anchor-125" "Mark to base attachment lookup 166 subtable" "Anchor-126" "Mark to base attachment lookup 166 subtable" "Anchor-127" "Mark to base attachment lookup 167 subtable" "Anchor-128" "Mark to base attachment lookup 167 subtable" "Anchor-129" "Mark to base attachment lookup 168 subtable" "Anchor-130" "Mark to base attachment lookup 168 subtable" "Anchor-131" "Mark to base attachment lookup 169 subtable" "Anchor-132" "Mark to base attachment lookup 169 subtable" "Anchor-133" "Mark to base attachment lookup 170 subtable" "Anchor-134" "Mark to base attachment lookup 170 subtable" "Anchor-135" "Mark to base attachment lookup 171 subtable" "Anchor-136" "Mark to base attachment lookup 171 subtable" "Anchor-137" "Mark to base attachment lookup 172 subtable" "Anchor-138" "Mark to base attachment lookup 172 subtable" "Anchor-139" "Mark to base attachment lookup 173 subtable" "Anchor-140" "Mark to base attachment lookup 173 subtable" "Anchor-141" "Mark to base attachment lookup 174 subtable" "Anchor-142" "Mark to base attachment lookup 174 subtable" "Anchor-143" "Mark to base attachment lookup 174 subtable" "Anchor-144" "Mark to base attachment lookup 175 subtable" "Anchor-145" "Mark to base attachment lookup 176 subtable" "Anchor-146" "Mark to base attachment lookup 176 subtable" "Anchor-147" "Mark to base attachment lookup 177 subtable" "Anchor-148" "Mark to base attachment lookup 177 subtable" "Anchor-149" "Mark to base attachment lookup 178 subtable" "Anchor-150" "Mark to base attachment lookup 179 subtable" "Anchor-151" "Mark to base attachment lookup 179 subtable" "Anchor-152" "Mark to base attachment lookup 180 subtable" "Anchor-153" "Mark to base attachment lookup 180 subtable" "Anchor-154" "Mark to base attachment lookup 180 subtable" "Anchor-155" "Mark to base attachment lookup 181 subtable" "Anchor-156" "Mark to base attachment lookup 181 subtable" "Anchor-157" "Mark to base attachment lookup 182 subtable" "Anchor-158" "Mark to base attachment lookup 182 subtable" "Anchor-159" "Mark to base attachment lookup 182 subtable" "Anchor-160" "Mark to base attachment lookup 183 subtable" "Anchor-161" "Mark to base attachment lookup 183 subtable" "Anchor-162" "Mark to base attachment lookup 184 subtable" "Anchor-163" "Mark to base attachment lookup 184 subtable" "Anchor-164" "Mark to base attachment lookup 184 subtable" "Anchor-165" "Mark to base attachment lookup 185 subtable" "Anchor-166" "Mark to base attachment lookup 185 subtable" "Anchor-167" "Mark to base attachment lookup 186 subtable" "Anchor-168" "Mark to base attachment lookup 186 subtable" "Anchor-169" "Mark to base attachment lookup 186 subtable" "Anchor-170" "Mark to base attachment lookup 187 subtable" "Anchor-171" "Mark to base attachment lookup 187 subtable" "Anchor-172" "Mark to base attachment lookup 188 subtable" "Anchor-173" "Mark to base attachment lookup 188 subtable" "Anchor-174" "Mark to base attachment lookup 189 subtable" "Anchor-175" "Mark to base attachment lookup 189 subtable" "Anchor-176" "Mark to base attachment lookup 190 subtable" "Anchor-177" "Mark to base attachment lookup 190 subtable" "Anchor-178" "Mark to base attachment lookup 191 subtable" "Anchor-179" "Mark to base attachment lookup 191 subtable" "Anchor-180" "Mark to base attachment lookup 192 subtable" "Anchor-181" "Mark to base attachment lookup 192 subtable" "Anchor-182" "Mark to base attachment lookup 193 subtable" "Anchor-183" "Mark to base attachment lookup 193 subtable" "Anchor-184" "Mark to base attachment lookup 194 subtable" "Anchor-185" "Mark to base attachment lookup 194 subtable" "Anchor-186" "Mark to base attachment lookup 195 subtable" "Anchor-187" "Mark to base attachment lookup 196 subtable" "Anchor-188" "Mark to base attachment lookup 197 subtable" "Anchor-189" "Mark to base attachment lookup 198 subtable" "Anchor-190" "Mark to base attachment lookup 199 subtable" "Anchor-191" "Mark to base attachment lookup 199 subtable"
-BeginChars: 66407 1021
+BeginChars: 66408 1023
 
 StartChar: space
 Encoding: 32 32 0
@@ -5127,8 +5128,8 @@ LayerCount: 2
 Fore
 Refer: 836 -1 N 1 0 0 1 1102.2 -545.082 2
 Refer: 1018 1646 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph839
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph839
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 dotbelow
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 dotbelow
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph53
 EndChar
 
@@ -5141,10 +5142,10 @@ AnchorPoint: "Anchor-38" 1208 -1105 basechar 0
 AnchorPoint: "Anchor-37" 1024 1075 basechar 0
 LayerCount: 2
 Fore
-Refer: 1018 1646 N 1 0 0 1 0 0 3
-Refer: 838 -1 N 1 0 0 1 1147 -535 2
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph841
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph841
+Refer: 1018 1646 S 1 0 0 1 0 0 3
+Refer: 838 -1 S 1 0 0 1 1147 -535 2
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 threedotsdownbelow
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 threedotsdownbelow
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph54
 EndChar
 
@@ -5159,8 +5160,8 @@ LayerCount: 2
 Fore
 Refer: 834 -1 N 1 0 0 1 1186 689 2
 Refer: 1018 1646 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph837
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph837
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 twodotshorizontalabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 twodotshorizontalabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph55
 EndChar
 
@@ -5173,11 +5174,11 @@ AnchorPoint: "Anchor-38" 1228 -337 basechar 0
 AnchorPoint: "Anchor-37" 1208 1628 basechar 0
 LayerCount: 2
 Fore
-Refer: 1018 1646 N 1 0 0 1 0 0 3
-Refer: 839 -1 N 1 0 0 1 1203.79 786.667 2
+Refer: 1018 1646 S 1 0 0 1 0 0 3
+Refer: 839 -1 S 1 0 0 1 1203.79 786.667 2
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph56
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph842
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph842
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 tahabove
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 tahabove
 EndChar
 
 StartChar: uni062B
@@ -5191,8 +5192,8 @@ LayerCount: 2
 Fore
 Refer: 835 -1 N 1 0 0 1 1188 756 2
 Refer: 1018 1646 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph838
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph838
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 threedotsupabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 threedotsupabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph57
 EndChar
 
@@ -5207,8 +5208,8 @@ LayerCount: 2
 Fore
 Refer: 836 -1 N 1 0 0 1 850.197 292.918 2
 Refer: 10 1581 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph491 glyph839
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph135 glyph839
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph491 dotbelow
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph135 dotbelow
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph58
 EndChar
 
@@ -5223,8 +5224,8 @@ LayerCount: 2
 Fore
 Refer: 838 -1 N 1 0 0 1 864 393 2
 Refer: 10 1581 N 1 0 0 1 0 0 2
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph491 glyph841
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph135 glyph841
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph491 threedotsdownbelow
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph135 threedotsdownbelow
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph59
 EndChar
 
@@ -5418,8 +5419,8 @@ LayerCount: 2
 Fore
 Refer: 833 -1 N 1 0 0 1 575 1544 2
 Refer: 10 1581 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph491 glyph836
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph135 glyph836
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph491 dotabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph135 dotabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph61
 EndChar
 
@@ -5818,8 +5819,8 @@ LayerCount: 2
 Fore
 Refer: 835 -1 N 1 0 0 1 1100 1626 2
 Refer: 19 1587 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph517 glyph838
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph161 glyph838
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph517 threedotsupabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph161 threedotsupabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph82
 EndChar
 
@@ -5970,8 +5971,8 @@ LayerCount: 2
 Fore
 Refer: 21 1589 N 1 0 0 1 0 0 3
 Refer: 833 -1 N 1 0 0 1 1581.03 1687.65 2
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph543 glyph836
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph187 glyph836
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph543 dotabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph187 dotabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph84
 EndChar
 
@@ -6137,8 +6138,8 @@ LayerCount: 2
 Fore
 Refer: 833 -1 N 1 0 0 1 721.026 1105.65 2
 Refer: 23 1591 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph569 glyph836
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph213 glyph836
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph569 dotabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph213 dotabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph86
 EndChar
 
@@ -6322,8 +6323,8 @@ LayerCount: 2
 Fore
 Refer: 833 -1 N 1 0 0 1 293.026 1535.65 2
 Refer: 25 1593 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph595 glyph836
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph239 glyph836
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph595 dotabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph239 dotabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph88
 EndChar
 
@@ -6411,8 +6412,8 @@ SplineSet
  1120 1028 1120 1028 1161 988 c 128,-1,94
  1202 948 1202 948 1243 907 c 0,71,72
 EndSplineSet
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph621 glyph836
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph265 glyph836
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph621 dotabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph265 dotabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph89
 EndChar
 
@@ -6633,8 +6634,8 @@ SplineSet
  205 -369 205 -369 174 -261.5 c 128,-1,107
  143 -154 143 -154 143 -37 c 1,41,42
 EndSplineSet
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph621 glyph837
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph265 glyph837
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph621 twodotshorizontalabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph265 twodotshorizontalabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph90
 EndChar
 
@@ -7214,8 +7215,8 @@ LayerCount: 2
 Fore
 Refer: 833 -1 N 1 0 0 1 813.026 429.65 2
 Refer: 34 1722 N 1 0 0 1 0 0 3
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph836
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph836
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 dotabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 dotabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph96
 EndChar
 
@@ -7409,8 +7410,8 @@ SplineSet
  166 -260 166 -260 154.5 -173 c 128,-1,74
  143 -86 143 -86 143 0 c 0,0,1
 EndSplineSet
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph836
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph836
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 dotabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 dotabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph97
 EndChar
 
@@ -7563,7 +7564,7 @@ LayerCount: 2
 Fore
 Refer: 834 -1 N 1 0 0 1 348 1305 2
 Refer: 37 1729 N 1 0 0 1 0 0 3
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.1 glyph837
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.1 twodotshorizontalabove
 EndChar
 
 StartChar: uni06BE
@@ -8067,8 +8068,8 @@ SplineSet
  203 -350 203 -350 175 -241.5 c 128,-1,81
  147 -133 147 -133 143 -2 c 1,0,1
 EndSplineSet
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph840
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph840
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 twodotshorizontalbelow
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 twodotshorizontalbelow
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph106
 EndChar
 
@@ -8169,8 +8170,8 @@ SplineSet
  86 207 86 207 106.5 226.5 c 128,-1,79
  127 246 127 246 143 264 c 0,0,1
 EndSplineSet
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph840
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph840
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 twodotshorizontalbelow
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 twodotshorizontalbelow
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph108
 EndChar
 
@@ -80982,7 +80983,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph836
+StartChar: dotabove
 Encoding: 66317 -1 833
 Width: 0
 GlyphClass: 4
@@ -81034,7 +81035,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph837
+StartChar: twodotshorizontalabove
 Encoding: 66318 -1 834
 Width: 0
 GlyphClass: 4
@@ -81099,7 +81100,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph838
+StartChar: threedotsupabove
 Encoding: 66319 -1 835
 Width: 0
 GlyphClass: 4
@@ -81173,10 +81174,10 @@ SplineSet
  18 487 18 487 25 481 c 2,57,-1
  188 317 l 2,39,40
 EndSplineSet
-Substitution2: "Single Substitution lookup 117 subtable" glyph930
+Substitution2: "Single Substitution lookup 117 subtable" threedotsupabove.1
 EndChar
 
-StartChar: glyph839
+StartChar: dotbelow
 Encoding: 66320 -1 836
 Width: 0
 GlyphClass: 4
@@ -81221,26 +81222,26 @@ AnchorPoint: "Anchor-35" 0 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
-176 45 m 0,0,1
- 184 37 184 37 185 35 c 128,-1,2
- 186 33 186 33 178 23 c 0,3,4
- 135 -25 135 -25 91 -72 c 128,-1,5
- 47 -119 47 -119 4 -166 c 0,6,7
- -6 -176 -6 -176 -8 -177 c 128,-1,8
- -10 -178 -10 -178 -20 -168 c 0,9,10
- -61 -129 -61 -129 -99 -90 c 128,-1,11
- -137 -51 -137 -51 -176 -12 c 0,12,13
- -186 -2 -186 -2 -186 2 c 0,14,15
- -186 8 -186 8 -176 18 c 0,16,17
- -133 66 -133 66 -89 113 c 128,-1,18
- -45 160 -45 160 -2 207 c 0,19,20
- 4 215 4 215 12 207 c 0,21,22
- 53 166 53 166 94 126 c 128,-1,23
- 135 86 135 86 176 45 c 0,0,1
+176 45 m 4,0,1
+ 184 37 184 37 185 35 c 132,-1,2
+ 186 33 186 33 178 23 c 4,3,4
+ 135 -25 135 -25 91 -72 c 132,-1,5
+ 47 -119 47 -119 4 -166 c 4,6,7
+ -6 -176 -6 -176 -8 -177 c 132,-1,8
+ -10 -178 -10 -178 -20 -168 c 4,9,10
+ -61 -129 -61 -129 -99 -90 c 132,-1,11
+ -137 -51 -137 -51 -176 -12 c 4,12,13
+ -186 -2 -186 -2 -186 2 c 4,14,15
+ -186 8 -186 8 -176 18 c 4,16,17
+ -133 66 -133 66 -89 113 c 132,-1,18
+ -45 160 -45 160 -2 207 c 4,19,20
+ 4 215 4 215 12 207 c 4,21,22
+ 53 166 53 166 94 126 c 132,-1,23
+ 135 86 135 86 176 45 c 4,0,1
 EndSplineSet
 EndChar
 
-StartChar: glyph840
+StartChar: twodotshorizontalbelow
 Encoding: 66321 -1 837
 Width: 0
 GlyphClass: 4
@@ -81320,7 +81321,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph841
+StartChar: threedotsdownbelow
 Encoding: 66322 -1 838
 Width: 0
 GlyphClass: 4
@@ -81416,7 +81417,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph842
+StartChar: tahabove
 Encoding: 66323 -1 839
 Width: 0
 GlyphClass: 4
@@ -81669,7 +81670,7 @@ EndSplineSet
 Substitution2: "Single Substitution lookup 168 subtable" glyph843
 EndChar
 
-StartChar: glyph845
+StartChar: madda
 Encoding: 66326 -1 842
 Width: 0
 GlyphClass: 2
@@ -81731,7 +81732,7 @@ Fore
 Refer: 844 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: glyph847
+StartChar: hamzaabove
 Encoding: 66327 -1 844
 Width: 0
 GlyphClass: 4
@@ -92270,7 +92271,7 @@ SplineSet
  811 1675 811 1675 832.5 1663 c 128,-1,101
  854 1651 854 1651 877 1651 c 0,74,75
 EndSplineSet
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph484 glyph847 glyph108
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph484 hamzaabove glyph108
 EndChar
 
 StartChar: uni0621.2
@@ -92327,7 +92328,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph930
+StartChar: threedotsupabove.1
 Encoding: 66351 -1 927
 Width: 0
 GlyphClass: 4
@@ -92847,7 +92848,7 @@ SplineSet
  1155 1651 1155 1651 1091.5 1571 c 128,-1,263
  1028 1491 1028 1491 969 1427 c 0,99,100
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph134 glyph837 glyph695 glyph472 glyph837 glyph647 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph134 twodotshorizontalabove glyph695 glyph472 twodotshorizontalabove glyph647 glyph47
 EndChar
 
 StartChar: glyph938
@@ -93382,7 +93383,7 @@ SplineSet
  1391 1012 1391 1012 1403 1008 c 128,-1,428
  1415 1004 1415 1004 1456 999 c 1,162,163
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph181 glyph490 glyph839 glyph695 glyph490 glyph837 glyph715 uni0628.7 glyph840 glyph96
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph181 glyph490 dotbelow glyph695 glyph490 twodotshorizontalabove glyph715 uni0628.7 twodotshorizontalbelow glyph96
 EndChar
 
 StartChar: glyph939
@@ -93735,7 +93736,7 @@ SplineSet
  258 -424 258 -424 222 -341 c 128,-1,335
  186 -258 186 -258 168 -168 c 1,158,159
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph112 glyph841 glyph494 glyph836 glyph465 glyph837 glyph680 glyph107
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph112 threedotsdownbelow glyph494 dotabove glyph465 twodotshorizontalabove glyph680 glyph107
 EndChar
 
 StartChar: glyph940
@@ -94133,7 +94134,7 @@ SplineSet
  2427 2523 2427 2523 2468 2483 c 128,-1,332
  2509 2443 2509 2443 2550 2402 c 0,309,310
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph112 glyph839 glyph497 glyph836 glyph523 glyph838 glyph82
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph112 dotbelow glyph497 dotabove glyph523 threedotsupabove glyph82
 EndChar
 
 StartChar: glyph941
@@ -94411,7 +94412,7 @@ SplineSet
  653 -672 653 -672 604 -627 c 128,-1,319
  555 -582 555 -582 522 -547 c 0,278,279
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph110 glyph841 glyph485 glyph841 glyph481 glyph840 glyph791 glyph108
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph110 threedotsdownbelow glyph485 threedotsdownbelow glyph481 twodotshorizontalbelow glyph791 glyph108
 EndChar
 
 StartChar: glyph942
@@ -94629,7 +94630,7 @@ SplineSet
  688 737 688 737 650 725 c 128,-1,299
  612 713 612 713 592 674 c 0,166,167
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph110 glyph841 glyph485 glyph841 glyph481 glyph840 glyph784 glyph98
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph110 threedotsdownbelow glyph485 threedotsdownbelow glyph481 twodotshorizontalbelow glyph784 glyph98
 EndChar
 
 StartChar: glyph943
@@ -94845,7 +94846,7 @@ SplineSet
  291 -694 291 -694 242 -648 c 128,-1,293
  193 -602 193 -602 160 -567 c 0,254,255
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph110 glyph841 glyph485 glyph841 glyph481 glyph840 glyph772 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph110 threedotsdownbelow glyph485 threedotsdownbelow glyph481 twodotshorizontalbelow glyph772 glyph47
 EndChar
 
 StartChar: glyph944
@@ -95148,7 +95149,7 @@ SplineSet
  326 1331 326 1331 304.5 1147 c 128,-1,388
  283 963 283 963 260 776 c 1,248,249
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 glyph841 glyph469 glyph841 glyph494 glyph841 glyph465 glyph841 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 threedotsdownbelow glyph469 threedotsdownbelow glyph494 threedotsdownbelow glyph465 threedotsdownbelow glyph47
 EndChar
 
 StartChar: glyph945
@@ -95414,7 +95415,7 @@ SplineSet
  354 1331 354 1331 332.5 1147 c 128,-1,321
  311 963 311 963 289 776 c 1,181,182
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 glyph841 glyph469 glyph842 glyph494 glyph836 glyph465 glyph837 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 threedotsdownbelow glyph469 tahabove glyph494 dotabove glyph465 twodotshorizontalabove glyph47
 EndChar
 
 StartChar: glyph946
@@ -95622,7 +95623,7 @@ SplineSet
  616 1991 616 1991 623 1985 c 2,228,-1
  786 1821 l 2,207,208
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 glyph836 glyph469 glyph836 glyph494 glyph836 glyph465 glyph836 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 dotabove glyph469 dotabove glyph494 dotabove glyph465 dotabove glyph47
 EndChar
 
 StartChar: glyph947
@@ -95854,7 +95855,7 @@ SplineSet
  1141 1118 1141 1118 1208.5 1144.5 c 128,-1,291
  1276 1171 1276 1171 1350 1171 c 0,181,182
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph128 glyph841 glyph469 glyph842 glyph494 glyph836 glyph465 glyph837 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph128 threedotsdownbelow glyph469 tahabove glyph494 dotabove glyph465 twodotshorizontalabove glyph47
 EndChar
 
 StartChar: glyph948
@@ -96067,7 +96068,7 @@ SplineSet
  1434 1151 1434 1151 1481 1173.5 c 128,-1,253
  1528 1196 1528 1196 1573 1253 c 1,124,125
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph111 glyph839 glyph466 glyph840 glyph485 glyph839 glyph477 glyph840 glyph98
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph111 dotbelow glyph466 twodotshorizontalbelow glyph485 dotbelow glyph477 twodotshorizontalbelow glyph98
 EndChar
 
 StartChar: glyph949
@@ -96313,7 +96314,7 @@ SplineSet
  1989 1427 1989 1427 1994 1418 c 128,-1,300
  1999 1409 1999 1409 2015 1413 c 1,142,143
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph164 glyph466 glyph840 glyph485 glyph841 glyph477 glyph840 glyph98
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph164 glyph466 twodotshorizontalbelow glyph485 threedotsdownbelow glyph477 twodotshorizontalbelow glyph98
 EndChar
 
 StartChar: glyph950
@@ -96575,7 +96576,7 @@ SplineSet
  2183 1640 2183 1640 2155.5 1609.5 c 128,-1,343
  2128 1579 2128 1579 2105 1546 c 0,181,182
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph138 glyph841 glyph466 glyph842 glyph485 glyph836 glyph477 glyph840 glyph98
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph138 threedotsdownbelow glyph466 tahabove glyph485 dotabove glyph477 twodotshorizontalbelow glyph98
 EndChar
 
 StartChar: glyph951
@@ -96862,7 +96863,7 @@ SplineSet
  1864 2716 1864 2716 1870 2710 c 2,398,-1
  2034 2546 l 2,380,381
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph141 glyph841 glyph518 glyph838 glyph485 glyph837 glyph477 glyph840 glyph98
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph141 threedotsdownbelow glyph518 threedotsupabove glyph485 twodotshorizontalabove glyph477 twodotshorizontalbelow glyph98
 EndChar
 
 StartChar: glyph952
@@ -97212,7 +97213,7 @@ SplineSet
  2550 991 2550 991 2529.5 961.5 c 128,-1,386
  2509 932 2509 932 2476 944 c 1,225,226
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph128 glyph841 glyph469 glyph842 glyph494 glyph836 glyph487 glyph837 uni0628.18 glyph840 glyph97
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph128 threedotsdownbelow glyph469 tahabove glyph494 dotabove glyph487 twodotshorizontalabove uni0628.18 twodotshorizontalbelow glyph97
 EndChar
 
 StartChar: glyph953
@@ -97592,7 +97593,7 @@ SplineSet
  2701 1808 2701 1808 2768.5 1835 c 128,-1,409
  2836 1862 2836 1862 2910 1862 c 0,225,226
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 glyph841 glyph469 glyph842 glyph494 glyph836 glyph487 glyph837 uni0628.18 glyph840 glyph97
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 threedotsdownbelow glyph469 tahabove glyph494 dotabove glyph487 twodotshorizontalabove uni0628.18 twodotshorizontalbelow glyph97
 EndChar
 
 StartChar: glyph954
@@ -97889,7 +97890,7 @@ SplineSet
  2488 403 2488 403 2494 397 c 2,381,-1
  2658 233 l 2,360,361
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph141 glyph841 glyph518 glyph838 glyph468 glyph837 glyph465 glyph840 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph141 threedotsdownbelow glyph518 threedotsupabove glyph468 twodotshorizontalabove glyph465 twodotshorizontalbelow glyph47
 EndChar
 
 StartChar: glyph955
@@ -98193,7 +98194,7 @@ SplineSet
  1106 492 l 1,380,-1
  1104 492 l 1,203,204
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 glyph841 glyph469 glyph842 glyph492 glyph836 glyph468 glyph836 glyph465 glyph840 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 threedotsdownbelow glyph469 tahabove glyph492 dotabove glyph468 dotabove glyph465 twodotshorizontalbelow glyph47
 EndChar
 
 StartChar: glyph956
@@ -98503,7 +98504,7 @@ SplineSet
  1673 1247 1673 1247 1708 1280 c 1,390,391
  1790 1386 1790 1386 1724 1393 c 1,203,204
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 glyph841 glyph469 glyph842 glyph492 glyph836 glyph485 glyph836 glyph477 glyph840 glyph98
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph155 threedotsdownbelow glyph469 tahabove glyph492 dotabove glyph485 dotabove glyph477 twodotshorizontalbelow glyph98
 EndChar
 
 StartChar: glyph957
@@ -98829,7 +98830,7 @@ SplineSet
  1839 1063 1839 1063 1849.5 1057 c 128,-1,303
  1860 1051 1860 1051 1880 1053 c 0,131,132
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph398 glyph622 glyph836 glyph471 glyph837 glyph82
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph398 glyph622 dotabove glyph471 twodotshorizontalabove glyph82
 EndChar
 
 StartChar: glyph958
@@ -99131,7 +99132,7 @@ SplineSet
  2781 1665 2781 1665 2789.5 1629 c 128,-1,283
  2798 1593 2798 1593 2798 1563 c 0,113,114
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph276 glyph837 glyph622 glyph837 glyph471 glyph836 glyph81
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph276 twodotshorizontalabove glyph622 twodotshorizontalabove glyph471 dotabove glyph81
 EndChar
 
 StartChar: glyph959
@@ -99416,7 +99417,7 @@ SplineSet
  201 784 201 784 225.5 812 c 128,-1,278
  250 840 250 840 289 840 c 0,124,125
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph148 glyph841 glyph748 glyph503 glyph841 glyph98
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph148 threedotsdownbelow glyph748 glyph503 threedotsdownbelow glyph98
 EndChar
 
 StartChar: glyph960
@@ -99721,7 +99722,7 @@ SplineSet
  1772 782 1772 782 1795.5 810 c 128,-1,279
  1819 838 1819 838 1823 895 c 1,124,125
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph368 glyph528 glyph838 glyph621 glyph837 glyph47
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph368 glyph528 threedotsupabove glyph621 twodotshorizontalabove glyph47
 EndChar
 
 StartChar: A
@@ -100557,7 +100558,8 @@ SplineSet
  5048 1530 5048 1530 5004 1484 c 128,-1,746
  4960 1438 4960 1438 4960 1372 c 0,731,732
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph119 glyph836 glyph622 glyph836 glyph471 glyph840 glyph81 space glyph114 glyph836 glyph518 glyph916 glyph837 glyph595 glyph739 glyph477 glyph840 glyph90
+LCarets2: 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph119 dotabove glyph622 dotabove glyph471 twodotshorizontalbelow glyph81 space glyph114 dotabove glyph518 glyph916 twodotshorizontalabove glyph595 glyph739 glyph477 twodotshorizontalbelow glyph90
 EndChar
 
 StartChar: B
@@ -101113,7 +101115,7 @@ SplineSet
  3961 3090 3961 3090 4002 3050.5 c 128,-1,469
  4043 3011 4043 3011 4084 2970 c 0,446,447
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph114 glyph836 glyph518 glyph916 glyph837 glyph595 glyph739 glyph477 glyph840 glyph90
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph114 dotabove glyph518 glyph916 twodotshorizontalabove glyph595 glyph739 glyph477 twodotshorizontalbelow glyph90
 EndChar
 
 StartChar: zero
@@ -104618,8 +104620,8 @@ LayerCount: 2
 Fore
 Refer: 994 1610 N 1 0 0 1 0 0 3
 Refer: 843 1620 N 1 0 0 1 440 1249 2
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph847
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph847
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 hamzaabove
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 hamzaabove
 MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph106 uni0654
 EndChar
 
@@ -105001,7 +105003,7 @@ SplineSet
  133 -531 133 -531 84 -486 c 128,-1,345
  35 -441 35 -441 2 -406 c 0,304,305
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph128 glyph841 glyph469 glyph840 glyph494 glyph841 glyph465 glyph840 glyph62
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 109 subtable" glyph128 threedotsdownbelow glyph469 twodotshorizontalbelow glyph494 threedotsdownbelow glyph465 twodotshorizontalbelow glyph62
 EndChar
 
 StartChar: afii57470
@@ -105027,7 +105029,7 @@ AnchorPoint: "Anchor-37" 296 1761 basechar 0
 LayerCount: 2
 Fore
 Refer: 38 1731 N 1 0 0 1 0 0 3
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.1 glyph837
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" uni06C1.1 twodotshorizontalabove
 EndChar
 
 StartChar: afii57443
@@ -105069,9 +105071,9 @@ LayerCount: 2
 Fore
 Refer: 837 -1 N 1 0 0 1 621 -963 2
 Refer: 42 1740 N 1 0 0 1 0 0 3
-MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 glyph840
-MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 glyph840
-MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph106 glyph840
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 twodotshorizontalbelow
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 twodotshorizontalbelow
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph106 twodotshorizontalbelow
 EndChar
 
 StartChar: afii57413
@@ -105642,6 +105644,8 @@ StartChar: glyph45
 Encoding: 65537 -1 1020
 Width: 2089
 Flags: W
+AnchorPoint: "Anchor-35" 1074 -607 basechar 0
+AnchorPoint: "Anchor-36" 1074 -607 basechar 0
 AnchorPoint: "Anchor-38" 1078 -358 basechar 0
 AnchorPoint: "Anchor-37" 1095 952 basechar 0
 LayerCount: 2
@@ -105678,6 +105682,100 @@ SplineSet
  633 -119 633 -119 510 -106 c 1,0,1
 EndSplineSet
 Substitution2: "Single Substitution lookup 111 subtable" glyph44
+EndChar
+
+StartChar: twodotsverticalbelow
+Encoding: 66407 -1 1021
+Width: 0
+Flags: W
+AnchorPoint: "Anchor-35" 0 0 mark 0
+AnchorPoint: "Anchor-100" 0 0 mark 0
+AnchorPoint: "Anchor-103" 0 0 mark 0
+AnchorPoint: "Anchor-104" 0 0 mark 0
+AnchorPoint: "Anchor-107" 0 0 mark 0
+AnchorPoint: "Anchor-109" 0 0 mark 0
+AnchorPoint: "Anchor-115" 0 0 mark 0
+AnchorPoint: "Anchor-116" 0 0 mark 0
+AnchorPoint: "Anchor-119" 0 0 mark 0
+AnchorPoint: "Anchor-124" 0 0 mark 0
+AnchorPoint: "Anchor-127" 0 0 mark 0
+AnchorPoint: "Anchor-129" 0 0 mark 0
+AnchorPoint: "Anchor-131" 0 0 mark 0
+AnchorPoint: "Anchor-133" 0 0 mark 0
+AnchorPoint: "Anchor-135" 0 0 mark 0
+AnchorPoint: "Anchor-138" 0 0 mark 0
+AnchorPoint: "Anchor-139" 0 0 mark 0
+AnchorPoint: "Anchor-141" 0 0 mark 0
+AnchorPoint: "Anchor-145" 0 0 mark 0
+AnchorPoint: "Anchor-147" 0 0 mark 0
+AnchorPoint: "Anchor-150" 0 0 mark 0
+AnchorPoint: "Anchor-152" 0 0 mark 0
+AnchorPoint: "Anchor-155" 0 0 mark 0
+AnchorPoint: "Anchor-157" 0 0 mark 0
+AnchorPoint: "Anchor-160" 0 0 mark 0
+AnchorPoint: "Anchor-162" 0 0 mark 0
+AnchorPoint: "Anchor-165" 0 0 mark 0
+AnchorPoint: "Anchor-167" 0 0 mark 0
+AnchorPoint: "Anchor-170" 0 0 mark 0
+AnchorPoint: "Anchor-172" 0 0 mark 0
+AnchorPoint: "Anchor-174" 0 0 mark 0
+AnchorPoint: "Anchor-176" 0 0 mark 0
+AnchorPoint: "Anchor-179" 0 0 mark 0
+AnchorPoint: "Anchor-180" 0 0 mark 0
+AnchorPoint: "Anchor-182" 0 0 mark 0
+AnchorPoint: "Anchor-184" 0 0 mark 0
+AnchorPoint: "Anchor-190" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+176 -285 m 4,0,1
+ 184 -293 184 -293 185 -295 c 132,-1,2
+ 186 -297 186 -297 178 -307 c 4,3,4
+ 135 -355 135 -355 91 -402 c 132,-1,5
+ 47 -449 47 -449 4 -496 c 4,6,7
+ -6 -506 -6 -506 -8 -507 c 132,-1,8
+ -10 -508 -10 -508 -20 -498 c 4,9,10
+ -61 -459 -61 -459 -99 -420 c 132,-1,11
+ -137 -381 -137 -381 -176 -342 c 4,12,13
+ -186 -332 -186 -332 -186 -328 c 4,14,15
+ -186 -322 -186 -322 -176 -312 c 4,16,17
+ -133 -264 -133 -264 -89 -217 c 132,-1,18
+ -45 -170 -45 -170 -2 -123 c 4,19,20
+ 4 -115 4 -115 12 -123 c 4,21,22
+ 53 -164 53 -164 94 -204 c 132,-1,23
+ 135 -244 135 -244 176 -285 c 4,0,1
+176 45 m 0,24,25
+ 184 37 184 37 185 35 c 128,-1,26
+ 186 33 186 33 178 23 c 0,27,28
+ 135 -25 135 -25 91 -72 c 128,-1,29
+ 47 -119 47 -119 4 -166 c 0,30,31
+ -6 -176 -6 -176 -8 -177 c 128,-1,32
+ -10 -178 -10 -178 -20 -168 c 0,33,34
+ -61 -129 -61 -129 -99 -90 c 128,-1,35
+ -137 -51 -137 -51 -176 -12 c 0,36,37
+ -186 -2 -186 -2 -186 2 c 0,38,39
+ -186 8 -186 8 -176 18 c 0,40,41
+ -133 66 -133 66 -89 113 c 128,-1,42
+ -45 160 -45 160 -2 207 c 0,43,44
+ 4 215 4 215 12 207 c 0,45,46
+ 53 166 53 166 94 126 c 128,-1,47
+ 135 86 135 86 176 45 c 0,24,25
+EndSplineSet
+EndChar
+
+StartChar: uni067B
+Encoding: 1659 1659 1022
+Width: 2306
+Flags: W
+AnchorPoint: "Anchor-37" 1024 1075 basechar 0
+AnchorPoint: "Anchor-38" 1208 -1105 basechar 0
+LayerCount: 2
+Fore
+Refer: 1021 -1 N 1 0 0 1 1138 -522 2
+Refer: 1018 1646 N 1 0 0 1 0 0 3
+MultipleSubs2: "'fina' Terminal Forms in Arabic lookup 1 subtable" glyph45 twodotsverticalbelow
+MultipleSubs2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph109 twodotsverticalbelow
+MultipleSubs2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph465 twodotsverticalbelow
 EndChar
 EndChars
 EndSplineFont
