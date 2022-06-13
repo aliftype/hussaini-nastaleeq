@@ -8,6 +8,12 @@ feature mark {
 
   pos uni0628.8 [glyph837 glyph836 glyph847] uni06C1.1 glyph837' <0 650 0 0>;
   pos uni0628.8 [glyph838 glyph842] uni06C1.1 glyph837' <0 1000 0 0>;
+
+  @DotsBelow = [glyph839 glyph840 glyph841];
+  lookupflag UseMarkFilteringSet @DotsBelow;
+
+  pos [glyph840 glyph841]' <200 0 0 0> glyph107' <0 0 0 0> [glyph840 glyph841]' <-200 -150 0 0>;
+  pos glyph839' <150 0 0 0> glyph107' <0 0 0 0> [glyph840 glyph841]' <0 -150 0 0>;
 } mark;
 
 # vowel marks above dots/shadda
