@@ -26,6 +26,9 @@ ttf: $(TTF)
 $(NAME).ttf: $(NAME).sfd $(NAME).fea Makefile
 	@echo "Building $@"
 	@$(PY) -c "$$SCRIPT" $< $@ $(NAME).fea
+	@ttx -q -x FFTM -o $@.ttx $@
+	@ttx -q -o $@ $@.ttx
+	@rm -f $@.ttx
 
 dist: $(TTF)
 	@echo "Making dist tarball"
