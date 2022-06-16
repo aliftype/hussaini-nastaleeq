@@ -27,6 +27,8 @@ export SCRIPT
 
 SFD=$(NAME:%=%.sfd)
 TTF=$(NAME:%=%.ttf)
+WOFF=$(NAME:%=%.woff)
+WOFF2=$(NAME:%=%.woff2)
 
 all: ttf
 
@@ -36,13 +38,19 @@ $(NAME).ttf: $(NAME).sfd $(NAME).fea Makefile
 	@echo "Building $@"
 	@$(PY) -c "$$SCRIPT" $< $@ $(NAME).fea $(OPT)
 
-dist: $(TTF)
+%.woff: %.ttf
+	woff $<
+
+%.woff2: %.ttf
+	woff2_compress $<
+
+dist: $(TTF) $(WOFF) $(WOFF2)
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)
-	@cp $(SFD) $(TTF) $(DIST)
+	@cp $(SFD) $(TTF) $(WOFF) $(WOFF2) $(DIST)
 	@cp Makefile LICENSE $(DIST)
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
 
 clean:
-	@rm -rf $(TTF) $(DIST) $(DIST).zip
+	@rm -rf $(TTF) $(WOFF) $(WOFF2) $(DIST) $(DIST).zip
