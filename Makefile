@@ -3,22 +3,25 @@ VERSION=0.02
 
 DIST=$(NAME)-$(VERSION)
 
+OPT ?= t
+
 PY=python3
 
 define SCRIPT
 import sys
 import fontforge
-from fontTools.ttLib import TTFont
 f = fontforge.open(sys.argv[1])
 f.mergeFeature(sys.argv[3])
 f.version = "$(VERSION)"
 f.generate(sys.argv[2], flags=("omit-instructions", "opentype", "no-mac-names"))
 f.close()
-f = TTFont(sys.argv[2], lazy=False)
-f.ensureDecompiled()
-f["post"].formatType = 3
-del f["FFTM"]
-f.save(sys.argv[2])
+if sys.argv[4] == "t":
+  from fontTools.ttLib import TTFont
+  f = TTFont(sys.argv[2], lazy=False)
+  f.ensureDecompiled()
+  f["post"].formatType = 3
+  del f["FFTM"]
+  f.save(sys.argv[2])
 endef
 export SCRIPT
 
@@ -31,7 +34,7 @@ ttf: $(TTF)
 
 $(NAME).ttf: $(NAME).sfd $(NAME).fea Makefile
 	@echo "Building $@"
-	@$(PY) -c "$$SCRIPT" $< $@ $(NAME).fea
+	@$(PY) -c "$$SCRIPT" $< $@ $(NAME).fea $(OPT)
 
 dist: $(TTF)
 	@echo "Making dist tarball"
