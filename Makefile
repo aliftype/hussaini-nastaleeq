@@ -46,9 +46,10 @@ $(NAME).ttf: $(NAME).sfd $(NAME).fea Makefile
 
 dist: $(TTF) $(WOFF) $(WOFF2)
 	@echo "Making dist tarball"
-	@mkdir -p $(DIST)
-	@cp $(SFD) $(TTF) $(WOFF) $(WOFF2) $(DIST)
-	@cp Makefile LICENSE $(DIST)
+	@mkdir -p $(DIST)/{desktop,web}
+	@cp $(TTF) $(DIST)/desktop
+	@cp $(WOFF) $(WOFF2) $(DIST)/web
+	@cp LICENSE $(DIST)
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
 
