@@ -3,7 +3,7 @@ FontName: HussainiNastaleeq
 FullName: Hussaini Nastaleeq
 FamilyName: Hussaini Nastaleeq
 Weight: Regular
-Copyright: Copyright (c) www.crulp.org, 2003. All rights reserved. Portions copyright (c) 2008, 2012 by Khaled Hosny <khaled@aliftype.com>.
+Copyright: Copyright (c) www.crulp.org, 2003. All rights reserved. Portions copyright (c) 2008, 2012, 2022 by Khaled Hosny <khaled@aliftype.com>.
 Version: 0.02
 ItalicAngle: 0
 UnderlinePosition: -256
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1051668545
-ModificationTime: 1655347133
+ModificationTime: 1655347544
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
