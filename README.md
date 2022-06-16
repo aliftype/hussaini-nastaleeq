@@ -7,4 +7,4 @@ by Nafees Nastaleeq.
 ![نظر الله لي فأرشد أبنائي فشدوا إلي العلا أي شد][2]
 
  [1]: http://www.cle.org.pk/software/localization/Fonts/nafeesNastaleeq.html "Nafees Nastaleeq web page"
- [2]: https://github.com/khaledhosny/hussaini-nastaleeq/raw/master/sample.png "Font sample"
+ [2]: https://github.com/aliftype/hussaini-nastaleeq/raw/master/sample.png "Font sample"
