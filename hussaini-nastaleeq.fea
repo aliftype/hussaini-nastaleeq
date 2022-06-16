@@ -25,7 +25,7 @@ feature mkmk {
   markClass [uni064E uni064B]         <anchor  20 -102>      @mkmkA;
   markClass [uni064F]                 <anchor -61 -122>      @mkmkA;
   markClass [uni0651 uni064C uni0657] <anchor  0   0  >      @mkmkA;
-  markClass [uni0652]                 <anchor -10 -71 >      @mkmkA;
+  markClass [uni0652 uni06E1]         <anchor -10 -71 >      @mkmkA;
   markClass [uni0658]                 <anchor  51  30 >      @mkmkA;
 
   pos mark  [dotabove twodotshorizontalabove] <anchor  0   500> mark @mkmkA;
