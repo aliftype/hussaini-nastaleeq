@@ -12,7 +12,7 @@ f = fontforge.open(sys.argv[1])
 if len(sys.argv) > 3:
   f.mergeFeature(sys.argv[3])
 f.version = "$(VERSION)"
-f.generate(sys.argv[2], flags=("omit-instructions", "opentype"))
+f.generate(sys.argv[2], flags=("omit-instructions", "opentype", "no-mac-names"))
 endef
 export SCRIPT
 
