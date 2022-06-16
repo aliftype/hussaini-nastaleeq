@@ -4,7 +4,7 @@ FullName: Hussaini Nastaleeq
 FamilyName: Hussaini Nastaleeq
 Weight: Regular
 Copyright: Copyright (c) www.crulp.org, 2003. All rights reserved. Portions copyright (c) 2008, 2012, 2022 by Khaled Hosny <khaled@aliftype.com>.
-Version: 0.02
+Version: 0.03
 ItalicAngle: 0
 UnderlinePosition: -256
 UnderlineWidth: 102
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1051668545
-ModificationTime: 1655395922
+ModificationTime: 1655398601
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
