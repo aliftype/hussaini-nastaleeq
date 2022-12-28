@@ -20,6 +20,15 @@ feature mark {
       [twodotshorizontalbelow threedotsdownbelow]' <0 -150 0 0>;
 } mark;
 
+# یرِ
+feature mark {
+  @TwoDotsAndKasra = [twodotshorizontalbelow uni0650];
+  lookupflag UseMarkFilteringSet @TwoDotsAndKasra;
+
+  pos uni0628.1 twodotshorizontalbelow' <150 0 0 0> glyph65 uni0650' <0 50 0 0>;
+  pos uni0628.1 twodotshorizontalbelow' <150 0 0 0> uni0650 glyph65 uni0650' <0 50 0 0>;
+} mark;
+
 # vowel marks above dots/shadda
 feature mkmk {
   markClass [uni064E uni064B]         <anchor  20 -102>      @mkmkA;
