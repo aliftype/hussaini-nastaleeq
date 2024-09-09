@@ -29,12 +29,13 @@ SFD=$(NAME:%=%.sfd)
 TTF=$(NAME:%=%.ttf)
 WOFF=$(NAME:%=%.woff)
 WOFF2=$(NAME:%=%.woff2)
+SVG=sample.svg
 
-all: ttf
-
+all: ttf svg
 ttf: $(TTF)
+svg: $(SVG)
 
-$(NAME).ttf: $(NAME).sfd $(NAME).fea Makefile
+$(NAME).ttf: $(NAME).sfd $(NAME).fea
 	@echo "Building $@"
 	@$(PY) -c "$$SCRIPT" $< $@ $(NAME).fea $(OPT)
 
@@ -43,6 +44,13 @@ $(NAME).ttf: $(NAME).sfd $(NAME).fea Makefile
 
 %.woff2: %.ttf
 	woff2_compress $<
+
+%.pdf: %.tex $(TTF)
+	lualatex --interaction=batchmode $<
+
+%.svg: %.pdf
+	pdftocairo -svg $< $@
+
 
 dist: $(TTF) $(WOFF) $(WOFF2)
 	@echo "Making dist tarball"

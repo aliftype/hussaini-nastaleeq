@@ -5,7 +5,7 @@ usable for Arabic users and other general fixes.
 It is named after Syed Nafees Al-Hussaini, whose calligraphy style was the model
 for Nafees Nastaleeq.
 
-![نظر الله لي فأرشد أبنائي فشدوا إلي العلا أي شد][2]
+![اٹھانہ شیشہ گرانِ فرنگ کے احساں، سفالِ ہند سے مینا و جام پیداکر –اقبال][2]
 
  [1]: http://www.cle.org.pk/software/localization/Fonts/nafeesNastaleeq.html "Nafees Nastaleeq web page"
- [2]: sample.png "Font sample"
+ [2]: sample.svg "Font sample"
