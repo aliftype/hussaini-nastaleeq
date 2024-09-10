@@ -13,15 +13,11 @@ import fontforge
 f = fontforge.open(sys.argv[1])
 f.mergeFeature(sys.argv[3])
 f.version = "$(VERSION)"
-f.generate(sys.argv[2], flags=("omit-instructions", "opentype", "no-mac-names"))
-f.close()
+flags = ["omit-instructions", "opentype", "no-mac-names"]
 if sys.argv[4] == "t":
-  from fontTools.ttLib import TTFont
-  f = TTFont(sys.argv[2], lazy=False)
-  f.ensureDecompiled()
-  f["post"].formatType = 3
-  del f["FFTM"]
-  f.save(sys.argv[2])
+  flags += ["short-post", "no-FFTM-table"]
+f.generate(sys.argv[2], flags=flags)
+f.close()
 endef
 export SCRIPT
 
@@ -37,7 +33,7 @@ svg: $(SVG)
 
 $(NAME).ttf: $(NAME).sfd $(NAME).fea
 	@echo "Building $@"
-	@$(PY) -c "$$SCRIPT" $< $@ $(NAME).fea $(OPT)
+	fontforge -c "$$SCRIPT" $< $@ $(NAME).fea $(OPT)
 
 %.woff: %.ttf
 	woff $<
