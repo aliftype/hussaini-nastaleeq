@@ -1,2 +1,8 @@
 /venv
+/sample.aux
+/sample.log
+/sample.pdf
+/hussaini-nastaleeq.woff
+/hussaini-nastaleeq.woff2
 *.gggls
+.DS_Store
