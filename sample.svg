@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="898.895" height="329.621" viewBox="0 0 898.895 329.621">
+<style>
+ @media (prefers-color-scheme: dark) {
+  use:not([fill]) {
+      fill: white;
+  }
+ }
+</style>
 <defs>
 <g>
 <g id="glyph-0-0">

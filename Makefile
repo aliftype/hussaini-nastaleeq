@@ -21,6 +21,17 @@ f.close()
 endef
 export SCRIPT
 
+define SVG_CSS
+<style>
+ @media (prefers-color-scheme: dark) {
+  use:not([fill]) {
+      fill: white;
+  }
+ }
+</style>
+endef
+export SVG_CSS
+
 SFD=$(NAME:%=%.sfd)
 TTF=$(NAME:%=%.ttf)
 WOFF=$(NAME:%=%.woff)
@@ -46,6 +57,7 @@ $(NAME).ttf: $(NAME).sfd $(NAME).fea
 
 %.svg: %.pdf
 	pdftocairo -svg $< $@
+	sed -i 's/<defs>/echo "$$SVG_CSS";echo "&"/e' $@
 
 
 dist: $(TTF) $(WOFF) $(WOFF2)
